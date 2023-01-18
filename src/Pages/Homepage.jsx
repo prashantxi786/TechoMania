@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from '../Components/Footer'
 import Carousel from '../Components/HomePage.Carousel'
 import Navbar from '../Components/Navbar'
 
@@ -15,7 +16,7 @@ const Homepage = () => {
     <div>
         <Navbar/>
         <Carousel cardsArr={arr}/>
-        
+        <Footer/>
     </div>
 
   )
