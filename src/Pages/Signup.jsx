@@ -19,9 +19,15 @@ const Signup = () => {
   const validateFields = (values) => {
     const errors = {};
     if (!values.firstName) errors.fName = 'Required';
-    else if (!values.lastName) errors.lName = 'Required';
-    else if (!values.password) errors.password = 'Required';
-    else if (!values.confirmPass) errors.cPass = 'Required';
+    if (!values.lastName) errors.lName = 'Required';
+
+    if (!values.email) errors.email = 'Required';
+    else if (!/^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i.test(values.email)) {
+      errors.email = 'Invalid email address';
+    }
+
+    if (!values.password) errors.password = 'Required';
+    if (!values.confirmPass) errors.cPass = 'Required';
     else if (values.confirmPass !== values.password) {
       errors.cPass = "Password doesn't match";
     }
@@ -86,9 +92,8 @@ const Signup = () => {
         >
           <Heading fontWeight='semibold'>Create an Account</Heading>
 
-          <Formik>
-            initialValues=
-            {{
+          <Formik
+            initialValues={{
               firstName: '',
               lastName: '',
               email: '',
@@ -96,31 +101,66 @@ const Signup = () => {
               confirmPass: ''
             }}
             validate={validateFields}
-            onSubmit=
-            {(values, { setSubmitting }) => {
+            onSubmit={(values, { setSubmitting }) => {
               setTimeout(() => {
                 alert(JSON.stringify(values, null, 2));
                 setSubmitting(false);
               }, 1000);
             }}
-            {({ form, field, isSubmitting }) => (
+          >
+            {({ isSubmitting, values }) => (
               <Form>
-                <Field type='text' name='firstName'>{({field, form}) => (
-                  <FormControl isInvalid={form.errors.fname && form.touched.name}>
-                    
-                  </FormControl>
-                )}</Field>
-                <FormErrorMessage>{form.errors.fName}</FormErrorMessage>
-                <Field type='text' name='firstName' />
-                <FormErrorMessage name='firstName' component='div' />
+                <Flex justify='center' align='center' mt='6' gap='2'>
+                  <Field type='text' name='firstName' validate={values}>
+                    {({ field, form }) => (
+                      <FormControl
+                        isInvalid={form.errors.fName && form.touched.firstName}
+                      >
+                        <FormLabel>First Name:</FormLabel>
+                        <Input {...field} placeholder='First Name' />
+                        {/* <FormErrorMessage>{form.errors.fName}</FormErrorMessage> */}
+                      </FormControl>
+                    )}
+                  </Field>
+
+                  <Field type='text' name='lastName' validate={values}>
+                    {({ field, form }) => (
+                      <FormControl
+                        isInvalid={form.errors.lName && form.touched.lastName}
+                      >
+                        <FormLabel>Last Name:</FormLabel>
+                        <Input {...field} placeholder='Last Name' />
+                        {/* <FormErrorMessage>{form.errors.lName}</FormErrorMessage> */}
+                      </FormControl>
+                    )}
+                  </Field>
+                </Flex>
+                <Field type='email' name='email' validate={values}>
+                  {({ field, form }) => (
+                    <FormControl
+                      isInvalid={form.errors.email && form.touched.email}
+                    >
+                      <FormLabel>Your Email:</FormLabel>
+                      <Input {...field} placeholder='Email Address' />
+                      <FormErrorMessage>{form.errors.email}</FormErrorMessage>
+                    </FormControl>
+                  )}
+                </Field>
               </Form>
             )}
-            <form>
+          </Formik>
+        </Box>
+      </Flex>
+    </Box>
+  );
+};
+
+export default Signup;
+
+/*
+<form>
               <Flex justify='center' align='center' mt='6' gap='2'>
-                <FormControl isRequired>
-                  <FormLabel isRequired>First Name:</FormLabel>
-                  <Input type='text' placeholder='First Name' />
-                </FormControl>
+                <FormControl isRequired></FormControl>
 
                 <FormControl isRequired>
                   <FormLabel>Last Name:</FormLabel>
@@ -158,11 +198,4 @@ const Signup = () => {
                 Create Account
               </Button>
             </form>
-          </Formik>
-        </Box>
-      </Flex>
-    </Box>
-  );
-};
-
-export default Signup;
+ */
