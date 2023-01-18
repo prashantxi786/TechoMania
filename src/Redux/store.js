@@ -2,9 +2,9 @@ import {
   compose,
   combineReducers,
   applyMiddleware,
-  legacy_createStore
-} from 'redux';
-import thunk from 'redux-thunk';
+  legacy_createStore,
+} from "redux";
+import thunk from "redux-thunk";
 
 const rootReducer = combineReducers({
   // authManager: authReducer
