@@ -29,16 +29,16 @@ const MidSection = () => {
         {/* Gird images section */}
         <Grid m="auto" w="95%" templateColumns='repeat(2, 1fr)' gap="5" >
         <GridItem>
-            <Link><Image src="https://www.adorama.com/col/UIimages/homepage/evergreen-banners/Callout_Image_Used.jpg"/></Link>
+            <Link><Image src=""/></Link>
           </GridItem>
           <GridItem>
-            <Link><Image src="https://www.adorama.com/col/UIimages/homepage/evergreen-banners/Callout_Image_Sell.jpg"/></Link>
+            <Link><Image src=""/></Link>
           </GridItem>
           <GridItem>
-            <Link><Image src="https://www.adorama.com/col/UIimages/homepage/evergreen-banners/Callout_Students.jpg"/></Link>
+            <Link><Image src=""/></Link>
           </GridItem>
           <GridItem>
-            <Link><Image src="https://www.adorama.com/col/UIimages/homepage/evergreen-banners/Callout_Rentals.jpg"/></Link>
+            <Link><Image src=""/></Link>
           </GridItem>
           
           
