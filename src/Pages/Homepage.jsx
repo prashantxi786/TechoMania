@@ -1,6 +1,7 @@
 import React from 'react'
 import Footer from '../Components/Footer'
-import Carousel from '../Components/HomePage.Carousel'
+import Carousel from '../Components/HomepageComponents/HomePage.Carousel'
+import MidSection from '../Components/HomepageComponents/MidSection'
 import Navbar from '../Components/Navbar'
 
 const Homepage = () => {
@@ -16,6 +17,7 @@ const Homepage = () => {
     <div>
         <Navbar/>
         <Carousel cardsArr={arr}/>
+        <MidSection/>
         <Footer/>
     </div>
 
