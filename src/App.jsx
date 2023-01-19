@@ -1,14 +1,13 @@
 import './App.css';
-import AdminPanel from './Components/Admin/AdNavbar';
-import Signup from './Pages/Signup';
+import Homepage from './Pages/Homepage';
+// import Signup from './Pages/Signup';
+import AdminPanel from "./Components/Admin/AdNavbar"
 
 function App() {
   return (
     <div className='App'>
-      {/* <AdminPanel/> */}
-      {/* <Signup /> */}
-      {/* <AllRoutes/> */}
-      <AdminPanel/>
+     <AdminPanel/>
+     {/* <Homepage/> */}
     </div>
   );
 }
