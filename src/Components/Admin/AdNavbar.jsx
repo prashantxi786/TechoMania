@@ -32,16 +32,20 @@ import {
   FiMenu,
   FiBell,
   FiChevronDown,
+  FiServer,
+  FiLayers,
 } from "react-icons/fi";
 import AdRoutes from "./AdRoutes";
 import { Link } from "react-router-dom";
 import logoImage from "../../Used_Images/TechoMania_without_name_logo.png";
+import { MdOutlinePaid } from "react-icons/md";
+import { FaBeer } from "react-icons/fa";
 
 const LinkItems = [
   { name: "Dashboard", to: "/admin", icon: FiHome },
-  { name: "Products", to: "/admin/products", icon: FiTrendingUp },
-  { name: "Orders", to: "/admin/orders", icon: FiCompass },
-  { name: "Checkout", to: "/admin/checkout", icon: FiStar },
+  { name: "Products", to: "/admin/products", icon: FiServer },
+  { name: "Orders", to: "/admin/orders", icon: FiLayers },
+  { name: "Checkout", to: "/admin/checkout", icon: MdOutlinePaid },
   { name: "Settings", to: "/admin/settings", icon: FiSettings },
 ];
 
@@ -78,7 +82,6 @@ export default function AdminPanel() {
 const SidebarContent = ({ onClose, ...rest }) => {
   return (
     <Box
-      border="11px solid blue"
       transition="1s ease"
       bg={useColorModeValue("white", "gray.900")}
       borderRight="1px"
@@ -88,18 +91,11 @@ const SidebarContent = ({ onClose, ...rest }) => {
       h="full"
       {...rest}
     >
-      <Flex
-        h="20"
-        alignItems="center"
-        mx="8"
-        justifyContent="space-between"
-        border="1px solid blue"
-      >
-        <Flex >
-          <Box h="20px" w="20px">
-          <Image src={logoImage} />
-          </Box>
-          <Text fontSize="2xl" fontFamily="monospace" fontWeight="bold">TechoMania</Text>
+      <Flex h="20" alignItems="center" mx="8" justifyContent="space-between">
+        <Flex>
+          <Text fontSize="2xl" fontFamily="monospace" fontWeight="bold">
+            TechoMania
+          </Text>
         </Flex>
         <CloseButton display={{ base: "flex", md: "none" }} onClick={onClose} />
       </Flex>
