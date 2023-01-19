@@ -14,7 +14,7 @@ const Footer = () => {
         </Flex>
 
         <Flex align="center" bgColor="#014386" fontSize={{base:"10px",md:"13px",lg:"18px"}} height={{lg:"166px"}} color="white" width={{lg:"full"}}>
-          <Text m="auto" fontWeight={"500"} width={{lg:"680px"}}>Copyright Adorama Camera, Inc. All rights          reserved. • Privacy Policy • Terms of Use
+          <Text m="auto" fontWeight={"500"} width={{lg:"680px"}}>Copyright Adorama Camera, Inc. All rights reserved. • Privacy Policy • Terms of Use
             42 West 18th Street New York, NY 10011 (directions) • 800.223.2500</Text>
         </Flex>
     </div>

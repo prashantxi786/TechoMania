@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
-import { Image,Box,Link } from "@chakra-ui/react";
+import { Image,Link } from "@chakra-ui/react";
 export default class Responsive extends Component {
   render() {
     var settings = {
