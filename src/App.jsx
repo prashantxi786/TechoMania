@@ -1,10 +1,14 @@
 import './App.css';
+import AdminPanel from './Components/Admin/AdNavbar';
 import Signup from './Pages/Signup';
 
 function App() {
   return (
     <div className='App'>
-      <Signup />
+      {/* <AdminPanel/> */}
+      {/* <Signup /> */}
+      {/* <AllRoutes/> */}
+      <AdminPanel/>
     </div>
   );
 }
