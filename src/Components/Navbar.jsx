@@ -30,7 +30,7 @@ const Navbar = () => {
           <Link href="/" _hover={{fontDecoration:"none"}} ml={{base:"20px",md:"50px",lg:"100"}} color="white" fontFamily="Impact" fontSize={{base:"20px",md:"40px",lg:"50px"}} w={{base:"100px",md:"205px",lg:"255px"}} h={{base:"10px",md:"20px",lg:"40px"}}>TechoMania</Link>
           {/* Right of logo Bar */}
           <Flex mr={{base:"10px",md:"20px",lg:"50px"}} alignItems="center" color="white" justifyContent={"space-between"}>
-            <Input bgColor={"white"} borderRadius="30" placeholder={"Search"} width={{base:"150px",md:"300px",lg:"455px"}} height={{base:"12px",md:"20px",lg:"32px"}}/>
+            <Input bgColor={"white"} borderRadius="30" placeholder={"Search"} width={{base:"100px",md:"200px",lg:"455px"}} height={{base:"10px",md:"15px",lg:"32px"}}/>
             <Flex width={{base:"",md:"",lg:""}} alignItems="center" justifyContent={"space-between"}>
             <RxPerson color='white' size={"25"}/>
               <Box>

@@ -39,7 +39,7 @@ export default function SecondCarousel({cardsArr}) {
   return (
     <Box
       position={'relative'}
-      height={{base:"200px",md:"300px",lg:"700px"}}
+      height={{base:"200px",md:"300px",lg:"530px"}}
       width={'full'}
       overflow={'hidden'}
       >
