@@ -7,7 +7,7 @@ function App() {
   return (
     <div className='App'>
       <AllRoutes />
-      <AdminPanel />
+      {/* <AdminPanel /> */}
       {/* <Homepage/> */}
     </div>
   );

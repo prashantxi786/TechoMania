@@ -147,6 +147,7 @@ const Signup = () => {
             w={{ base: '100%', md: '50%' }}
             m='auto'
             color='white'
+            textAlign='center'
             bg={{
               base: 'linear-gradient(180deg,#002245 0%,#004993 100%)',
               md: 'none'
