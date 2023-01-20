@@ -10,7 +10,7 @@ import SingleProduct from '../Pages/SingleProductPage';
 const AllRoutes = () => {
   return (
     <Routes>
-    <Route path="/" element={<Homepage/>}/>
+      <Route path='/' element={<Homepage />} />
       <Route
         path='/signup'
         element={
@@ -27,6 +27,7 @@ const AllRoutes = () => {
           </PrivateRoute>
         }
       />
+
       <Route path="/products" element={<ProductPage/>}/>
       <Route path="/products/:id" element={<SingleProduct/>}/>
       {/* <Route path="/signup" element={<Signup/>}/> */}
@@ -34,6 +35,7 @@ const AllRoutes = () => {
       {/* <Route path="/admin/products" element={<Products/>}/> */}
     </Routes>
   );
-
 };
+
 export default AllRoutes;
+
