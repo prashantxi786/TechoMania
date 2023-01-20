@@ -1,6 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import PrivateRoute from '../Components/Authentication/PrivateRoute';
+import Homepage from '../Pages/Homepage';
 import Login from '../Pages/Login';
 import Signup from '../Pages/Signup';
 
@@ -23,8 +24,10 @@ const AllRoutes = () => {
           </PrivateRoute>
         }
       />
+      {/* <Route path="/" element={<Homepage/>}/> */}
+      {/* <Route path="/signup" element={<Signup/>}/> */}
+      {/* <Route path="/admin" element={<AdminPanel/>}/> */}
+      {/* <Route path="/admin/products" element={<Products/>}/> */}
     </Routes>
   );
 };
-
-export default AllRoutes;
