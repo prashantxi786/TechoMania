@@ -4,10 +4,10 @@ import PrivateRoute from '../Components/Authentication/PrivateRoute';
 import Homepage from '../Pages/Homepage';
 import Login from '../Pages/Login';
 import Signup from '../Pages/Signup';
-
 const AllRoutes = () => {
   return (
     <Routes>
+    <Route path="/" element={<Homepage/>}/>
       <Route
         path='/signup'
         element={
@@ -24,7 +24,6 @@ const AllRoutes = () => {
           </PrivateRoute>
         }
       />
-      {/* <Route path="/" element={<Homepage/>}/> */}
       {/* <Route path="/signup" element={<Signup/>}/> */}
       {/* <Route path="/admin" element={<AdminPanel/>}/> */}
       {/* <Route path="/admin/products" element={<Products/>}/> */}
