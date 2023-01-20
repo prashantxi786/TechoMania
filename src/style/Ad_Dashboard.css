@@ -1,0 +1,114 @@
+.Ad_Dashboard_Container {
+  /* border: 1px solid yellow; */
+  display: flex;
+  flex-direction: column;
+  /* gap: 20px 0px; */
+  height: 90vh;
+}
+.Ad_Dashboard_Container > div:nth-child(1) {
+  /* border-radius: 10px; */
+  /* overflow: hidden; */
+  /* border: 5px solid green; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.Ad_Dashboard_Container > div:nth-child(1) > div {
+  /* height: 150px; */
+  margin: 20px 0;
+  background-color: #0e101a;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 10px;
+}
+.Ad_Dashboard_Container > div:nth-child(1) > div > div:nth-child(1) {
+  padding: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(184, 183, 183);
+}
+.Ad_Dashboard_Container
+  > div:nth-child(1)
+  > div
+  > div:nth-child(2)
+  > div:nth-child(1) {
+  /* padding: 10px; */
+  font-size: 30px;
+  color: #cff467;
+  /* height: 100vh; */
+}
+.Ad_Dashboard_Container > div:nth-child(2) {
+  /* border: 1px solid red; */
+  height: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+.Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(1) {
+  width: 66%;
+  height: 100%;
+  border-radius: 10px;
+  background-color: #0e101a;
+  /* border: 1px solid yellow; */
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+}
+.Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(1) > p {
+  padding: 20px;
+  font-weight: 600;
+  font-size: 25px;
+  color: #cff467;
+}
+.Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(1) > div:last-child {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: violet; */
+}
+.Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(2) {
+  width: 32.4%;
+  height: 100%;
+  border-radius: 10px;
+  background-color: #0e101a;
+  /* border: 1px solid yellow; */
+}
+.Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(2) > p {
+  font-weight: 600;
+  font-size: 25px;
+  padding: 20px;
+  color: #cff467;
+}
+.Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) {
+  width: 100%;
+  /* background-color: yellow; */
+  border: 1px solid blue;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(2) > div:nth-child(3){ 
+  width: 100%;
+  /* background-color: yellow; */
+  border: 1px solid blue;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* RESPONSIVENESS */
+@media screen and (max-width: 424px) {
+  .Ad_Dashboard_Container > div:nth-child(2) {
+    border: 11px solid red;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+  }
+  .Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(1) {
+    width: 100%;
+  }
+  .Ad_Dashboard_Container > div:nth-child(2) > div:nth-child(2) {
+    width: 100%;
+  }
+}
