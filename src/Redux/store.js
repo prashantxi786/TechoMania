@@ -6,7 +6,6 @@ import {
 } from 'redux';
 import thunk from 'redux-thunk';
 import { authReducer } from './Authentication/auth.reducer';
-
 const rootReducer = combineReducers({
   authManager: authReducer
 });
