@@ -29,16 +29,16 @@ const MidSection = () => {
         {/* Gird images section */}
         <Grid m="auto" w="95%" templateColumns='repeat(2, 1fr)' gap="5" >
         <GridItem>
-            <Link><Image src=""/></Link>
+            <Link><Image src="https://raw.githubusercontent.com/prashantxi786/voiceless-lunchroom-7858/8447100a2bff765f2228a5922059e1d06047f061/public/Images/Screenshot_20230120_011107.png"/></Link>
           </GridItem>
           <GridItem>
-            <Link><Image src=""/></Link>
+            <Link><Image src="https://raw.githubusercontent.com/prashantxi786/voiceless-lunchroom-7858/8447100a2bff765f2228a5922059e1d06047f061/public/Images/Screenshot_20230120_011428.png"/></Link>
           </GridItem>
           <GridItem>
-            <Link><Image src=""/></Link>
+            <Link><Image src="https://raw.githubusercontent.com/prashantxi786/voiceless-lunchroom-7858/8447100a2bff765f2228a5922059e1d06047f061/public/Images/Screenshot_20230120_011441.png"/></Link>
           </GridItem>
           <GridItem>
-            <Link><Image src=""/></Link>
+            <Link><Image src="https://raw.githubusercontent.com/prashantxi786/voiceless-lunchroom-7858/8447100a2bff765f2228a5922059e1d06047f061/public/Images/Screenshot_20230120_011512.png"/></Link>
           </GridItem>
           
           
