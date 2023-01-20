@@ -8,7 +8,7 @@ function App() {
     <div className='App'>
       <AllRoutes />
       {/* <AdminPanel /> */}
-      {/* <Homepage/> */}
+
     </div>
   );
 }

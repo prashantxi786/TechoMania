@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { border } from "@chakra-ui/react";
+import {} from "@chakra-ui/react";
 import {FaGreaterThan} from "react-icons/fa"
 import { Link } from "react-router-dom";
+import Navbar from "../Components/Navbar";
 
 
 const ProductPage = () => {
   const [product, setProduct] = useState([]);
   const Api = () => {
     axios.get("http://localhost:8080/Cameras").then((res) => {
-      console.log(res.data);
       setProduct(res.data);
     });
   };
@@ -17,59 +17,59 @@ const ProductPage = () => {
     Api();
   }, []);
   return (
-    <div style={{display:"flex",alignItems:"flex-start",justifyContent:"space-between"}}>
-     <div style={{marginTop:"150px",width:"30%",height:"4000px",fontSize:"27px"}}>
+    <div>
+      <Navbar/>
+    <div style={{display:"flex", justifyContent: "space-around"}}>
+     <div style={{marginTop:"10px",marginRight:"", width:"20%",height:"4000px",fontSize:"27px"}}>
       Mirrorless Cameras
-      <div style={{fontSize:"20px",marginLeft:"-100px"}}>CATEGORIES:</div>
-      <div style={{fontSize:"17px",marginLeft:"-100px",color:"rgb(43, 105, 229)",cursor:"pointer"}}><u>All Categories</u></div>
-      <div style={{fontSize:"17px",marginLeft:"-140px",color:"rgb(43, 105, 229)",cursor:"pointer"}}><u>Cameras</u></div>
+      <div style={{fontSize:"20px",}}>CATEGORIES:</div>
+      <div style={{fontSize:"17px",color:"rgb(43, 105, 229)",cursor:"pointer"}}><u>All Categories</u></div>
+      <div style={{fontSize:"17px",color:"rgb(43, 105, 229)",cursor:"pointer"}}><u>Cameras</u></div>
     <br />
-          <div style={{fontSize:"20px",marginLeft:"-150px"}}>
+          <div style={{fontSize:"20px",marginLeft:""}}>
       <p>FILTERS:</p>
-      <input style={{marginLeft:"160px",border:"1px solid grey",borderRadius:"5px"}} type="text" placeholder="Search with Brands" />
+      <input style={{marginLeft:"",border:"1px solid grey",borderRadius:"5px"}} type="text" placeholder="Search with Brands" />
      
       <p style={{cursor: "pointer",marginTop:"15px"}}>Brand</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"50px",marginTop:"15px"}}>Sensor Size</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Sensor Size</p><hr />
       <p style={{cursor: "pointer",marginLeft:"7px",marginTop:"15px"}}>Model</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"65px",marginTop:"15px"}}>Configuration</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"35px",marginTop:"15px"}}>Resolution</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"100px",marginTop:"15px"}}>Max Video Quality</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"120px",marginTop:"15px"}}>In Body Stabilization</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"70px",marginTop:"15px"}}>Lens Included</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"80px",marginTop:"15px"}}>Special Features</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"40px",marginTop:"15px"}}>Viewfinder</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"5px",marginTop:"15px"}}>Color</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"5px",marginTop:"15px"}}>Series</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"-4px",marginTop:"15px"}}>Wifi</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"10px",marginTop:"15px"}}>Edition</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"50px",marginTop:"15px"}}>Lens Mount</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"20px",marginTop:"15px"}}>Kit Style</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"50px",marginTop:"15px"}}>Price Range</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"100px",marginTop:"15px"}}>Rating & Reviews</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"10px",marginTop:"15px"}}>Filter By</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"15px",marginTop:"15px"}}>Discount</p><hr /><FaGreaterThan/>
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Configuration</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Resolution</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Max Video Quality</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>In Body Stabilization</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Lens Included</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Special Features</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Viewfinder</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Color</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Series</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Wifi</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Edition</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Lens Mount</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Kit Style</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Price Range</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Rating & Reviews</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Filter By</p><hr />
+      <p style={{cursor: "pointer",marginTop:"15px"}}>Discount</p><hr /><FaGreaterThan/>
       </div>
       </div>
-     
-  <div>
   {/* <div style={{border:"1px solid blue",width:"100px"}}>kjkj</div> */}
    
-     <div>
+     
      <div
       style={{
         
-        width: "100%",
+        width: "70%",
         float: "right",
         gap: "20px",
-        marginTop:"100px",
+        marginTop:"10px",
         border:"3px solid rgb(223, 223, 223)"
-        
-       
       }}
+      
     >
       {product.map((el) => (
         
         <div
+        key={el.id}
           style={{
             display: "flex",
             gap: "30px",
@@ -79,9 +79,8 @@ const ProductPage = () => {
             //  backgroundColor: "rgba(225, 227, 107, 0.54)",
             paddingTop: "50px",
             paddingLeft: "50px",
-            // border:'3px solid rgb(175, 174, 174)',
+            borderBottom:'3px solid rgb(175, 174, 174)',
             textAlign:"left"
- 
           }}
         >
          
@@ -89,7 +88,7 @@ const ProductPage = () => {
             <img
               style={{ paddingTop: "20px", width: "300px" }}
               src={el.productImage_src}
-              alt="image not found"
+              alt="not found"
             />
           </div>
           <div style={{ width: "60%",marginRight:"100px" }}>
@@ -157,7 +156,8 @@ const ProductPage = () => {
         
       ))}
     </div>
-    </div>
+    
+  
   </div>
   </div>
   );

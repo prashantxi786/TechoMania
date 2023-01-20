@@ -31,7 +31,7 @@ const SingleProduct = () => {
          width: "600px", 
         //  border: "1px solid red" 
          }}>
-        <img style={{ width: "600px" }} src={product.productImage_src} />
+        <img style={{ width: "600px" }} src={product.productImage_src} alt="Oops, image collapsed" />
       </div>
       <div>
         <div style={{
