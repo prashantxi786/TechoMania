@@ -159,7 +159,7 @@ const Signup = () => {
             <Hide below='md'>
               <Box pos='relative' top={{ base: '0', md: '45vh', xl: '40vh' }}>
                 <Text fontSize='xl' letterSpacing='wider'>
-                  Have an Accout?
+                  Have an Account?
                 </Text>
                 <Tooltip
                   label='Sign In'
