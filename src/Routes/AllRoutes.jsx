@@ -3,10 +3,11 @@ import { Routes, Route } from 'react-router-dom';
 import PrivateRoute from '../Components/Authentication/PrivateRoute';
 import Login from '../Pages/Login';
 import Signup from '../Pages/Signup';
-
+import Homepage from "../Pages/Homepage"
 const AllRoutes = () => {
   return (
     <Routes>
+    <Route path="/" element={<Homepage/>}/>
       <Route
         path='/signup'
         element={
@@ -26,5 +27,3 @@ const AllRoutes = () => {
     </Routes>
   );
 };
-
-export default AllRoutes;
