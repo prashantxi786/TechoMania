@@ -5,9 +5,11 @@ import {
   legacy_createStore,
 } from "redux";
 import thunk from "redux-thunk";
+import { adProductsReducer } from "./Admin/Products/ad_products.reducer";
 
 const rootReducer = combineReducers({
   // authManager: authReducer
+  adProductsManager:adProductsReducer
 });
 
 const composeEnhancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
