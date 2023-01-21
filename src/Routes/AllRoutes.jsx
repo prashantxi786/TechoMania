@@ -26,8 +26,10 @@ const AllRoutes = () => {
           </PrivateRoute>
         }
       />
-      <Route path='/ProductPage' element={<ProductPage />} />
-      <Route path='/ProductPage/:id' element={<SingleProduct />} />
+
+      <Route path="/products" element={<ProductPage/>}/>
+      <Route path="/products/:id" element={<SingleProduct/>}/>
+      {/* <Route path="/signup" element={<Signup/>}/> */}
       {/* <Route path="/admin" element={<AdminPanel/>}/> */}
       {/* <Route path="/admin/products" element={<Products/>}/> */}
       {/* <Route path="/" element={<Homepage/>} /> */}
@@ -35,5 +37,5 @@ const AllRoutes = () => {
     </Routes>
   );
 };
+export default AllRoutes
 
-export default AllRoutes;

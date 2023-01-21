@@ -12,6 +12,21 @@ const SingleProduct = () => {
       setProduct(res.data);
     });
   };
+  const {productImage_src,trackEvent_3,trackEvent_2,review_stars,review_count,price_reg_has_sibs}=product
+const [add,setAdd]=useState(false)
+
+const handleCart = () => {
+  alert("Item has been added")
+
+  axios.post(`http://localhost:8080/cart`,{
+ image:productImage_src,
+ title:trackEvent_2
+  }).then((res) => {
+    console.log(res.data)
+    
+  })
+}
+
   useEffect(() => {
     ApiFetch(id);
     console.log(product);
@@ -35,15 +50,16 @@ const SingleProduct = () => {
       </div>
       <div>
         <div style={{
-              border: "1px solid teal",
-              width: "900px" }}>
-          <div style={{ fontSize: "40px", textAlign: "left" }}>
+              // border: "1px solid teal",
+              width: "800px",
+              marginTop:"10px" }}>
+          <div style={{ fontSize: "30px", textAlign: "left" }}>
+
             {product.trackEvent_2}
             <br />
             <div style={{ textAlign: "left", fontSize: "20px" }}>
               SKU:{product.product_sku_2} MFR:{product.product_sku_4}{" "}
             </div>
-
             <div style={{ fontSize: "20px" }}>
               {product.review_stars} ({product.review_count})
             </div>
@@ -78,10 +94,11 @@ const SingleProduct = () => {
                   // border: "red",
                   borderRadius: "5px",
                   // cursor: "pointer",
-                  width: "250px",
+                  width: "300px",
                   height: "60px",
                   // marginRight:"20px"
                 }}
+                onClick={() => handleCart(product.id)}
               >
                 Add to Cart
               </button>

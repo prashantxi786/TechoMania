@@ -150,7 +150,7 @@ const Login = () => {
             }}
           >
             <Hide below='md'>
-              <Box pos='relative' top={{ base: '0', md: '45vh', xl: '72' }}>
+              <Box align="center" mb={"-100px"} pos='relative' top={{ base: '0', md: '45vh', xl: '72' }}>
                 <Text fontSize='xl' letterSpacing='wider'>
                   New Customer?
                 </Text>
@@ -205,10 +205,10 @@ const Login = () => {
             <Hide below='md'>
               <NavLink to='/'>
                 <Image
-                  src='https://i.postimg.cc/ncGjs3gP/Techo-Mania-1.png'
+                  src='https://github.com/prashantxi786/voiceless-lunchroom-7858/blob/master/src/Used_Images/TechoMania_1-removebg-preview.png?raw=true'
                   alt='logo'
-                  display='inline-block'
-                  w={{ base: '100px', md: '150px' }}
+                  display='block'
+                  w={{ base: '100px', md: '150px',lg:"350px" }}
                   m='auto'
                   pb='4'
                 />
@@ -228,7 +228,7 @@ const Login = () => {
                     py='4'
                     mt='2'
                     display='inline-block'
-                    src='https://i.postimg.cc/ncGjs3gP/Techo-Mania-1.png'
+                    src='https://github.com/prashantxi786/voiceless-lunchroom-7858/blob/master/src/Used_Images/TechoMania_1-removebg-preview.png?raw=true'
                     alt='logo'
                   />
                 </NavLink>
@@ -237,6 +237,7 @@ const Login = () => {
                   <Text
                     letterSpacing='wider'
                     fontSize={{ base: 'lg', sm: 'xl' }}
+                    
                   >
                     New Customer?
                   </Text>

@@ -14,16 +14,16 @@ export default class Graph_PieChartEXT extends PureComponent {
   render() {
     return (
       <ResponsiveContainer width="100%" height="100%">
-        <PieChart width={400} height={400}>
+        <PieChart width={200} height={200}>
           <Pie
             dataKey="value"
             startAngle={180}
             endAngle={0}
             data={data}
             cx="50%"
-            cy="50%"
+            cy="70%"
             outerRadius={80}
-            fill="#8884d8"
+            fill="#8884d4"
             label
           />
         </PieChart>
