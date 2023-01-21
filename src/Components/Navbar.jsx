@@ -118,6 +118,7 @@ const Navbar = () => {
             <RxPerson color='white' size={"25"}/>
               <HoverDropdown text={loggedUser?`Welcome ${loggedUser.firstName}`:"Login"} item1={"Profile"} item2={"Admin"} item3={loggedUser?"Logout":""}/>
             <FiShoppingCart  size={"25"}/>
+
             </Flex>
           </Flex>
         </Flex>

@@ -84,11 +84,20 @@ const Dashboard = () => {
         </Box>
         <Box>
           <Text>Users Status</Text>
-          <Box>
+          {/* <Box>
             <Graph_PieChart />
           </Box>
           <Box>
             <Graph_PieChartEXT/>
+          </Box> */}
+
+          <Box>
+            <Box>
+              <Graph_PieChart />
+            </Box>
+            <Box>
+              <Graph_PieChartEXT />
+            </Box>
           </Box>
         </Box>
       </Box>

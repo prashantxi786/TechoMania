@@ -1,0 +1,47 @@
+.Ad_Products_Container{
+  /* border: 5px solid blue; */
+}
+.Ad_Products_Navbar_Container {
+  position: relative;
+  /* border: 1px solid blue; */
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  align-items: center;
+  background-color: #0e101a;
+  padding: 0px 10px;
+  border-radius: 10px;
+
+}
+.Ad_Products_Navbar_Container > div:nth-child(1) {
+  font-size: 20px;
+  color: #cff467;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Ad_Products_Navbar_Container > div:nth-child(1) > p {
+    font-size: 25px;
+    color: #cff467;
+    font-weight: 600;
+  }
+  .Ad_Products_Navbar_Container > div:nth-child(1) > p:hover {
+    background: #000;
+}
+.Ad_Products_Navbar_Container > div:nth-child(2) {
+  width: 80%;
+  display: flex;
+  /* border: 1px solid blue; */
+  justify-content: space-between;
+  color: rgb(184, 183, 183);
+}
+
+
+/* THIS IS THE ALL CARD CONTAINER CSS */
+.Ad_Products_Container > :nth-child(2){
+  border: 3px solid red;
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+}

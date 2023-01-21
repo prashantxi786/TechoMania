@@ -139,6 +139,7 @@ const Login = () => {
             w={{ base: '100%', md: '50%' }}
             m='auto'
             color='white'
+            textAlign='center'
             bg={{
               base: 'linear-gradient(180deg,#002245 0%,#004993 100%)',
               md: 'none'
@@ -378,22 +379,44 @@ const Login = () => {
                       )}
                     </Field>
 
-                    <Box
+                    <Flex
                       mt='4'
+                      gap='2'
                       color='#06c'
-                      lineHeight='4'
-                      display='block'
-                      fontWeight='medium'
+                      align='center'
+                      justify='space-between'
                     >
-                      <Checkbox
-                        value=''
-                        size='sm'
-                        colorScheme='gray'
-                        borderColor='gray.400'
-                      >
-                        <Text>Remember Me</Text>
-                      </Checkbox>
-                    </Box>
+                      <Box lineHeight='4' display='block' fontWeight='medium'>
+                        <Checkbox
+                          value=''
+                          size='sm'
+                          colorScheme='gray'
+                          borderColor='gray.400'
+                        >
+                          <Text>Remember Me</Text>
+                        </Checkbox>
+                      </Box>
+
+                      <Show below='md'>
+                        <Tooltip
+                          openDelay={1000}
+                          placement='bottom-end'
+                          label='Forgot password'
+                        >
+                          <NavLink>
+                            <Text
+                              fontSize='sm'
+                              lineHeight='4'
+                              textAlign='left'
+                              fontWeight='medium'
+                              display='inline-block'
+                            >
+                              Forgot Password?
+                            </Text>
+                          </NavLink>
+                        </Tooltip>
+                      </Show>
+                    </Flex>
 
                     <Button
                       mt='6'
@@ -417,19 +440,25 @@ const Login = () => {
 
               <Hide below='md'>
                 <Box textAlign='center'>
-                  <NavLink>
-                    <Text
-                      mt='4'
-                      color='#06c'
-                      fontSize='sm'
-                      lineHeight='4'
-                      textAlign='center'
-                      fontWeight='medium'
-                      display='inline-block'
-                    >
-                      Forgot Password?
-                    </Text>
-                  </NavLink>
+                  <Tooltip
+                    openDelay={1000}
+                    placement='bottom-end'
+                    label='Forgot password'
+                  >
+                    <NavLink>
+                      <Text
+                        mt='4'
+                        color='#06c'
+                        fontSize='sm'
+                        lineHeight='4'
+                        textAlign='center'
+                        fontWeight='medium'
+                        display='inline-block'
+                      >
+                        Forgot Password?
+                      </Text>
+                    </NavLink>
+                  </Tooltip>
                 </Box>
               </Hide>
 
