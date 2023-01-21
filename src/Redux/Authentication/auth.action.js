@@ -3,7 +3,9 @@ import {
   allowSignUpAPI,
   getUsersAPI,
   handleLogout,
-  updateProfileAPI
+  updateProfileAPI,
+  addCurrentUserAPI,
+  deleteCurrentUserAPI
 } from './auth.api';
 import {
   AUTH_LOGIN_LOADING,
@@ -36,13 +38,16 @@ export const login = (email, password) => async (dispatch) => {
       lastSignInTime: lastSeen
     };
 
+    await addCurrentUserAPI({ ...data, id: data.email });
     dispatch({ type: AUTH_LOGIN_SUCCESS, payload: data });
   } catch (err) {
     dispatch({ type: AUTH_LOGIN_ERROR });
   }
 };
 
-export const logout = () => (dispatch) => {
+export const logout = () => async (dispatch) => {
+  let currentUser = JSON.parse(localStorage.getItem('user'));
+  await deleteCurrentUserAPI(currentUser.email);
   dispatch({ type: AUTH_LOGOUT });
   handleLogout();
 };

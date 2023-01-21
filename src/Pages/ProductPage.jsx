@@ -49,9 +49,6 @@ const handleSearch = (event) => {
     
 };
 
-
-
-
   useEffect(() => {
     Api();
   }, []);
