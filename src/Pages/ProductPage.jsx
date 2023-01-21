@@ -1,12 +1,16 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { border } from "@chakra-ui/react";
+import { border, FormControl, FormLabel, Input, Select, Text } from "@chakra-ui/react";
 import {FaGreaterThan} from "react-icons/fa"
 import { Link } from "react-router-dom";
 import Navbar from "../Components/Navbar";
+import { Image } from '@chakra-ui/react';
+import { SearchIcon, StarIcon } from "@chakra-ui/icons";
+
 const ProductPage = () => {
   const [product, setProduct] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
+  const [cart, setCart] = useState([]);
    const [filteredProducts, setFilteredProducts] = useState([]);
   const Api = () => {
     axios.get("http://localhost:8080/Cameras").then((res) => {
@@ -17,20 +21,36 @@ const ProductPage = () => {
   };
 // cart
 const handleCart = (id) => {
+  let isPresent = false;
+  let userData=JSON.parse(localStorage.getItem("user"))
   alert("Item has been added")
 let y= product.filter((el)=>{
   return el.id==id
  })
  console.log(y)
+ 
+    cart.map((item) => {
+      if (item.id === y.id) isPresent = true
+    })
 
+ if (isPresent) {
+  alert ("Item is already present in the cart");
+  return;
+ }
+ else {
   axios.post(`http://localhost:8080/cart`,{
- image:y[0].productImage_src,
- title:y[0].trackEvent_2
+    
+    ...y[0], 
+//  image:y[0].productImage_src,
+//  title:y[0].trackEvent_2,
+email:userData.email,
+time:userData.lastSignInTime
 
   }).then((res) => {
     console.log(res.data)
     
   })
+ }
 }
 
 const handleSearch = (event) => {
@@ -49,9 +69,16 @@ const handleSearch = (event) => {
     
 };
 
+
+const getCartData = () => {
+  axios.get("http://localhost:8080/cart").then((res) => setCart(res.data));
+}
+
   useEffect(() => {
     Api();
+    getCartData();
   }, []);
+  
   return (
     <div>
       <Navbar/>
@@ -70,9 +97,23 @@ const handleSearch = (event) => {
     <br />
           <div style={{fontSize:"20px"}}>
       <p>FILTERS:</p>
-      <input style={{border:"1px solid grey",borderRadius:"5px"}} onChange={handleSearch} type="text" placeholder="Search with Brands" />
+      {/* <input style={{border:"1px solid grey",borderRadius:"5px"}} onChange={handleSearch} type="text" placeholder="Search with Brands" /> */}
+     <Input onChange={handleSearch} variant='filled' placeholder='Search within filters'  />  
       <div style={{cursor: "pointer",marginTop:"15px"}}>
-      <p style={{marginTop:"15px"}}>Brand</p><hr />
+      {/* <p style={{marginTop:"15px"}}>Brand</p><hr /> */}
+      <FormControl>
+  <FormLabel>Brand</FormLabel>
+  <Select placeholder='Select Brand'>
+    <option>United Arab Emirates</option>
+    <option>Nigeria</option>
+  </Select>
+</FormControl>
+
+
+
+
+
+
       <p style={{marginTop:"15px"}}>Sensor Size</p><hr />
       <p style={{marginTop:"15px"}}>Model</p><hr />
       <p style={{marginTop:"15px"}}>Configuration</p><hr />
@@ -119,12 +160,13 @@ const handleSearch = (event) => {
     >
       {product.map((el) => (
         
+
         <div
         key={el.id}
           style={{
             display: "flex",
             gap: "30px",
-            marginTop: "10px",
+            // marginTop: "10px",
             height: "500px",
             borderBottom:'3px solid rgb(175, 174, 174)',
             // marginTop: "10px",
@@ -134,8 +176,8 @@ const handleSearch = (event) => {
             textAlign:"left",
             // width:"1200px"
             marginRight:"20px",
-            
-
+            borderBottom:'3px solid rgb(223, 223, 223)',
+            textAlign:"left"
           }}
         >
          
@@ -147,15 +189,21 @@ const handleSearch = (event) => {
 
             />
           </div>
+         
           <div style={{ width: "60%",marginRight:"100px" }}>
             <h3 style={{color:"rgb(43, 105, 229)",cursor:"pointer",marginRight:"80px"}}>{el.trackEvent_3}{el.trackEvent_2}
             <Link to={`/products/${el.id}`}><h1>More details</h1></Link></h3>
 
 
             <p style={{marginRight:"80px"}}>
-              SKU:{el.product_sku_2} MFR:{el.product_sku_4}{" "}
+             <div style={{fontSize:"12px",display:"flex"}}><p>SKU:{el.product_sku_2}</p>   <p style={{marginLeft:"14px"}}>MFR:{el.product_sku_4}{" "}</p></div> 
               <br />
-              {el.review_stars} ({el.review_count})
+              {/* {el.review_stars} ({el.review_count}) */}
+            <div style={{ fontSize: "15px", }}>
+              {/* review_stars */}
+            <StarIcon style={{color:"rgb(250, 189, 4)"}}/><StarIcon style={{color:"rgb(250, 189, 4)"}}/><StarIcon style={{color:"rgb(250, 189, 4)"}}/><StarIcon style={{color:"rgb(250, 189, 4)"}}/>
+            {el.review_stars} ({el.review_count})
+            </div>
               <br />
               {el.buy_section_2}{el.buy_section}
               <br/>
@@ -175,7 +223,7 @@ const handleSearch = (event) => {
           <div>
             <p>{el.price_label}
             <br />
-           <div style={{fontSize:"30px"}}>${el.price_reg_has_sibs}</div>    VIP PRO</p>
+           <div style={{fontSize:"30px"}}><Text as="b">${el.price_reg_has_sibs}</Text></div>   VIP PRO</p>
 
           <div style={{color:"green"}}> $176.67{el.promo_financing_rate_2} {el.promo_financing}</div> 
             {/* <p>${el.price_reg_has_sibs}</p> */}
