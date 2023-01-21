@@ -1,7 +1,7 @@
-import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import PrivateRoute from '../Components/Authentication/PrivateRoute';
 import Homepage from '../Pages/Homepage';
+import Cart from '../Pages/Cart';
 import Login from '../Pages/Login';
 import Signup from '../Pages/Signup';
 import ProductPage from '../Pages/ProductPage';
@@ -33,6 +33,8 @@ const AllRoutes = () => {
       {/* <Route path="/signup" element={<Signup/>}/> */}
       {/* <Route path="/admin" element={<AdminPanel/>}/> */}
       {/* <Route path="/admin/products" element={<Products/>}/> */}
+      {/* <Route path="/" element={<Homepage/>} /> */}
+      <Route path='/cart' element={<Cart />} />
     </Routes>
   );
 };

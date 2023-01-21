@@ -1,14 +1,13 @@
 import './App.css';
 import AllRoutes from './Routes/AllRoutes';
-import Homepage from './Pages/Homepage';
-import AdminPanel from './Components/Admin/AdNavbar';
+// import AdminPanel from './Components/Admin/AdNavbar';
+import Cart from './Pages/Cart';
 
 function App() {
   return (
     <div className='App'>
       <AllRoutes />
       {/* <AdminPanel /> */}
-
     </div>
   );
 }
