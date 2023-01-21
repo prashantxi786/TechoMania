@@ -146,6 +146,7 @@ const Signup = () => {
           <Box
             w={{ base: '100%', md: '50%' }}
             m='auto'
+            align="center"
             color='white'
             bg={{
               base: 'linear-gradient(180deg,#002245 0%,#004993 100%)',
@@ -157,7 +158,7 @@ const Signup = () => {
             }}
           >
             <Hide below='md'>
-              <Box pos='relative' top={{ base: '0', md: '45vh', xl: '40vh' }}>
+              <Box align="center" mb="-150px" pos='relative' top={{ base: '0', md: '45vh', xl: '40vh' }}>
                 <Text fontSize='xl' letterSpacing='wider'>
                   Have an Account?
                 </Text>
@@ -212,10 +213,10 @@ const Signup = () => {
             <Hide below='md'>
               <NavLink to='/'>
                 <Image
-                  src='https://i.postimg.cc/ncGjs3gP/Techo-Mania-1.png'
+                  src='https://github.com/prashantxi786/voiceless-lunchroom-7858/blob/master/src/Used_Images/TechoMania_1-removebg-preview.png?raw=true'
                   alt='logo'
                   display='inline-block'
-                  w={{ base: '100px', md: '150px' }}
+                  w={{ base: '100px', md: '150px',lg:"350px" }}
                   m='auto'
                   pb='4'
                 />
