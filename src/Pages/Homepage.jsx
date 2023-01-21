@@ -20,7 +20,6 @@ const Homepage = () => {
         <MidSection/>
         <Footer/>
     </div>
-
   )
 }
 

@@ -69,21 +69,23 @@ const handleSearch = (event) => {
     
 };
 
+
 const getCartData = () => {
   axios.get("http://localhost:8080/cart").then((res) => setCart(res.data));
 }
-
-
-
 
   useEffect(() => {
     Api();
     getCartData();
   }, []);
+  
   return (
+    <div>
+      <Navbar/>
     <div style={{display:"flex",alignItems:"flex-start",justifyContent:"space-between",
     //  border:"1px solid red",
     width:"100%",gap:"30px"}}>
+      
      <div style={{width:"30%",height:"4000px",fontSize:"27px",marginLeft:"20px",
     //  border:"1px solid blue"
      }}>
@@ -158,23 +160,24 @@ const getCartData = () => {
     >
       {product.map((el) => (
         
-        <div key={el.id}
+
+        <div
+        key={el.id}
           style={{
             display: "flex",
             gap: "30px",
             // marginTop: "10px",
             height: "500px",
+            borderBottom:'3px solid rgb(175, 174, 174)',
             // marginTop: "10px",
             //  backgroundColor: "rgba(225, 227, 107, 0.54)",
             paddingTop: "50px",
             paddingLeft: "50px",
-            border:"5px solid rgb(223, 223, 223)",
             textAlign:"left",
             // width:"1200px"
             marginRight:"20px",
             borderBottom:'3px solid rgb(223, 223, 223)',
             textAlign:"left"
-
           }}
         >
          
@@ -262,6 +265,7 @@ const getCartData = () => {
     </div>
     </div>
 
+  </div>
   </div>
   </div>
   );
