@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Orders from '../../Pages/AdPages/Orders'
-import Checkout from '../../Pages/AdPages/Checkout'
+import Checkout from '../../Pages/Checkout'
 import Dashboard from '../../Pages/AdPages/Dashboard'
 import Products from '../../Pages/AdPages/Products'
 import Settings from '../../Pages/AdPages/Settings'

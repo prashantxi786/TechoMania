@@ -2,9 +2,9 @@ import React from 'react';
 import { Box, Text, Flex, Link } from '@chakra-ui/react';
 
 const Footer = () => {
+  
   return (
     <div>
-      <Box height={{lg:"118px"}} bgColor="#f2f3f3" width={{lg:""}}></Box>
       <Flex
         gap='1'
         flexWrap={'wrap'}

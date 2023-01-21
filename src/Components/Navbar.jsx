@@ -148,7 +148,7 @@ const Navbar = () => {
             <Flex width={{base:"",md:"",lg:""}} alignItems="center" justifyContent={"space-between"}>
             <RxPerson color='white' size={"25"}/>
               <HoverDropdown text={loggedUser?`Welcome ${loggedUser.firstName}`:"Login"} item1={"Profile"} item2={"Admin"} item3={loggedUser?"Logout":""}/>
-            <FiShoppingCart  size={"25"}/>
+            <Link href="/cart"><FiShoppingCart  size={"25"}/></Link>
 
             </Flex>
           </Flex>

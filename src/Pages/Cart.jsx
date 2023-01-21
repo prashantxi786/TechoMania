@@ -18,7 +18,7 @@ import { AiOutlineLeft } from 'react-icons/ai';
 const Cart = () => {
   return (
     <Box>
-      {/* <Navbar /> */}
+      <Navbar />
       <Box w={{ base: '95%', md: '92%' }} m='auto'>
         <Hide below='lg'>
           <NavLink to='/'>
@@ -117,7 +117,7 @@ const Cart = () => {
           </Box>
         </Stack>
       </Box>
-      {/* <Footer /> */}
+      <Footer />
     </Box>
   );
 };
