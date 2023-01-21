@@ -100,20 +100,24 @@ export const HoverDropdown=({text,item1,item2,item3})=>{
     return (
         <Menu isOpen={isOpen}>
             <Link href="/login">
+
             <MenuButton
                 variant="ghost"
                 mx={1}
                 py={[1, 2, 2]}
+
                 w={{base:"80px",md:"120px",lg:"auto"}}
                 fontSize={{base:"6px",md:"9px",lg:"16px"}}
                 px={4}
                 borderRadius={5}
                 _hover={{ color:"#013f7d", bg: useColorModeValue("gray.100", "gray.700") }}
+
                 aria-label="Courses"
                 fontWeight="normal"
                 onMouseEnter={onOpen}
                 onMouseLeave={onClose}
             >
+
                 {text} {isOpen ? <ChevronUpIcon /> : <ChevronDownIcon />}
             </MenuButton></Link>
             <MenuList align="center" display={"flex"} gap="2" flexDirection="column" color="white" zIndex="5" onMouseEnter={onOpen} onMouseLeave={onClose}>
@@ -125,6 +129,7 @@ export const HoverDropdown=({text,item1,item2,item3})=>{
                 {loggedUser?
                 <Link><Text onClick={logoutfun} borderRadius={"5"} p="1" bgColor="#013f72">{item3}</Text></Link>
             :""}
+
             </MenuList>
         </Menu>
     )
