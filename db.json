@@ -1,6 +1,78 @@
 {
   "admins": [],
-  "cart": [],
+  "cart": [
+    {
+      "image": "https://www.adorama.com/images/product/ipczs80b.jpg",
+      "title": "- Panasonic LUMIX DC-ZS80D Digital Camera, Black",
+      "id": 1
+    },
+    {
+      "image": "https://www.adorama.com/images/product/car7ckek.jpg",
+      "title": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Creator Kit, Essential Kit",
+      "id": 2
+    },
+    {
+      "image": "https://www.adorama.com/images/product/car10ckak.jpg",
+      "title": "- Canon EOS R10 Mirrorless Camera w/18-45mm Lens Content Creator & Accessory Kit",
+      "id": 3
+    },
+    {
+      "image": "https://www.adorama.com/images/product/car7ckak.jpg",
+      "title": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Content Creator Kit, Acc Kit",
+      "id": 4
+    },
+    {
+      "image": "https://www.adorama.com/images/product/ipxkfb.jpg",
+      "title": "- Pentax KF DSLR Camera Body, Black",
+      "id": 5
+    },
+    {
+      "image": "https://www.adorama.com/images/product/ipczs80b.jpg",
+      "title": "- Panasonic LUMIX DC-ZS80D Digital Camera, Black",
+      "id": 6
+    },
+    {
+      "image": "https://www.adorama.com/images/product/ipxkfb.jpg",
+      "title": "- Pentax KF DSLR Camera Body, Black",
+      "id": 7
+    },
+    {
+      "image": "https://www.adorama.com/images/product/car7ckak.jpg",
+      "title": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Content Creator Kit, Acc Kit",
+      "id": 8
+    },
+    {
+      "image": "https://www.adorama.com/images/product/ipxkfb.jpg",
+      "title": "- Pentax KF DSLR Camera Body, Black",
+      "id": 9
+    },
+    {
+      "image": "https://www.adorama.com/images/product/ipxkfb.jpg",
+      "title": "- Pentax KF DSLR Camera Body, Black",
+      "id": 10
+    },
+    {
+      "image": "https://www.adorama.com/images/product/ipxkfb.jpg",
+      "title": "- Pentax KF DSLR Camera Body, Black",
+      "id": 11
+    },
+    {
+      "image": "https://www.adorama.com/images/product/car7ckak.jpg",
+      "title": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Content Creator Kit, Acc Kit",
+      "id": 12
+    },
+    {
+      "image": "https://www.adorama.com/images/product/car7ckak.jpg",
+      "title": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Content Creator Kit, Acc Kit",
+      "id": 13
+    },
+    {
+      "image": "https://www.adorama.com/images/product/ipxkfb.jpg",
+      "title": "- Pentax KF DSLR Camera Body, Black",
+      "id": 14
+    }
+  ],
+
   "orders": [],
   "users": [],
   "Cameras": [

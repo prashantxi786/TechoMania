@@ -6,6 +6,7 @@ import Login from '../Pages/Login';
 import Signup from '../Pages/Signup';
 import ProductPage from '../Pages/ProductPage';
 import SingleProduct from '../Pages/SingleProductPage';
+import SearchResults from '../Pages/SearchResults';
 const AllRoutes = () => {
   return (
     <Routes>
@@ -26,7 +27,7 @@ const AllRoutes = () => {
           </PrivateRoute>
         }
       />
-
+      <Route path='/querypage/:category/:value' element={<SearchResults/>}/>
       <Route path="/products" element={<ProductPage/>}/>
       <Route path="/products/:id" element={<SingleProduct/>}/>
       {/* <Route path="/signup" element={<Signup/>}/> */}
