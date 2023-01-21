@@ -237,7 +237,7 @@ const Signup = () => {
                     py='4'
                     mt='2'
                     display='inline-block'
-                    src='https://i.postimg.cc/ncGjs3gP/Techo-Mania-1.png'
+                    src='https://github.com/prashantxi786/voiceless-lunchroom-7858/blob/master/src/Used_Images/TechoMania_1-removebg-preview.png?raw=true'
                     alt='logo'
                   />
                 </NavLink>
