@@ -13,14 +13,15 @@ const Homepage = () => {
         "https://www.adorama.com/images/cms/36471Hero-New-Year-New-You-Desktop@2x_02759.jpg",
         "https://www.adorama.com/images/cms/36471Hero-Lumix-S5II-Desktop@2x_10419.jpg"
       ]
+    
   return (
     <div>
         <Navbar/>
+
         <Carousel cardsArr={arr}/>
         <MidSection/>
         <Footer/>
     </div>
-
   )
 }
 

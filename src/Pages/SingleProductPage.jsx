@@ -1,6 +1,10 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import { Box, Image, Text } from '@chakra-ui/react'
+import Navbar from "../Components/Navbar";
+import Footer from "../Components/Footer";
+import { CheckCircleIcon, StarIcon } from "@chakra-ui/icons";
 
 const SingleProduct = () => {
   const [product, setProduct] = useState({});
@@ -12,11 +16,34 @@ const SingleProduct = () => {
       setProduct(res.data);
     });
   };
+  const {productImage_src,trackEvent_3,trackEvent_2,review_stars,review_count,price_reg_has_sibs}=product
+const [add,setAdd]=useState(false)
+
+const handleCart = () => {
+  let userData=JSON.parse(localStorage.getItem("user"))
+  alert("Item has been added")
+
+  axios.post(`http://localhost:8080/cart`,{
+    ...product,
+    email:userData.email,
+    time:userData.lastSignInTime
+
+//  image:productImage_src,
+//  title:trackEvent_2
+  }).then((res) => {
+    console.log(res.data)
+    
+  })
+}
+
   useEffect(() => {
     ApiFetch(id);
     console.log(product);
   }, [id]);
   return (
+    <div>
+      <Navbar/>
+    
     <div
       style={{
         display: "flex",
@@ -25,35 +52,46 @@ const SingleProduct = () => {
         // border: "1px solid blue",
       }}
     >
-      <div 
+      {/* <div 
       style={{
          height: "auto", 
          width: "600px", 
         //  border: "1px solid red" 
          }}>
-        <img style={{ width: "600px" }} src={product.productImage_src} alt="Oops, image collapsed" />
-      </div>
+        <img style={{ width: "600px" }} src={product.productImage_src} />
+      </div> */}
+
+  <Box boxSize='sm'>
+    <Image style={{height:"300px",marginTop:"20px"}} src={product.productImage_src} alt='Dan Abramov' />
+  </Box>
+
       <div>
         <div style={{
-              border: "1px solid teal",
-              width: "900px" }}>
-          <div style={{ fontSize: "40px", textAlign: "left" }}>
+              // border: "1px solid teal",
+              width: "800px",
+              marginTop:"10px" }}>
+          <div style={{ fontSize: "30px", textAlign: "left" }}>
+
             {product.trackEvent_2}
             <br />
-            <div style={{ textAlign: "left", fontSize: "20px" }}>
+            <div style={{ textAlign: "left", fontSize: "12px",marginTop:"10px" }}>
               SKU:{product.product_sku_2} MFR:{product.product_sku_4}{" "}
+
+            </div>
+            
+            <div style={{ fontSize: "15px", }}>
+            {/* review_stars */}
+            <StarIcon style={{color:"rgb(250, 189, 4)"}}/><StarIcon style={{color:"rgb(250, 189, 4)"}}/><StarIcon style={{color:"rgb(250, 189, 4)"}}/><StarIcon style={{color:"rgb(250, 189, 4)"}}/>
+            {product.review_stars} ({product.review_count})
             </div>
 
-            <div style={{ fontSize: "20px" }}>
-              {product.review_stars} ({product.review_count})
-            </div>
-
-            <div>${product.price_reg_has_sibs}</div>
+           <div style={{marginTop:"10px"}}><Text as="b" >${product.price_reg_has_sibs}</Text></div> 
             <div
               style={{
                 color: "rgb(43, 105, 229)",
                 cursor: "pointer",
-                fontSize: "20px",
+                fontSize: "15px",
+              
               }}
             >
               Get {product.price_reg_has_sibs} Reward Points
@@ -78,10 +116,11 @@ const SingleProduct = () => {
                   // border: "red",
                   borderRadius: "5px",
                   // cursor: "pointer",
-                  width: "250px",
+                  width: "300px",
                   height: "60px",
                   // marginRight:"20px"
                 }}
+                onClick={() => handleCart(product.id)}
               >
                 Add to Cart
               </button>
@@ -110,7 +149,7 @@ const SingleProduct = () => {
             </div>
           
             <div style={{display:"flex",gap:"80px"}}>
-            <p style={{color:"green",fontSize:"15px",marginTop:"5px"}}> In Stock & Ready to Ship </p> 
+            <p style={{color:"green",fontSize:"15px",marginTop:"5px"}}><CheckCircleIcon style={{color:"green"}}/> In Stock & Ready to Ship </p> 
             <p style={{color:"grey",fontSize:"25px"}}>|</p>
             <p style={{ color: "rgb(43, 105, 229)",fontSize:"15px",marginTop:"5px",marginLeft:"-30px"}}> Calculate Shipping sell all shipping options </p> 
 
@@ -119,6 +158,8 @@ const SingleProduct = () => {
           </div>
         </div>
       </div>
+    </div>
+    <Footer/>
     </div>
   );
 };

@@ -1,11 +1,14 @@
-import { Box,Flex,Link,Text,Input } from '@chakra-ui/react'
-import React from 'react'
-import { BsTelephone,BsInfoCircle } from "react-icons/bs";
+import { Box,Flex,Link,Text,Input,Select } from '@chakra-ui/react'
+import React, { useState } from 'react'
+import { BsTelephone,BsInfoCircle,BsSearch } from "react-icons/bs";
 import { TbMessageCircle2 } from "react-icons/tb";
 import { FiShoppingCart } from "react-icons/fi";
-import {RxPerson} from "react-icons/rx"
-import {HoverMenu,HoverBrandsMenu} from './HomepageComponents/Menu'; 
+import {RxPerson} from "react-icons/rx";
+import {HoverMenu,HoverBrandsMenu,HoverDropdown} from './HomepageComponents/Menu'; 
+import axios from 'axios';
+import {useNavigate} from "react-router-dom"
 const Navbar = () => {
+  
   const productsArr=[
     {h:"Photography",l:["Mirrorless Cameras",
       "Digital SLR Cameras",
@@ -86,6 +89,14 @@ const Navbar = () => {
     {h:"Deals by Category"},{h:"Deal of the Day"},{h:"Bundle & Save"},{h:"Clearance"},{h:"Top Deals"}
   ]
   
+  const [category,setCategory]=useState()
+  const navigate=useNavigate()
+  const handleEnter=(e)=>{
+    if(e.key==="Enter"){
+        navigate(`/querypage/${category}/${e.target.value}`)
+    }
+}
+
   const loggedUser=JSON.parse(localStorage.getItem("user"));
   return (
     <div>
@@ -110,15 +121,35 @@ const Navbar = () => {
           {/* Left of logo bar */}
           <Link href="/" _hover={{fontDecoration:"none"}} ml={{base:"20px",md:"50px",lg:"100"}} color="white" fontFamily="Impact" fontSize={{base:"20px",md:"40px",lg:"50px"}} w={{base:"100px",md:"205px",lg:"255px"}} h={{base:"10px",md:"20px",lg:"40px"}}>TechoMania</Link>
           {/* Right of logo Bar */}
-          <Flex mr={{base:"10px",md:"20px",lg:"50px"}} alignItems="center" color="white" justifyContent={"space-between"}>
-            <Input bgColor={"white"} borderRadius="30" placeholder={"Search"} width={{base:"100px",md:"200px",lg:"455px"}} height={{base:"10px",md:"15px",lg:"32px"}}/>
+          <Flex mr={{base:"10px",md:"20px",lg:"50px"}} alignItems="center" color="white" >
+            <Select onChange={(e)=>setCategory(e.target.value)} borderRadius="0" color="black" placeholder="Select Category" bgColor={"white"} borderLeftRadius="30" width={{base:"40px",md:"80px",lg:"150px"}} height={{base:"10px",md:"15px",lg:"32px"}}>
+              <option value="Cameras">Cameras</option>
+              <option value="Mirrorless-Cameras">Mirrorless-Cameras</option>
+              <option value="SLR-CAMERAS">SLR-CAMERAS</option>
+              <option value="Digital-Point-and-Shoot-Cameras">Digital-Point-and-Shoot-Cameras</option>
+              <option value="Memory-Cards">Memory-Cards</option>
+              <option value="Camera-Batteries">Camera-Batteries</option>
+              <option value="Light-Meters">Light-Meters</option>
+              <option value="Teleconverters">Teleconverters</option>
+              <option value="Lens-Hoods">Lens-Hoods</option>
+              <option value="Lens-Caps">Lens-Caps</option>
+              <option value="Mirrorless-Lenses">Mirrorless-Lenses</option>
+              <option value="SLR-lenses">SLR-lenses</option>
+              <option value="Neutral-Density-Filters">Neutral-Density-Filters</option>
+              <option value="Protective-Filters-UV-and-Clear">Protective-Filters-UV-and-Clear</option>
+              <option value="Custom-Photo-Products">Custom-Photo-Products</option>
+              <option value="Tripods">Tripods</option>
+              <option value="Tripod-Head">Tripod-Heads</option>
+            </Select>
+
+            <Input  color="black" onKeyPress={handleEnter} borderRadius="0" bgColor={"white"}placeholder={"Search"} width={{base:"60px",md:"100px",lg:"200px"}} height={{base:"10px",md:"15px",lg:"32px"}}/>
+            <Box display="flex" alignItems="center" bgColor="white" height={{base:"10px",md:"15px",lg:"32px"}}>
+            </Box>
             <Flex width={{base:"",md:"",lg:""}} alignItems="center" justifyContent={"space-between"}>
             <RxPerson color='white' size={"25"}/>
-              <Link href={loggedUser?"/logout":"/login"}>
-                <Text fontSize={{base:"5px",md:"8px",lg:"10"}} w={{base:"15px",md:"25px",lg:"42px"}}>{loggedUser?"Welcome":"Login"}</Text>
-                <Text fontWeight={"500"} fontSize={{base:"6px",md:"8px",lg:"12px"}}  w={{base:"20px",md:"45px",lg:"70px"}}>{loggedUser?loggedUser.firstName:"My Account"}</Text>
-              </Link>
-              <FiShoppingCart  size={"25"}/>
+              <HoverDropdown text={loggedUser?`Welcome ${loggedUser.firstName}`:"Login"} item1={"Profile"} item2={"Admin"} item3={loggedUser?"Logout":""}/>
+            <FiShoppingCart  size={"25"}/>
+
             </Flex>
           </Flex>
         </Flex>

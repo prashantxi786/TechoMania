@@ -29,3 +29,11 @@ export const updateProfileAPI = async (user, firstName, lastName) => {
     displayName: `${firstName} ${lastName}`
   });
 };
+
+export const addCurrentUserAPI = async (currentUser) => {
+  return await axios.post(`http://localhost:8080/users`, currentUser);
+};
+
+export const deleteCurrentUserAPI = async (email) => {
+  return await axios.delete(`http://localhost:8080/users/${email}`);
+};
