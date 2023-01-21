@@ -6,7 +6,6 @@ import Login from '../Pages/Login';
 import Signup from '../Pages/Signup';
 import ProductPage from '../Pages/ProductPage';
 import SingleProduct from '../Pages/SingleProductPage';
-
 const AllRoutes = () => {
   return (
     <Routes>
@@ -36,6 +35,5 @@ const AllRoutes = () => {
     </Routes>
   );
 };
-
-export default AllRoutes;
+export default AllRoutes
 
