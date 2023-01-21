@@ -60,7 +60,7 @@ const data = [
 export default function Graph_BarChart() {
   return (
     <>
-      <ResponsiveContainer height={400} width="100%">
+      <ResponsiveContainer height="100%" width="100%">
         <BarChart
           // width={750}
           // height={300}

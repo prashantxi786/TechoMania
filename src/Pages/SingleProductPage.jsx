@@ -11,10 +11,7 @@ const SingleProduct = () => {
       console.log(res.data);
       setProduct(res.data);
     });
-
-
   };
-
   const {productImage_src,trackEvent_3,trackEvent_2,review_stars,review_count,price_reg_has_sibs}=product
 const [add,setAdd]=useState(false)
 
@@ -29,8 +26,6 @@ const handleCart = () => {
     
   })
 }
-
-
 
   useEffect(() => {
     ApiFetch(id);
@@ -59,12 +54,12 @@ const handleCart = () => {
               width: "800px",
               marginTop:"10px" }}>
           <div style={{ fontSize: "30px", textAlign: "left" }}>
+
             {product.trackEvent_2}
             <br />
             <div style={{ textAlign: "left", fontSize: "20px" }}>
               SKU:{product.product_sku_2} MFR:{product.product_sku_4}{" "}
             </div>
-
             <div style={{ fontSize: "20px" }}>
               {product.review_stars} ({product.review_count})
             </div>

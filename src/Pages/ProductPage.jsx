@@ -3,8 +3,7 @@ import axios from "axios";
 import { border } from "@chakra-ui/react";
 import {FaGreaterThan} from "react-icons/fa"
 import { Link } from "react-router-dom";
-
-
+import Navbar from "../Components/Navbar";
 const ProductPage = () => {
   const [product, setProduct] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
@@ -16,8 +15,6 @@ const ProductPage = () => {
        setFilteredProducts(res.data)
     });
   };
-
-
 // cart
 const handleCart = (id) => {
   alert("Item has been added")
@@ -51,6 +48,7 @@ const handleSearch = (event) => {
   // setFilteredProducts(
     
 };
+
 
 
 
@@ -125,18 +123,19 @@ const handleSearch = (event) => {
           style={{
             display: "flex",
             gap: "30px",
-            // marginTop: "10px",
+            marginTop: "10px",
             height: "500px",
             // marginTop: "10px",
             //  backgroundColor: "rgba(225, 227, 107, 0.54)",
             paddingTop: "50px",
             paddingLeft: "50px",
             border:"5px solid rgb(223, 223, 223)",
-            
             textAlign:"left",
             // width:"1200px"
             marginRight:"20px",
-           
+            borderBottom:'3px solid rgb(175, 174, 174)',
+            textAlign:"left"
+
           }}
         >
          
@@ -144,13 +143,14 @@ const handleSearch = (event) => {
             <img
               style={{ paddingTop: "20px", width: "300px" }}
               src={el.productImage_src}
-              alt="image not found"
+              alt="not found"
+
             />
           </div>
           <div style={{ width: "60%",marginRight:"100px" }}>
-
             <h3 style={{color:"rgb(43, 105, 229)",cursor:"pointer",marginRight:"80px"}}>{el.trackEvent_3}{el.trackEvent_2}
             <Link to={`/ProductPage/${el.id}`}><h1>More details</h1></Link></h3>
+
 
             <p style={{marginRight:"80px"}}>
               SKU:{el.product_sku_2} MFR:{el.product_sku_4}{" "}
@@ -176,6 +176,7 @@ const handleSearch = (event) => {
             <p>{el.price_label}
             <br />
            <div style={{fontSize:"30px"}}>${el.price_reg_has_sibs}</div>    VIP PRO</p>
+
           <div style={{color:"green"}}> $176.67{el.promo_financing_rate_2} {el.promo_financing}</div> 
             {/* <p>${el.price_reg_has_sibs}</p> */}
             
@@ -195,7 +196,7 @@ const handleSearch = (event) => {
                 height: "50px",
                 marginRight:"20px"
               }}
-               onClick={() => handleCart(el.id) }
+               onClick={() => handleCart(el.id)}
             >
               Add to Cart
             </button>
@@ -215,6 +216,7 @@ const handleSearch = (event) => {
       ))}
     </div>
     </div>
+
   </div>
   </div>
   );
