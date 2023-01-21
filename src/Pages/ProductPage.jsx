@@ -7,47 +7,99 @@ import { Link } from "react-router-dom";
 
 const ProductPage = () => {
   const [product, setProduct] = useState([]);
+  const [searchTerm, setSearchTerm] = useState("");
+   const [filteredProducts, setFilteredProducts] = useState([]);
   const Api = () => {
     axios.get("http://localhost:8080/Cameras").then((res) => {
       console.log(res.data);
       setProduct(res.data);
+       setFilteredProducts(res.data)
     });
   };
+
+
+// cart
+const handleCart = (id) => {
+  alert("Item has been added")
+let y= product.filter((el)=>{
+  return el.id==id
+ })
+ console.log(y)
+
+  axios.post(`http://localhost:8080/cart`,{
+ image:y[0].productImage_src,
+ title:y[0].trackEvent_2
+
+  }).then((res) => {
+    console.log(res.data)
+    
+  })
+}
+
+const handleSearch = (event) => {
+
+  setSearchTerm(event.target.value);
+  if(event.target.value==="")
+  {
+    setProduct(filteredProducts)
+  }
+  else{setProduct(
+    product.filter((el) =>
+        el.trackEvent_2.toLowerCase().includes(event.target.value.toLowerCase())
+    ) 
+);}
+  // setFilteredProducts(
+    
+};
+
+
+
   useEffect(() => {
     Api();
   }, []);
   return (
-    <div style={{display:"flex",alignItems:"flex-start",justifyContent:"space-between"}}>
-     <div style={{marginTop:"150px",width:"30%",height:"4000px",fontSize:"27px"}}>
+    <div style={{display:"flex",alignItems:"flex-start",justifyContent:"space-between",
+    //  border:"1px solid red",
+    width:"100%",gap:"30px"}}>
+     <div style={{width:"30%",height:"4000px",fontSize:"27px",marginLeft:"20px",
+    //  border:"1px solid blue"
+     }}>
       Mirrorless Cameras
-      <div style={{fontSize:"20px",marginLeft:"-100px"}}>CATEGORIES:</div>
-      <div style={{fontSize:"17px",marginLeft:"-100px",color:"rgb(43, 105, 229)",cursor:"pointer"}}><u>All Categories</u></div>
-      <div style={{fontSize:"17px",marginLeft:"-140px",color:"rgb(43, 105, 229)",cursor:"pointer"}}><u>Cameras</u></div>
+      
+      <div style={{fontSize:"20px"}}>CATEGORIES:</div>
+      <div style={{fontSize:"17px",color:"rgb(43, 105, 229)",cursor:"pointer"}}><u>All Categories</u></div>
+      <div style={{fontSize:"17px",color:"rgb(43, 105, 229)",cursor:"pointer"}}><u>Cameras</u></div>
     <br />
-          <div style={{fontSize:"20px",marginLeft:"-150px"}}>
+          <div style={{fontSize:"20px"}}>
       <p>FILTERS:</p>
-      <input style={{marginLeft:"160px",border:"1px solid grey",borderRadius:"5px"}} type="text" placeholder="Search with Brands" />
-     
-      <p style={{cursor: "pointer",marginTop:"15px"}}>Brand</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"50px",marginTop:"15px"}}>Sensor Size</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"7px",marginTop:"15px"}}>Model</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"65px",marginTop:"15px"}}>Configuration</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"35px",marginTop:"15px"}}>Resolution</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"100px",marginTop:"15px"}}>Max Video Quality</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"120px",marginTop:"15px"}}>In Body Stabilization</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"70px",marginTop:"15px"}}>Lens Included</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"80px",marginTop:"15px"}}>Special Features</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"40px",marginTop:"15px"}}>Viewfinder</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"5px",marginTop:"15px"}}>Color</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"5px",marginTop:"15px"}}>Series</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"-4px",marginTop:"15px"}}>Wifi</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"10px",marginTop:"15px"}}>Edition</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"50px",marginTop:"15px"}}>Lens Mount</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"20px",marginTop:"15px"}}>Kit Style</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"50px",marginTop:"15px"}}>Price Range</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"100px",marginTop:"15px"}}>Rating & Reviews</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"10px",marginTop:"15px"}}>Filter By</p><hr />
-      <p style={{cursor: "pointer",marginLeft:"15px",marginTop:"15px"}}>Discount</p><hr /><FaGreaterThan/>
+      <input style={{border:"1px solid grey",borderRadius:"5px"}} onChange={handleSearch} type="text" placeholder="Search with Brands" />
+      <div style={{cursor: "pointer",marginTop:"15px"}}>
+      <p style={{marginTop:"15px"}}>Brand</p><hr />
+      <p style={{marginTop:"15px"}}>Sensor Size</p><hr />
+      <p style={{marginTop:"15px"}}>Model</p><hr />
+      <p style={{marginTop:"15px"}}>Configuration</p><hr />
+      <p style={{marginTop:"15px"}}>Resolution</p><hr />
+      <p style={{marginTop:"15px"}}>Max Video Quality</p><hr />
+      <p style={{marginTop:"15px"}}>In Body Stabilization</p><hr />
+      <p style={{marginTop:"15px"}}>Lens Included</p><hr />
+      <p style={{marginTop:"15px"}}>Special Features</p><hr />
+      <p style={{marginTop:"15px"}}>Viewfinder</p><hr />
+      <p style={{marginTop:"15px"}}>Color</p><hr />
+      <p style={{marginTop:"15px"}}>Series</p><hr />
+      <p style={{marginTop:"15px"}}>Wifi</p><hr />
+      <p style={{marginTop:"15px"}}>Edition</p><hr />
+      <p style={{marginTop:"15px"}}>Lens Mount</p><hr />
+      <p style={{marginTop:"15px"}}>Kit Style</p><hr />
+      <p style={{marginTop:"15px"}}>Price Range</p><hr />
+      <p style={{marginTop:"15px"}}>Rating & Reviews</p><hr />
+      <p style={{marginTop:"15px"}}>Filter By</p><hr />
+      <p style={{marginTop:"15px"}}>Discount</p><hr />
+
+
+
+      </div>
+      <br />
+     <p style={{fontSize:"15px"}}> FEATURED BRANDS:</p>
       </div>
       </div>
      
@@ -61,7 +113,7 @@ const ProductPage = () => {
         width: "100%",
         float: "right",
         gap: "20px",
-        marginTop:"100px",
+        
         border:"3px solid rgb(223, 223, 223)"
         
        
@@ -73,15 +125,18 @@ const ProductPage = () => {
           style={{
             display: "flex",
             gap: "30px",
-            marginTop: "10px",
+            // marginTop: "10px",
             height: "500px",
             // marginTop: "10px",
             //  backgroundColor: "rgba(225, 227, 107, 0.54)",
             paddingTop: "50px",
             paddingLeft: "50px",
-            // border:'3px solid rgb(175, 174, 174)',
-            textAlign:"left"
- 
+            border:"5px solid rgb(223, 223, 223)",
+            
+            textAlign:"left",
+            // width:"1200px"
+            marginRight:"20px",
+           
           }}
         >
          
@@ -94,8 +149,9 @@ const ProductPage = () => {
           </div>
           <div style={{ width: "60%",marginRight:"100px" }}>
 
-            <h3 style={{color:"rgb(43, 105, 229)",cursor:"pointer",marginRight:"80px"}}>{el.trackEvent_3}{el.trackEvent_2}</h3>
-            <Link to={`/ProductPage/${el.id}`}><h1>More details</h1></Link>
+            <h3 style={{color:"rgb(43, 105, 229)",cursor:"pointer",marginRight:"80px"}}>{el.trackEvent_3}{el.trackEvent_2}
+            <Link to={`/ProductPage/${el.id}`}><h1>More details</h1></Link></h3>
+
             <p style={{marginRight:"80px"}}>
               SKU:{el.product_sku_2} MFR:{el.product_sku_4}{" "}
               <br />
@@ -119,7 +175,7 @@ const ProductPage = () => {
           <div>
             <p>{el.price_label}
             <br />
-           <div style={{fontSize:"40px"}}>${el.price_reg_has_sibs}</div>    VIP PRO</p>
+           <div style={{fontSize:"30px"}}>${el.price_reg_has_sibs}</div>    VIP PRO</p>
           <div style={{color:"green"}}> $176.67{el.promo_financing_rate_2} {el.promo_financing}</div> 
             {/* <p>${el.price_reg_has_sibs}</p> */}
             
@@ -139,6 +195,7 @@ const ProductPage = () => {
                 height: "50px",
                 marginRight:"20px"
               }}
+               onClick={() => handleCart(el.id) }
             >
               Add to Cart
             </button>
