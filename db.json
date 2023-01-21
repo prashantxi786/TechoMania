@@ -131,6 +131,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxkfb.jpg",
       "trackEvent_2": "- Pentax KF DSLR Camera Body, Black",
       "trackEvent_3": "New Arrival",
@@ -165,6 +166,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipczs80b.jpg",
       "trackEvent_2": "- Panasonic LUMIX DC-ZS80D Digital Camera, Black",
       "trackEvent_3": "New Arrival",
@@ -203,6 +205,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car7ckek.jpg",
       "trackEvent_2": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Creator Kit, Essential Kit",
       "trackEvent_3": "New Arrival",
@@ -284,6 +287,7 @@
       "buy_section_14": "Configuration"
     },
     {
+
       "id": "IPCZS80S",
       "item_tag": "New Arrival",
       "search_queries": [
@@ -293,6 +297,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipczs80s.jpg",
       "trackEvent_2": "- Panasonic LUMIX DC-ZS80D Digital Camera, Silver",
       "trackEvent_3": "New Arrival",
@@ -331,6 +336,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxkfbk.jpg",
       "trackEvent_2": "- Pentax KF DSLR Camera with DA L 18-55mm f/3.5-5.6 AL WR Lens, Black",
       "trackEvent_3": "New Arrival",
@@ -366,6 +372,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkaz255rd.jpg",
       "trackEvent_2": "- Kodak PIXPRO Astro Zoom AZ255 16MP Full HD 3\" LCD Screen Digital Camera, Red",
       "trackEvent_3": "New Arrival",
@@ -402,6 +409,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkaz255wh.jpg",
       "trackEvent_2": "- Kodak PIXPRO Astro Zoom AZ255 16MP Full HD 3\" LCD Screen Digital Camera, White",
       "trackEvent_3": "New Arrival",
@@ -438,6 +446,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbak.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -478,6 +487,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car7ckpk.jpg",
       "trackEvent_2": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Creator Kit, Photography Kit",
       "trackEvent_3": "New Arrival",
@@ -521,6 +531,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbpc.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with PC Software & Accessories",
       "trackEvent_3": "New Arrival",
@@ -561,6 +572,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car10ckpk.jpg",
       "trackEvent_2": "- Canon EOS R10 Mirrorless Camera w/18-45mm Lens Content Creator & Photography Kit",
       "trackEvent_3": "New Arrival",
@@ -604,6 +616,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbek.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with Essential Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -644,6 +657,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbmc.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with Mac Software & Accessories",
       "trackEvent_3": "New Arrival",
@@ -684,6 +698,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbvk.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with Vlogger Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -724,6 +739,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwak.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -764,6 +780,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwmc.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with Mac Software & Accessories",
       "trackEvent_3": "New Arrival",
@@ -804,6 +821,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwek.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with Essential Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -844,6 +862,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwvk.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with Vlogger Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -884,6 +903,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/iomom1.jpg",
       "trackEvent_2": "OM SYSTEM OM-1 Mirrorless Digital Camera",
       "trackEvent_3": "",
@@ -926,6 +946,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/iomom5b.jpg",
       "trackEvent_2": "OM SYSTEM OM-5 Mirrorless Digital Camera Body, Black",
       "trackEvent_3": "",
@@ -968,6 +989,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5.jpg",
       "trackEvent_2": "Canon EOS R5 Mirrorless Digital Camera Body",
       "trackEvent_3": "",
@@ -1005,6 +1027,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3x.jpg",
       "trackEvent_2": "Ricoh GR IIIx Compact Digital Camera",
       "trackEvent_3": "",
@@ -1040,6 +1063,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4l.jpg",
       "trackEvent_2": "Canon EOS 5D Mark IV DSLR Body with Canon Log",
       "trackEvent_3": "",
@@ -1079,6 +1103,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkwpz2yl.jpg",
       "trackEvent_2": "Kodak PIXPRO WPZ2 Waterproof Rugged Digital Camera, Yellow",
       "trackEvent_3": "",
@@ -1115,6 +1140,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipx645z.jpg",
       "trackEvent_2": "Pentax 645Z Medium Format Digital SLR Camera Body",
       "trackEvent_3": "",
@@ -1153,6 +1179,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/pcs5k.jpg",
       "trackEvent_2": "Panasonic Lumix DC-S5 Mirrorless Camera, Lumix S 20-60mm f/3.5-5.6 L-Mount Lens",
       "trackEvent_3": "",
@@ -1197,6 +1224,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/iomom1k.jpg",
       "trackEvent_2": "OM SYSTEM OM-1 Mirrorless Digital Camera w/ M.Zuiko ED 12-40mm PRO II Lens Kit",
       "trackEvent_3": "",
@@ -1239,6 +1267,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz9.jpg",
       "trackEvent_2": "Nikon Z 9 Mirrorless Digital Camera Body",
       "trackEvent_3": "",
@@ -1283,6 +1312,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3xu.jpg",
       "trackEvent_2": "Ricoh GR IIIx Urban Edition Digital Camera",
       "trackEvent_3": "",
@@ -1318,6 +1348,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car10.jpg",
       "trackEvent_2": "Canon EOS R10 Mirrorless Digital Camera Body",
       "trackEvent_3": "",
@@ -1362,6 +1393,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7r5.jpg",
       "trackEvent_2": "Sony Alpha a7R V Mirrorless Digital Camera Body",
       "trackEvent_3": "",
@@ -1405,6 +1437,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz9ftz.jpg",
       "trackEvent_2": "Nikon Z 9 Mirrorless Digital Camera Body with FTZ II Mount Adapter",
       "trackEvent_3": "",
@@ -1449,6 +1482,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/lcm11b.jpg",
       "trackEvent_2": "Leica M11 Digital Rangefinder Camera, Black",
       "trackEvent_3": "",
@@ -1491,6 +1525,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/carpk4.jpg",
       "trackEvent_2": "Canon EOS RP 26.2MP Mirrorless Digital Camera w/ RF 24-105mm F4-7.1 IS STM Lens",
       "trackEvent_3": "",
@@ -1533,6 +1568,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5bg.jpg",
       "trackEvent_2": "Canon EOS R5 Mirrorless Digital Camera Body with Battery Grip Kit",
       "trackEvent_3": "",
@@ -1578,6 +1614,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7sm3.jpg",
       "trackEvent_2": "Sony Alpha a7S III Mirrorless Digital Camera Body",
       "trackEvent_3": "",
@@ -1615,6 +1652,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/lcm11s.jpg",
       "trackEvent_2": "Leica M11 Digital Rangefinder Camera, Silver Chrome",
       "trackEvent_3": "",
@@ -1659,6 +1697,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7r3n.jpg",
       "trackEvent_2": "Sony Alpha a7R III Mirrorless Digital Camera Body (V2)",
       "trackEvent_3": "",
@@ -1701,6 +1740,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica1dxm3.jpg",
       "trackEvent_2": "Canon EOS 1DX Mark III DSLR Body",
       "trackEvent_3": "",
@@ -1736,6 +1776,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car10k.jpg",
       "trackEvent_2": "Canon EOS R10 Mirrorless Digital Camera with RF-S 18-150mm f/3.5-6.3 IS STM Lens",
       "trackEvent_3": "",
@@ -1780,6 +1821,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkfz55bk.jpg",
       "trackEvent_2": "Kodak PIXPRO FZ55 Friendly Zoom Digital Camera, Black",
       "trackEvent_3": "",
@@ -1816,6 +1858,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3n.jpg",
       "trackEvent_2": "Ricoh GR III Digital Camera - Black",
       "trackEvent_3": "",
@@ -1851,6 +1894,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ifjxh2s.jpg",
       "trackEvent_2": "Fujifilm X-H2S Mirrorless Digital Camera Body, Black",
       "trackEvent_3": "",
@@ -1895,6 +1939,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/sgfpk.jpg",
       "trackEvent_2": "Sigma fp Mirrorless Digital Camera with 45mm f/2.8 DG DN Contemporary Lens",
       "trackEvent_3": "",
@@ -1939,6 +1984,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7m4k.jpg",
       "trackEvent_2": "Sony Alpha a7 IV Mirrorless Digital Camera with FE 28-70mm Lens",
       "trackEvent_3": "",
@@ -1982,6 +2028,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car6.jpg",
       "trackEvent_2": "Canon EOS R6 Mirrorless Digital Camera Body",
       "trackEvent_3": "",
@@ -2027,6 +2074,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/pcs5.jpg",
       "trackEvent_2": "Panasonic Lumix DC-S5 Mirrorless Digital Camera",
       "trackEvent_3": "",
@@ -2071,6 +2119,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkfz45rd.jpg",
       "trackEvent_2": "Kodak PIXPRO FZ45 Friendly Zoom Digital Camera, Red",
       "trackEvent_3": "",
@@ -2107,6 +2156,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4.jpg",
       "trackEvent_2": "Canon EOS 5D Mark IV DSLR Body",
       "trackEvent_3": "",
@@ -2146,6 +2196,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car6m2k.jpg",
       "trackEvent_2": "Canon EOS R6 Mark II Mirrorless Digital Camera with RF 24-105mm f/4 Lens, Black",
       "trackEvent_3": "",
@@ -2188,6 +2239,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7m4.jpg",
       "trackEvent_2": "Sony Alpha a7 IV Mirrorless Digital Camera",
       "trackEvent_3": "",
@@ -2231,6 +2283,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car10kpk.jpg",
       "trackEvent_2": "Canon EOS R10 Mirrorless Camera w/RF-S 18-150mm f/3.5-6.3 Lens & Photography Kit",
       "trackEvent_3": "",
@@ -2274,6 +2327,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxk3m3b.jpg",
       "trackEvent_2": "Pentax K-3 Mark III APS-C-Format DSLR Camera Black with D-BG8 Battery Grip Black",
       "trackEvent_3": "",
@@ -2312,6 +2366,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car3.jpg",
       "trackEvent_2": "Canon EOS R3 Mirrorless Camera Body",
       "trackEvent_3": "",
@@ -2354,6 +2409,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa1.jpg",
       "trackEvent_2": "Sony Alpha 1 Mirrorless Digital Camera",
       "trackEvent_3": "",
@@ -2395,6 +2451,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car6k2.jpg",
       "trackEvent_2": "Canon EOS R6 Mirrorless Digital Camera with RF 24-105mm f/4-7.1 STM Lens",
       "trackEvent_3": "",
@@ -2439,6 +2496,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ifjgfx100sl1.jpg",
       "trackEvent_2": "Fujifilm GFX 100S Medium Format Mirrorless Camera, Black with 80mm f/1.7 Lens",
       "trackEvent_3": "",
@@ -2473,6 +2531,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz6m2l2.jpg",
       "trackEvent_2": "Nikon Z 6II Mirrorless Digital Camera with 24-70mm f/2.8 S Lens",
       "trackEvent_3": "",
@@ -2517,6 +2576,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/iomepl10bk1.jpg",
       "trackEvent_2": "Olympus PEN E-PL10 Camera with 14-42mm EZ Lens, Black Camera with Black Lens",
       "trackEvent_3": "",
@@ -2557,6 +2617,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkfz55bl.jpg",
       "trackEvent_2": "Kodak PIXPRO FZ55 Friendly Zoom Digital Camera, Blue",
       "trackEvent_3": "",
@@ -2593,6 +2654,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car.jpg",
       "trackEvent_2": "Canon EOS R Full-Frame Mirrorless Digital Camera, Black",
       "trackEvent_3": "",
@@ -2636,6 +2698,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcgx85bk2.jpg",
       "trackEvent_2": "Panasonic Lumix DMC-GX85 Mirrorless w/12-32mm & 45-150mm Lenses, Black",
       "trackEvent_3": "",
@@ -2672,6 +2735,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcg95k.jpg",
       "trackEvent_2": "Panasonic Lumix G95 Mirrorless Camera w/Lumix G Vario 12-60mm f/3.5-5.6 MFT Lens",
       "trackEvent_3": "",
@@ -2716,6 +2780,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ilcq2.jpg",
       "trackEvent_2": "Leica Q2 Compact Digital Camera",
       "trackEvent_3": "",
@@ -2752,6 +2817,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxk3m3.jpg",
       "trackEvent_2": "Pentax K-3 Mark III APS-C-Format DSLR Camera Body, Black",
       "trackEvent_3": "",
@@ -2790,6 +2856,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ifjxp3b.jpg",
       "trackEvent_2": "Fujifilm X-Pro3 Mirrorless Digital Camera, Black",
       "trackEvent_3": "",
@@ -2823,6 +2890,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car6k1t.jpg",
       "trackEvent_2": "Canon EOS R6 FF Mirrorless Camera w/RF 24-105mm USM Lens Bundle with Tripod Kit",
       "trackEvent_3": "",
@@ -2868,6 +2936,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ifjxt4b.jpg",
       "trackEvent_2": "Fujifilm X-T4 Mirrorless Digital Camera Body, Black",
       "trackEvent_3": "",
@@ -2912,6 +2981,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5b.jpg",
       "trackEvent_2": "Canon EOS R5 Mirrorless Camera Body with 128GB CFexpress Card, Reader",
       "trackEvent_3": "",
@@ -2957,6 +3027,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/sgfpkfa.jpg",
       "trackEvent_2": "Sigma fp Mirrorless Camera w/45mm f/2.8 DG DN Lens, w/128GB Card & MT-11 Tripod",
       "trackEvent_3": "",
@@ -3002,6 +3073,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5l1.jpg",
       "trackEvent_2": "Canon EOS R5 Mirrorless Digital Camera with Canon RF 24-70mm f/2.8 L IS USM Lens",
       "trackEvent_3": "",
@@ -3047,6 +3119,7 @@
         "digital cameras"
       ],
       "category": "cameras",
+      "api_key": "Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5k1.jpg",
       "trackEvent_2": "Canon EOS R5 Mirrorless Digital Camera with RF 24-105mm f/4 L IS USM Lens",
       "trackEvent_3": "",
@@ -3080,44 +3153,6 @@
       "buy_section_12": "Configuration",
       "buy_section_13": ": Yes",
       "buy_section_14": "Wifi"
-    },
-    {
-      "id": "IRCWG6OR",
-      "item_tag": "Special",
-      "search_queries": [
-        "camera",
-        "cameras",
-        "digital camera",
-        "digital cameras"
-      ],
-      "category": "cameras",
-      "productImage_src": "https://www.adorama.com/images/product/ircwg6or.jpg",
-      "trackEvent_2": "Ricoh WG-6 Digital Camera, Orange",
-      "trackEvent_3": "",
-      "review_stars": 5,
-      "review_count": 4,
-      "product_sku_2": "IRCWG6OR",
-      "product_sku_4": "03853",
-      "price_reg_has_sibs": "396.95",
-      "price_reg_has_sibs_2": "Regular Price:",
-      "price-credit": "-$50.00",
-      "price-credit 2": "Instant Rebate:",
-      "price_label": "Final Price",
-      "your_price": 36.95,
-      "vip-shipping": "VIP",
-      "vip-shipping 2": "PRO",
-      "promo_financing": "suggested payments with 6‑month special financing.",
-      "promo_financing_rate": "58",
-      "promo_financing_rate_2": "/mo",
-      "promo_financing_learn_how": "Learn how.",
-      "buy_section": ": 5x Optical Zoom",
-      "buy_section_2": "Optical Zoom",
-      "buy_section_3": ": 20 MP",
-      "buy_section_4": "Resolution",
-      "buy_section_5": ": Includes Camera Only",
-      "buy_section_6": "Configuration",
-      "buy_section_7": ": 7.2x Optical Zoom",
-      "buy_section_8": "Digital Zoom"
     }
   ],
   "Mirrorless-Cameras": [
@@ -3130,6 +3165,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car7ckak.jpg",
       "trackEvent_2": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Content Creator Kit, Acc Kit",
       "trackEvent_3": "New Arrival",
@@ -3171,6 +3207,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car7ckek.jpg",
       "trackEvent_2": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Creator Kit, Essential Kit",
       "trackEvent_3": "New Arrival",
@@ -3212,6 +3249,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car10ckak.jpg",
       "trackEvent_2": "- Canon EOS R10 Mirrorless Camera w/18-45mm Lens Content Creator & Accessory Kit",
       "trackEvent_3": "New Arrival",
@@ -3253,6 +3291,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car10ckpk.jpg",
       "trackEvent_2": "- Canon EOS R10 Mirrorless Camera w/18-45mm Lens Content Creator & Photography Kit",
       "trackEvent_3": "New Arrival",
@@ -3294,6 +3333,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car7ckpk.jpg",
       "trackEvent_2": "- Canon EOS R7 Mirrorless Camera with 18-45mm Lens w/Creator Kit, Photography Kit",
       "trackEvent_3": "New Arrival",
@@ -3335,6 +3375,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car3.jpg",
       "trackEvent_2": "Canon EOS R3 Mirrorless Camera Body",
       "trackEvent_3": "",
@@ -3376,6 +3417,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7r5.jpg",
       "trackEvent_2": "Sony Alpha a7R V Mirrorless Digital Camera Body",
       "trackEvent_3": "",
@@ -3418,6 +3460,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5.jpg",
       "trackEvent_2": "Canon EOS R5 Mirrorless Digital Camera Body",
       "trackEvent_3": "",
@@ -3467,6 +3510,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz6m2.jpg",
       "trackEvent_2": "Nikon Z 6II Mirrorless Digital Camera",
       "trackEvent_3": "Save up to $800 with bundle",
@@ -3518,6 +3562,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7m4.jpg",
       "trackEvent_2": "Sony Alpha a7 IV Mirrorless Digital Camera",
       "trackEvent_3": "Save up to $200 with bundle",
@@ -3562,6 +3607,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz9.jpg",
       "trackEvent_2": "Nikon Z 9 Mirrorless Digital Camera Body",
       "trackEvent_3": "Save up to $800 with bundle",
@@ -3605,6 +3651,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/iomom1.jpg",
       "trackEvent_2": "OM SYSTEM OM-1 Mirrorless Digital Camera",
       "trackEvent_3": "",
@@ -3654,6 +3701,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car6.jpg",
       "trackEvent_2": "Canon EOS R6 Mirrorless Digital Camera Body",
       "trackEvent_3": "2049.00 in Used",
@@ -3705,6 +3753,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa9m2.jpg",
       "trackEvent_2": "Sony Alpha a9 II Mirrorless Digital Camera Body",
       "trackEvent_3": "3499.00 in Used",
@@ -3748,6 +3797,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7m2k.jpg",
       "trackEvent_2": "Sony Alpha a7II Mirrorless with 28-70mm OSS Lens",
       "trackEvent_3": "",
@@ -3798,6 +3848,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz9ftz.jpg",
       "trackEvent_2": "Nikon Z 9 Mirrorless Digital Camera Body with FTZ II Mount Adapter",
       "trackEvent_3": "Save up to $800 with bundle",
@@ -3841,6 +3892,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7sm3.jpg",
       "trackEvent_2": "Sony Alpha a7S III Mirrorless Digital Camera Body",
       "trackEvent_3": "Save up to $300 with bundle",
@@ -3884,6 +3936,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5bg.jpg",
       "trackEvent_2": "Canon EOS R5 Mirrorless Digital Camera Body with Battery Grip Kit",
       "trackEvent_3": "",
@@ -3925,6 +3978,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz6m2l2.jpg",
       "trackEvent_2": "Nikon Z 6II Mirrorless Digital Camera with 24-70mm f/2.8 S Lens",
       "trackEvent_3": "Save up to $800 with bundle",
@@ -3969,6 +4023,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz6m2ma.jpg",
       "trackEvent_2": "Nikon Z 6II Mirrorless Digital Camera with Nikon FTZ II Mount Adapter",
       "trackEvent_3": "Save up to $800 with bundle",
@@ -4014,6 +4069,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7m2.jpg",
       "trackEvent_2": "Sony Alpha a7 II Mirrorless Digital Camera",
       "trackEvent_3": "Save up to $200 with bundle",
@@ -4064,6 +4120,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz7m2ma.jpg",
       "trackEvent_2": "Nikon Z 7II Mirrorless Digital Camera Body with FTZ II Mount Adapter",
       "trackEvent_3": "Save up to $800 with bundle",
@@ -4108,6 +4165,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz7m2.jpg",
       "trackEvent_2": "Nikon Z 7II Mirrorless Digital Camera",
       "trackEvent_3": "Save up to $800 with bundle",
@@ -4159,6 +4217,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ifjxp3ds.jpg",
       "trackEvent_2": "Fujifilm X-Pro3 Mirrorless Digital Camera, Dura Silver",
       "trackEvent_3": "",
@@ -4200,6 +4259,7 @@
         "camera"
       ],
       "category": "mirrorless camera",
+      "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5l1.jpg",
       "trackEvent_2": "Canon EOS R5 Mirrorless Digital Camera with Canon RF 24-70mm f/2.8 L IS USM Lens",
       "trackEvent_3": "",
@@ -4244,6 +4304,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Canon EOS 5D Mark IV DSLR Body",
@@ -4275,6 +4336,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4l.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Canon EOS 5D Mark IV DSLR Body with Canon Log",
@@ -4312,6 +4374,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/inkd6.jpg",
       "item_tag_2": "Top Rated Gear",
       "trackEvent_2": "Nikon D6 FX-Format Digital SLR Camera Body",
@@ -4345,6 +4408,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica1dxm3.jpg",
       "item_tag_2": "Top Rated Gear",
       "trackEvent_2": "Canon EOS 1DX Mark III DSLR Body",
@@ -4377,6 +4441,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icasl3.jpg",
       "item_tag_2": "",
       "trackEvent_2": "Canon EOS Rebel SL3 DSLR Body - Black",
@@ -4409,6 +4474,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4k.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Canon EOS 5D Mark IV DSLR with 24-105mm USM Lens",
@@ -4446,6 +4512,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icat8ik2.jpg",
       "item_tag_2": "Kit Savings",
       "trackEvent_2": "Canon EOS Rebel T8i DSLR Camera with EF-S 18-55mm and EF 75-300mm f/4-5.6 Lens",
@@ -4477,6 +4544,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icasl3k1.jpg",
       "item_tag_2": "",
       "trackEvent_2": "Canon EOS Rebel SL3 DSLR Camera with EF-S 18-55mm f/4-5.6 IS STM Lens - Black",
@@ -4509,6 +4577,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4kfl.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Canon EOS 5D Mark IV with ED 24-105mm Lens and Flashpoint Zoom Li-on X TTL",
@@ -4552,6 +4621,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica6dm2k.jpg",
       "item_tag_2": "Top Rated Gear",
       "trackEvent_2": "Canon EOS 6D Mark II DSLR with EF 24-105mm f/4L IS II USM Lens",
@@ -4581,6 +4651,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icat7k.jpg",
       "item_tag_2": "Top Rated Gear",
       "trackEvent_2": "Canon EOS Rebel T7 24.1MP DSLR Camera with EF-S 18-55mm f/3.5-5.6 IS II Lens",
@@ -4619,6 +4690,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icat7ka.jpg",
       "item_tag_2": "34% Off",
       "trackEvent_2": "Canon EOS Rebel T7 DSLR Camera with EF-S 18-55mm f/3.5-5.6 II Lens W/Acc Bundle",
@@ -4653,6 +4725,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icat8ik.jpg",
       "item_tag_2": "Top Rated Gear",
       "trackEvent_2": "Canon EOS Rebel T8i DSLR Camera with EF-S 18-55mm f/4-5.6 IS STM Lens",
@@ -4688,6 +4761,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4kb.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Canon EOS 5D Mark IV DSLR with 24-105mm USM Lens with Premium Accessory Bundle",
@@ -4722,6 +4796,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/inkd7500k.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Nikon D7500 DSLR with 18-140mm VR Lens",
@@ -4768,6 +4843,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icasl3k1am.jpg",
       "item_tag_2": "",
       "trackEvent_2": "Canon EOS Rebel SL3 DSLR Camera with EF-S 18-55mm f/4-5.6 Lens Black W/Acc Kit",
@@ -4803,6 +4879,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/inkd850.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Nikon D850 DSLR Camera Body",
@@ -4843,6 +4920,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxk12.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Pentax K-1 Mark II DSLR Camera Body",
@@ -4885,6 +4963,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icasl3kw1.jpg",
       "item_tag_2": "",
       "trackEvent_2": "Canon EOS Rebel SL3 DSLR Camera with EF-S 18-55mm f/4-5.6 IS STM Lens - White",
@@ -4917,6 +4996,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxk12k.jpg",
       "item_tag_2": "17% Off",
       "trackEvent_2": "Pentax K-1 Mark II Digital SLR with HD Pentax-D FA L 28-105mm F3.5/5.6 ED Lens",
@@ -4959,6 +5039,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/inkd6ak.jpg",
       "item_tag_2": "Kit Savings",
       "trackEvent_2": "Nikon D6 FX-Format Digital SLR Camera Body w/ 3x EN-EL18c Battery, Cleaning Kit",
@@ -4989,6 +5070,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxk3m3b.jpg",
       "item_tag_2": "",
       "trackEvent_2": "Pentax K-3 Mark III APS-C-Format DSLR Camera Black with D-BG8 Battery Grip Black",
@@ -5029,6 +5111,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica6dm2kfl.jpg",
       "item_tag_2": "Kit Savings",
       "trackEvent_2": "Canon EOS 6D Mark II DSLR with EF 24-105mm f/4L IS II USM Lens With LI-ON Flash",
@@ -5064,6 +5147,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica6dm2.jpg",
       "item_tag_2": "Top Rated Gear",
       "trackEvent_2": "Canon EOS 6D Mark II DSLR Camera Body",
@@ -5096,6 +5180,7 @@
         "camera"
       ],
       "category": "slr cameras",
+      "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4b.jpg",
       "item_tag_2": "Special",
       "trackEvent_2": "Canon EOS 5D Mark IV DSLR Body with Premium Accessory Bundle",
@@ -5132,6 +5217,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipczs80b.jpg",
       "trackEvent_2": "- Panasonic LUMIX DC-ZS80D Digital Camera, Black",
       "trackEvent_3": "New Arrival",
@@ -5171,6 +5257,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipczs80s.jpg",
       "trackEvent_2": "- Panasonic LUMIX DC-ZS80D Digital Camera, Silver",
       "trackEvent_3": "New Arrival",
@@ -5210,6 +5297,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkaz255wh.jpg",
       "trackEvent_2": "- Kodak PIXPRO Astro Zoom AZ255 16MP Full HD 3\" LCD Screen Digital Camera, White",
       "trackEvent_3": "New Arrival",
@@ -5249,6 +5337,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkaz255rd.jpg",
       "trackEvent_2": "- Kodak PIXPRO Astro Zoom AZ255 16MP Full HD 3\" LCD Screen Digital Camera, Red",
       "trackEvent_3": "New Arrival",
@@ -5288,6 +5377,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbak.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -5330,6 +5420,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbpc.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with PC Software & Accessories",
       "trackEvent_3": "New Arrival",
@@ -5372,6 +5463,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbek.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with Essential Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -5414,6 +5506,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbmc.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with Mac Software & Accessories",
       "trackEvent_3": "New Arrival",
@@ -5456,6 +5549,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbvk.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, Black with Vlogger Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -5498,6 +5592,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwak.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -5540,6 +5635,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwvk.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with Vlogger Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -5582,6 +5678,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwek.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with Essential Accessories Kit",
       "trackEvent_3": "New Arrival",
@@ -5624,6 +5721,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwmc.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with Mac Software & Accessories",
       "trackEvent_3": "New Arrival",
@@ -5666,6 +5764,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwpc.jpg",
       "trackEvent_2": "- Sony ZV-1F Vlogging Camera, White with PC Software & Accessories",
       "trackEvent_3": "New Arrival",
@@ -5708,6 +5807,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3x.jpg",
       "trackEvent_2": "Ricoh GR IIIx Compact Digital Camera",
       "trackEvent_3": "",
@@ -5750,6 +5850,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3n.jpg",
       "trackEvent_2": "Ricoh GR III Digital Camera - Black",
       "trackEvent_3": "",
@@ -5789,6 +5890,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcdmczs100s.jpg",
       "trackEvent_2": "Panasonic Lumix DMC-ZS100 Digital Camera, Silver",
       "trackEvent_3": "",
@@ -5831,6 +5933,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcdmczs100b.jpg",
       "trackEvent_2": "Panasonic Lumix DMC-ZS100 Digital Camera, Black",
       "trackEvent_3": "",
@@ -5870,6 +5973,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3xu.jpg",
       "trackEvent_2": "Ricoh GR IIIx Urban Edition Digital Camera",
       "trackEvent_3": "",
@@ -5909,6 +6013,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcdmclx10.jpg",
       "trackEvent_2": "Panasonic Lumix DMC-LX10 Digital Camera, Black",
       "trackEvent_3": "",
@@ -5951,6 +6056,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkaz652bk.jpg",
       "trackEvent_2": "KODAK PIXPRO AZ652 20MP Digital Camera, Black",
       "trackEvent_3": "",
@@ -5990,6 +6096,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkwpz2yl.jpg",
       "trackEvent_2": "Kodak PIXPRO WPZ2 Waterproof Rugged Digital Camera, Yellow",
       "trackEvent_3": "",
@@ -6029,6 +6136,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icag7xm2.jpg",
       "trackEvent_2": "Canon PowerShot G7 X Mark II Digital Camera",
       "trackEvent_3": "",
@@ -6068,6 +6176,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcdmczs200b.jpg",
       "trackEvent_2": "Panasonic Lumix DC-ZS200 Digital Point & Shoot Camera, Black",
       "trackEvent_3": "",
@@ -6107,6 +6216,7 @@
         "camera"
       ],
       "category": "cameras",
+      "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isorx10m4.jpg",
       "trackEvent_2": "Sony Cyber-shot DSC-RX10 IV 20.1MP Digital Camera, Black",
       "trackEvent_3": "",
@@ -6150,6 +6260,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/abursa512cx2.jpg",
       "trackEvent_2": "Angelbird Match Pack for URSA Mini, 2x AV PRO CF 512GB CFast 2.0 Memory Card",
       "review_stars": 5,
@@ -6181,6 +6292,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/sdpcvn4256gg.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk Professional PRO-CINEMA 256GB CFexpress VPG400 Type-B Memory Card",
@@ -6217,6 +6329,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idscfep4k256.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk 256GB Extreme PRO Compact Flash Memory Card",
@@ -6249,6 +6362,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idssdcfe256g.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk Extreme PRO 256GB CFexpress Type-B Card, 1700MB/s Read, 1200MB/s Write",
@@ -6285,6 +6399,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idssdcfe512g.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk Extreme PRO 512GB CFexpress Type-B Card, 1700MB/s Read, 1400MB/s Write",
@@ -6321,6 +6436,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/soceag64t.jpg",
       "trackEvent": "",
       "trackEvent_2": "Sony CEA-G Series TOUGH 640GB CFexpress Type-A Memory Card",
@@ -6353,6 +6469,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/pnxpro90256g.jpg",
       "trackEvent": "",
       "trackEvent_2": "PNY Technologies X-PRO 90 256GB Class 10 U3 V90 UHS-II SDXC Flash Memory Card",
@@ -6385,6 +6502,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/soceag32t.jpg",
       "trackEvent": "Sell or Trade your Gear",
       "trackEvent_2": "Sony CEA-G Series TOUGH 320GB CFexpress Type-A Memory Card",
@@ -6422,6 +6540,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idscf2ep512d.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk Extreme PRO 512GB CFast 2.0 Memory Card",
@@ -6458,6 +6577,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idsdxdk256ga.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk 256GB Extreme PRO UHS-II SDXC Memory Card, 300MB/s Read, 260MB/s Write",
@@ -6494,6 +6614,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idsdxdk128ga.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk 128GB Extreme PRO UHS-II Memory Card, 300MB/s Read, 260MB/s Write",
@@ -6526,6 +6647,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idscf2ep128d.jpg",
       "trackEvent": "Sell or Trade your Gear",
       "trackEvent_2": "SanDisk Extreme PRO 128GB CFast 2.0 Memory Card",
@@ -6559,6 +6681,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idscfep4k128.jpg",
       "trackEvent": "Sell or Trade your Gear",
       "trackEvent_2": "SanDisk 128GB Extreme PRO Compact Flash Memory Card",
@@ -6592,6 +6715,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idssdepv31tb.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk Extreme PRO 1TB UHS-I U3 SDXC Memory Card, 170MB/s Read, 30-90MB/s Write",
@@ -6628,6 +6752,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/ilx2000128gb.jpg",
       "trackEvent": "",
       "trackEvent_2": "Lexar Professional 2000x 128GB SDXC UHS-II Memory Card",
@@ -6660,6 +6785,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idsxd1t00.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk Extreme PRO 1TB UHS-I U3 SDXC Memory Card",
@@ -6696,6 +6822,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/soqdg120f.jpg",
       "trackEvent": "Sell or Trade your Gear",
       "trackEvent_2": "Sony G Series 120GB XQD Memory Card",
@@ -6733,6 +6860,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/ilxsd2001282.jpg",
       "trackEvent": "",
       "trackEvent_2": "Lexar Professional 2000x 128GB SDXC UHS-II Memory Card, 2-Pack",
@@ -6763,6 +6891,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idssdcfe128g.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk Extreme PRO 128GB CFexpress Type-B Card, 1700MB/s Read, 1200MB/s Write",
@@ -6795,6 +6924,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idssdepv512.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk Extreme PRO 512GB UHS-I Class 10 U3 V30 SDXC Memory Card",
@@ -6825,6 +6955,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idsqxa1400gb.jpg",
       "trackEvent": "",
       "trackEvent_2": "SanDisk 400GB Extreme UHS-I Class 10 V30 U3 microSDXC Memory Card, SD Adapter",
@@ -6855,6 +6986,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/abp1tbcfxx4.jpg",
       "trackEvent": "",
       "trackEvent_2": "Angelbird AV PRO 1TB CFexpress Type-B Memory Card, 4-Pack",
@@ -6887,6 +7019,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/ilx128phcxc2.jpg",
       "trackEvent": "",
       "trackEvent_2": "Lexar Professional 1667x 128GB SDXC UHS-II/U3 Memory Card, 2 Pack",
@@ -6915,6 +7048,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/idscf2ep256d.jpg",
       "trackEvent": "Sell or Trade your Gear",
       "trackEvent_2": "SanDisk Extreme PRO 256GB CFast 2.0 Memory Card",
@@ -6952,6 +7086,7 @@
         "card"
       ],
       "category": "memory cards",
+      "api_key": "Memory-Cards",
       "productImage_src": "https://www.adorama.com/images/product/pgrfx650gcp2.jpg",
       "trackEvent": "",
       "trackEvent_2": "ProGrade Digital Cobalt Series 650GB CFexpress Type-B 2.0 Memory Card, 2-Pack",
@@ -6985,6 +7120,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/isonpamqz1k.jpg",
       "trackEvent_2": "Sony NPA-MQZ1K Multi-Battery Adapter Kit for 4x Z-Series Batteries",
       "review_stars": 4.6,
@@ -7013,6 +7149,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/icalpe6nh.jpg",
       "trackEvent_2": "Canon LP-E6NH 7.2V 2130mAh Lithium-Ion Battery Pack",
       "review_stars": 5,
@@ -7041,6 +7178,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/inkenel18d.jpg",
       "trackEvent_2": "Nikon EN-EL18D 10.8V 3300mAh Rechargeable Li-Ion Battery for Z9 Digital Camera",
       "review_stars": 4.9,
@@ -7069,6 +7207,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/inkenel15c.jpg",
       "trackEvent_2": "Nikon EN-EL15c 7V 2280mAh Rechargeable Lithium-Ion Battery",
       "review_stars": 5,
@@ -7097,6 +7236,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxnpfz100k1.jpg",
       "trackEvent_2": "Green Extreme 2x NP-FZ100 7.2V 2280mAh Battery and Dual Smart Charger Kit",
       "review_stars": 4.7,
@@ -7130,6 +7270,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxnpfz100k2.jpg",
       "trackEvent_2": "Green Extreme 2x NP-FZ100 7.2V 2280mAh Battery and Compact Smart Charger Kit",
       "review_stars": 4.7,
@@ -7163,6 +7304,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/pqnpfz1002bc.jpg",
       "trackEvent_2": "Power2000 2x Sony NP-FZ100 7.2V 2400mAh Li-Ion Battery with Dual Bay LCD Charger",
       "review_stars": 4.6,
@@ -7191,6 +7333,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/sr3824.jpg",
       "trackEvent_2": "SmallRig 2x NP-FZ100 14.69Wh 7.2V 2040mAh Camera Battery and Dual Charger Kit",
       "review_stars": 5,
@@ -7224,6 +7367,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/ifjnpw235.jpg",
       "trackEvent_2": "Fujifilm NP-W235 2200 mAh Li-IonRechargeable Battery for X-T4 Digital Camera",
       "review_stars": 5,
@@ -7252,6 +7396,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxlpe6nhk1.jpg",
       "trackEvent_2": "Green Extreme 2 Pack LP-E6NH Battery and Dual Smart Charger Kit",
       "review_stars": 4.7,
@@ -7285,6 +7430,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/pqacd8002bc.jpg",
       "trackEvent_2": "Power2000 2x Nikon EN-EL18d 10.8V 3800mAh Li-Ion Battery w/Dual Bay LCD Charger",
       "review_stars": 5,
@@ -7318,6 +7464,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/pqbpu1002bc.jpg",
       "trackEvent_2": "Power2000 2x Sony BP-U100 8000mAh 116Wh Li-Ion Battery with Dual Bay LCD Charger",
       "review_stars": 0,
@@ -7346,6 +7493,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxenel15k1.jpg",
       "trackEvent_2": "Green Extreme EN-EL15 7V Li-Ion Battery Pack,2-Pack, Bundle w/Dual Smart Charger",
       "review_stars": 4.6,
@@ -7379,6 +7527,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxenel15ck1.jpg",
       "trackEvent_2": "Green Extreme 2x EN-EL15c 7V 2250mAh Li-Ion Battery, Bundle w/Dual Smart Charger",
       "review_stars": 0,
@@ -7412,6 +7561,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxnpfz100.jpg",
       "trackEvent_2": "Green Extreme NP-FZ100 7.2V 2280mAh Rechargeable Lithium-Ion Battery",
       "review_stars": 4.7,
@@ -7445,6 +7595,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxenel15c.jpg",
       "trackEvent_2": "Green Extreme EN-EL15c 7V 2250mAh Lithium-Ion Battery Pack",
       "review_stars": 5,
@@ -7473,6 +7624,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/sr3820.jpg",
       "trackEvent_2": "SmallRig 2x EN-EL15 14.69Wh 7.2V 2040mAh Camera Battery and Dual Charger Kit",
       "review_stars": 0,
@@ -7506,6 +7658,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxlpe6k1.jpg",
       "trackEvent_2": "Green Extreme 2 Pack LP-E6N Battery and Dual Smart Charger Kit (7.4V 2000mAh)",
       "review_stars": 4.6,
@@ -7539,6 +7692,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/sr3821.jpg",
       "trackEvent_2": "SmallRig 2x LP-E6NH 14.69Wh 7.2V 2040mAh Camera Battery and Dual Charger Kit",
       "review_stars": 0,
@@ -7572,6 +7726,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/lcbcl4.jpg",
       "trackEvent_2": "Leica BP-SCL4 8.4V 1860mAh Rechargeable Lithium-Ion Battery",
       "review_stars": 4.9,
@@ -7600,6 +7755,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/isonpfz100.jpg",
       "trackEvent_2": "Sony NP-FZ100 7.2V 2280mAh Lithium-Ion Battery for Alpha Sony Digital Cameras",
       "review_stars": 4.9,
@@ -7628,6 +7784,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/gxnpw235.jpg",
       "trackEvent_2": "Green Extreme NP-W235 2250mAh Lithium-Ion Rechargeable Battery",
       "review_stars": 4.5,
@@ -7656,6 +7813,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/ipxdli90.jpg",
       "trackEvent_2": "Pentax D-LI90 7.2V 1860mAh Rechargeable Lithium-Ion Battery for Digital Camera",
       "review_stars": 4.8,
@@ -7689,6 +7847,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/sr3823.jpg",
       "trackEvent_2": "SmallRig 2x NP-F970 56.16Wh 7.2V 7800mAh Camera Battery and Dual Charger Kit",
       "review_stars": 0,
@@ -7722,6 +7881,7 @@
         "batteries"
       ],
       "category": "camera batteries",
+      "api_key": "Camera-Batteries",
       "productImage_src": "https://www.adorama.com/images/product/isonpfm500h.jpg",
       "trackEvent_2": "Sony NP-FM500H 7.2V 1600mAh Rechargeable InfoLithium-Ion Battery",
       "review_stars": 4.7,
@@ -7756,6 +7916,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skc800u.jpg",
       "trackEvent_2": "Sekonic Spectrometer C-800-U Color and Illuminance Meter",
       "review_stars": 5,
@@ -7789,6 +7950,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl478d.jpg",
       "trackEvent_2": "Sekonic LiteMaster Pro L-478D-U Light Meter",
       "review_stars": 4.6,
@@ -7822,6 +7984,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl208.jpg",
       "trackEvent_2": "Sekonic SKL758DRU-208 Twinmaster Incident/Reflected Light Meter",
       "review_stars": 4.5,
@@ -7855,6 +8018,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401395_1.jpg",
       "trackEvent_2": "Sekonic L-398A Studio Deluxe III Light Meter, Anniversary Edition",
       "review_stars": 4.3,
@@ -7888,6 +8052,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/ilpu200.jpg",
       "trackEvent_2": "Illuminati Instrument PU200 Isolight Puck USB Light and Color Sensor",
       "review_stars": 0,
@@ -7921,6 +8086,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/ski346c.jpg",
       "trackEvent_2": "Sekonic Illuminometer I-346 Lux/Foot Candle Light Meter",
       "review_stars": 4,
@@ -7954,6 +8120,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl398a.jpg",
       "trackEvent_2": "Sekonic 401399 L-398A Studio Deluxe III Light Meter",
       "review_stars": 4.3,
@@ -7987,6 +8154,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401629.jpg",
       "trackEvent_2": "Sekonic RT-BR Broncolor Transmitter Module for L-858D-U SPEEDMASTER Light Meter",
       "review_stars": 4.9,
@@ -8020,6 +8188,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl478dru.jpg",
       "trackEvent_2": "Sekonic LiteMaster Pro L-478DR-U Light Meter for PocketWizard System",
       "review_stars": 5,
@@ -8053,6 +8222,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401332.jpg",
       "trackEvent_2": "Sekonic Grip For L-308X, Red",
       "review_stars": 4.9,
@@ -8086,6 +8256,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401333.jpg",
       "trackEvent_2": "Sekonic Grip For L-308X, Blue",
       "review_stars": 4.9,
@@ -8119,6 +8290,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl478f5.jpg",
       "trackEvent_2": "Sekonic 5 Degree Spot Viewfinder",
       "review_stars": 5,
@@ -8152,6 +8324,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skrtelpx.jpg",
       "trackEvent_2": "Sekonic RT-EL/PX Elinchrom & Phottix Transmitter Module for L-858D-U Light Meter",
       "review_stars": 5,
@@ -8185,6 +8358,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl398hs.jpg",
       "trackEvent_2": "Sekonic 401831 High Slide for L-398M (Replacement)",
       "review_stars": 5,
@@ -8218,6 +8392,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl398cs.jpg",
       "trackEvent_2": "Sekonic 401845 Leather Case for L-398M",
       "review_stars": 0,
@@ -8251,6 +8426,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sksc.jpg",
       "trackEvent_2": "Sekonic 'T' Synchro Cord for Digital Flash Meter",
       "review_stars": 3.5,
@@ -8284,6 +8460,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl398ld.jpg",
       "trackEvent_2": "Sekonic 401822 Lumidisc for L-398M Exposure Meter",
       "review_stars": 5,
@@ -8317,6 +8494,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sksk401305.jpg",
       "trackEvent_2": "Sekonic L-308X-U Flashmate Digital Light Meter",
       "review_stars": 4.8,
@@ -8350,6 +8528,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/ilpu204.jpg",
       "trackEvent_2": "Illuminati Instrument Illuminance Isolight Puck USB Light & Color Sensor, 4-Pack",
       "review_stars": 0,
@@ -8383,6 +8562,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/ttac10b.jpg",
       "trackEvent_2": "TTArtisan Light Meter for Older Leicas and Similar Rangefinder Cameras, Black",
       "review_stars": 5,
@@ -8416,6 +8596,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/knkfm1100.jpg",
       "trackEvent_2": "Kenko KFM-1100 Professional Ambient and Flash Meter",
       "review_stars": 4.3,
@@ -8449,6 +8630,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/hlsmlm.jpg",
       "trackEvent_2": "Hensel Strobe Master Light Meter",
       "review_stars": 0,
@@ -8482,6 +8664,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401628.jpg",
       "trackEvent_2": "Sekonic RT-GX Flashpoint and Godox Transmitter Module for L-858D-U",
       "review_stars": 4.9,
@@ -8515,6 +8698,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401710.jpg",
       "trackEvent_2": "Sekonic C-7000 Spectrometer",
       "review_stars": 5,
@@ -8548,6 +8732,7 @@
         "light"
       ],
       "category": "light meters",
+      "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl478drupx.jpg",
       "trackEvent_2": "Sekonic LiteMaster Pro L-478DR-U-PX Light Meter for Phottix Strato II System",
       "review_stars": 5,
@@ -8583,6 +8768,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iso14tce.jpg",
       "trackEvent_2": "Sony 1.4x Teleconverter for Sony FE 70-200mm GM & FE 100-400mm GM Lenses",
       "review_stars": 4.7,
@@ -8616,6 +8802,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca14x.jpg",
       "trackEvent_2": "Canon Extender RF 1.4x",
       "review_stars": 4.4,
@@ -8649,6 +8836,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/tm14xnkt.jpg",
       "trackEvent_2": "Tamron 1.4x Teleconverter for SP 150-600mm & 70-200mm USD G2 Nikon F Mount",
       "review_stars": 4.1,
@@ -8682,6 +8870,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/nktc20e3u.jpg",
       "trackEvent_2": "Nikon TC-20E III 2x AF-S Teleconverter - Nikon USA Warranty",
       "review_stars": 4.7,
@@ -8715,6 +8904,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca2xaf3u.jpg",
       "trackEvent_2": "Canon Extender EF 2x III Tele Extender, USA",
       "review_stars": 4.4,
@@ -8748,6 +8938,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca14xaf3u.jpg",
       "trackEvent_2": "Canon Extender EF 1.4x III Tele Extender, USA",
       "review_stars": 4.4,
@@ -8781,6 +8972,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca2x.jpg",
       "trackEvent_2": "Canon Extender RF 2x",
       "review_stars": 4.5,
@@ -8814,6 +9006,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc1401nk.jpg",
       "trackEvent_2": "Sigma TC-1401 1.4x Tele-Converter AF for Nikon Mount Lenses",
       "review_stars": 4.4,
@@ -8847,6 +9040,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iommc20.jpg",
       "trackEvent_2": "Olympus MC-20 2x Teleconverter for 40-150mm f/2.8 & ED 300mm F4.0 IS PRO Lenses",
       "review_stars": 4.9,
@@ -8880,6 +9074,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/irch14c.jpg",
       "trackEvent_2": "Ricoh PENTAX-DA AF 1.4x Rear Converter AW for K-Mount Lenses",
       "review_stars": 4.6,
@@ -8913,6 +9108,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ifj2x.jpg",
       "trackEvent_2": "Fujifilm XF2X TC WR Teleconverter for Fujinon XF50-140mm and 100-400mm Lenses",
       "review_stars": 4.9,
@@ -8946,6 +9142,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ifj14x.jpg",
       "trackEvent_2": "Fujifilm XF1.4X TC WR Teleconverter for Fujinon XF50-140mm F2.8 R Lens",
       "review_stars": 4.9,
@@ -8979,6 +9176,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iommc14.jpg",
       "trackEvent_2": "Olympus MC-14 1.4x Teleconverter for 40-150mm f/2.8 PRO Lens",
       "review_stars": 4.9,
@@ -9012,6 +9210,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ipcstc20.jpg",
       "trackEvent_2": "Panasonic DMW-STC20 LUMIX S Series 2.0x Teleconverter (Compatible with 70-200mm)",
       "review_stars": 3,
@@ -9045,6 +9244,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc1401ca.jpg",
       "trackEvent_2": "Sigma TC-1401 1.4x Tele-Converter AF for Canon EOS Lenses",
       "review_stars": 4.4,
@@ -9078,6 +9278,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ifjgf14x.jpg",
       "trackEvent_2": "Fujifilm GF 1.4X TC WR Teleconverter",
       "review_stars": 5,
@@ -9111,6 +9312,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca2xaf3ua.jpg",
       "trackEvent_2": "Canon Extender EF 2x III Tele Extender, USA With Free Accessory Bundle",
       "review_stars": 4.4,
@@ -9144,6 +9346,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca2xak.jpg",
       "trackEvent_2": "Canon Extender RF 2x with Backpack, Green Extreme LP-E6NH Battery, Cleaning Kit",
       "review_stars": 4.5,
@@ -9177,6 +9380,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kn14xeos.jpg",
       "trackEvent_2": "Kenko Kenco 1.4x Teleplus HD DGX Teleconverter for Canon EOS EF-S and EF lenses",
       "review_stars": 4.5,
@@ -9210,6 +9414,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca14xaf3ua.jpg",
       "trackEvent_2": "Canon Extender EF 1.4x III Tele Extender, USA With Free Accessory Bundle",
       "review_stars": 4.4,
@@ -9243,6 +9448,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc2001nk.jpg",
       "trackEvent_2": "Sigma TC-2001 2x Tele-Converter AF for Nikon Mount Lenses",
       "review_stars": 4.4,
@@ -9276,6 +9482,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc2001ca.jpg",
       "trackEvent_2": "Sigma TC-2001 2x Tele-Converter AF for Canon EOS Lenses",
       "review_stars": 4.4,
@@ -9309,6 +9516,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc20l.jpg",
       "trackEvent_2": "Sigma TC-2011 2x Teleconverter for Leica L",
       "review_stars": 5,
@@ -9342,6 +9550,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kntphdpro14c.jpg",
       "trackEvent_2": "Kenko TELEPLUS HD pro 1.4x DGX Teleconverter for Canon EF Mount",
       "review_stars": 4.3,
@@ -9375,6 +9584,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc2001sg.jpg",
       "trackEvent_2": "Sigma TC-2001 2x Tele-Converter AF for Sigma Mount Lenses",
       "review_stars": 4.4,
@@ -9408,6 +9618,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kntphdpro20n.jpg",
       "trackEvent_2": "Kenko TELEPLUS HD pro 2.0x DGX Teleconverter for Nikon F Mount",
       "review_stars": 4.3,
@@ -9441,6 +9652,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kntphdpro20c.jpg",
       "trackEvent_2": "Kenko TELEPLUS HD pro 2.0x DGX Teleconverter for Canon EF Mount",
       "review_stars": 4.3,
@@ -9474,6 +9686,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc14l.jpg",
       "trackEvent_2": "Sigma TC-1411 1.4x Teleconverter for Leica L",
       "review_stars": 0,
@@ -9507,6 +9720,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ipctc20.jpg",
       "trackEvent_2": "Panasonic DMW-TC20 2x Lumix Teleconverter for 200mm f/2.8 Lens",
       "review_stars": 3,
@@ -9540,6 +9754,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/fdeos2xaftel.jpg",
       "trackEvent_2": "Fotodiox Autofocus Doubler 2x Teleconverter",
       "review_stars": 3.9,
@@ -9573,6 +9788,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/vtrcaf2x.jpg",
       "trackEvent_2": "Viltrox C-AF 2X Teleplus Teleconverter for Canon EF",
       "review_stars": 4,
@@ -9606,6 +9822,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/bowsx504.jpg",
       "trackEvent_2": "Bower 2x Manual Teleconverter for Canon FD-Mount Lens",
       "review_stars": 0,
@@ -9638,6 +9855,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kntphdpro14n.jpg",
       "trackEvent_2": "Kenko TELEPLUS HD pro 1.4x DGX Teleconverter for Nikon F Mount",
       "review_stars": 4.3,
@@ -9671,6 +9889,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc1401sg.jpg",
       "trackEvent_2": "Sigma TC-1401 1.4x Tele-Converter AF for Sigma Mount Lenses",
       "review_stars": 4.4,
@@ -9704,6 +9923,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/vwvz2xe.jpg",
       "trackEvent_2": "ViewZ 2x Extender for C-Mount Lenses",
       "review_stars": 0,
@@ -9737,6 +9957,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/vwvz2xe2.jpg",
       "trackEvent_2": "ViewZ 2x Extender for 75mm C-Mount Lenses Only",
       "review_stars": 0,
@@ -9770,6 +9991,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/nkztc14.jpg",
       "trackEvent_2": "Nikon Z Teleconverter TC-1.4x",
       "review_stars": 4.5,
@@ -9803,6 +10025,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/nktc14e3u.jpg",
       "trackEvent_2": "Nikon AF-S TC-14E III 1.4x Teleconverter - U.S.A. Warranty",
       "review_stars": 4.7,
@@ -9836,6 +10059,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/nkztc20.jpg",
       "trackEvent_2": "Nikon Z Teleconverter TC-2.0x",
       "review_stars": 4.5,
@@ -9869,6 +10093,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iso20tce.jpg",
       "trackEvent_2": "Sony 2.0x Teleconverter, FE 70-200mm f/2.8 & FE 100-400mm f/4.5-5.6 GM OSS Lens",
       "review_stars": 4.7,
@@ -9902,6 +10127,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iso20tcea.jpg",
       "trackEvent_2": "Sony 2x Teleconverter for FE 70-200mm GM OSS, and FE 100-400mm GM OSS w/acc",
       "review_stars": 4.3,
@@ -9935,6 +10161,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iso20tceb.jpg",
       "trackEvent_2": "Sony 2x Teleconverter for FE 70-200mm, and FE 100-400mm, Bundle",
       "review_stars": 4.3,
@@ -9968,6 +10195,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ipcstc14.jpg",
       "trackEvent_2": "Panasonic DMW-STC14 LUMIX S Series 1.4x Teleconverter (Compatible with 70-200mm)",
       "review_stars": 3,
@@ -10001,6 +10229,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kn2xeos.jpg",
       "trackEvent_2": "Kenko 2.0x Teleplus HD DGX Tele Converter for Canon EOS EF-S and EF lenses",
       "review_stars": 4.5,
@@ -10034,6 +10263,7 @@
         "accessories"
       ],
       "category": "teleconverters",
+      "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/vtref14x.jpg",
       "trackEvent_2": "Viltrox EF 1.4x Extender Teleconverter for Canon EF",
       "review_stars": 0,
@@ -10068,7 +10298,10 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
+
       "trackEvent_2": "Fujinon LH-XF18 Lens Hood for XF 18mm f/1.4",
       "review_stars": 3,
       "review_count": 1,
@@ -10095,7 +10328,9 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
+
       "trackEvent_2": "ProOPTIC 77mm Wide Angle Digital Lens Hood, Petal Shaped",
       "review_stars": 4,
       "review_count": 25,
@@ -10122,7 +10357,10 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
+
       "trackEvent_2": "B + W 49mm #950 Aluminum Lens Hood for Standard Lenses",
       "review_stars": 4.7,
       "review_count": 50,
@@ -10149,7 +10387,9 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
+
       "trackEvent_2": "Flex Lens Shade SL1 for Small & Mirrorless Lenses (52mm Lens Glass or Smaller)",
       "review_stars": 0,
       "review_count": 0,
@@ -10176,7 +10416,9 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
+
       "trackEvent_2": "Fujifilm LH-XF16 Lens Hood for XF 16mm f/1.4 WR Lens",
       "review_stars": 4.6,
       "review_count": 9,
@@ -10203,7 +10445,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "ProOPTIC 67mm Wide Angle Digital Lens Hood, Petal Shaped",
       "review_stars": 4,
       "review_count": 25,
@@ -10230,7 +10473,9 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
+
       "trackEvent_2": "Tamron Lens Hood for 28-75mm f/2.8 Di III RXD Lens",
       "review_stars": 4.6,
       "review_count": 47,
@@ -10257,7 +10502,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Panasonic 1ZE4Z260Z Replacement Lens Hood for DCGH5LK & HES12060 Products",
       "review_stars": 4.9,
       "review_count": 7,
@@ -10284,7 +10530,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Fujifilm LH-XF23 Hood for XF 23mm f/1.4 R Lens",
       "review_stars": 4.8,
       "review_count": 12,
@@ -10311,7 +10558,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "ProOPTIC 82mm Wide Angle Digital Lens Hood, Petal Shaped",
       "review_stars": 4,
       "review_count": 25,
@@ -10338,7 +10586,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Fujifilm LH-XF35-2 Hood for XF 35mm f/2 R Lens - Black",
       "review_stars": 4.6,
       "review_count": 18,
@@ -10365,7 +10614,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Canon ET-77 Lens Hood",
       "review_stars": 4.5,
       "review_count": 2,
@@ -10392,7 +10642,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Sony ALC-SH158 Hood for FE 600mm f/4 GM OSS Lens",
       "review_stars": 0,
       "review_count": 0,
@@ -10419,7 +10670,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Fujifilm LH-XF27 Lens Hood for XF 27mm f/2.8 Lens",
       "review_stars": 0,
       "review_count": 0,
@@ -10446,7 +10698,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "B + W 72mm #970 Aluminum Lens Hood for Wide Angle Lenses",
       "review_stars": 4.7,
       "review_count": 50,
@@ -10473,7 +10726,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Nikon HN-1 Screw-on Hood",
       "review_stars": 5,
       "review_count": 2,
@@ -10500,7 +10754,9 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
+
       "trackEvent_2": "Fujifilm LH-XF23-2 Lens Hood for XF 23mm & 33mm f/1.4 R LM WR Lenses, Black",
       "review_stars": 5,
       "review_count": 1,
@@ -10527,7 +10783,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Canon Lens Hood ET-83 f/EF 85mm F1.4L IS USM",
       "review_stars": 5,
       "review_count": 1,
@@ -10554,7 +10811,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Tamron Lens Hood for 17-28mm f/2.8 Di III RXD Lens",
       "review_stars": 4.6,
       "review_count": 47,
@@ -10581,7 +10839,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Sigma Lens Hood for 70-200mm f/2.8 DG OS HSM Sports Telephoto Zoom Lens (#590)",
       "review_stars": 4.5,
       "review_count": 68,
@@ -10608,7 +10867,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Sony ALC-SH112 Hood for E 18-55mm f/3.5-5.6 OSS, 35mm f/1.8 OSS&FE 28mm f/2 Lens",
       "review_stars": 5,
       "review_count": 1,
@@ -10635,7 +10895,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Flex Lens Shade, Adjustable for Any SLR Lens",
       "review_stars": 4,
       "review_count": 103,
@@ -10662,7 +10923,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Sigma Lens Hood for Sigma 56mm f/1.4 DC DN Contemporary Lens (#351)",
       "review_stars": 4.5,
       "review_count": 68,
@@ -10689,7 +10951,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Nikon HK-42 Lens Hood for NIKKOR Z 400mm f/2.8 TC VR S Lens",
       "review_stars": 0,
       "review_count": 0,
@@ -10716,7 +10979,8 @@
         "hoods",
         "lens hoods"
       ],
-      "category": "lens accessories",
+      "category": "Lens Hoods",
+      "api_key": "Lens-Hoods",
       "trackEvent_2": "Canon ET-83-FWIII Lens Hood for RF f/70-200mm f/2.8 IS USM",
       "review_stars": 5,
       "review_count": 1,
@@ -10746,7 +11010,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/nklc55a.jpg",
       "trackEvent_2": "Nikon LC-55A 55mm Snap-on Lens Cap",
       "review_stars": 4.8,
@@ -10770,7 +11035,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ircgn2bk.jpg",
       "trackEvent_2": "Ricoh GN-2 Ring Cap for GR IIIx Digital Camera, Black",
       "review_stars": 0,
@@ -10794,7 +11060,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ppdfndr7782.jpg",
       "trackEvent_2": "Polar Pro Defender 77mm-82mm Lens Cover",
       "review_stars": 4.8,
@@ -10818,7 +11085,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/nklc30028.jpg",
       "trackEvent_2": "Nikon Slip-On Front Lens Cover for 200mm, 300mm, 200-400mm Lenses",
       "review_stars": 4.5,
@@ -10842,7 +11110,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ircgn2dg.jpg",
       "trackEvent_2": "Ricoh GN-2 Ring Cap for GR IIIx Digital Camera, Dark Gray",
       "review_stars": 0,
@@ -10866,7 +11135,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/nklc52.jpg",
       "trackEvent_2": "Nikon 52mm Snap-on Lens Cap",
       "review_stars": 4.8,
@@ -10890,7 +11160,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ifjlc67.jpg",
       "trackEvent_2": "Fujifilm Front Lens Cover 67mm",
       "review_stars": 4.9,
@@ -10914,7 +11185,7 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
       "productImage_src": "https://www.adorama.com/images/product/ifjcrlx.jpg",
       "trackEvent_2": "Fujifilm Rear Lens Cap for X-Mount Lenses",
       "review_stars": 4.9,
@@ -10938,7 +11209,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/proclf55.jpg",
       "trackEvent_2": "ProOPTIC 55mm Center Pinch Lens Cap",
       "review_stars": 4.8,
@@ -10962,7 +11234,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ircgn2br.jpg",
       "trackEvent_2": "Ricoh GN-2 Ring Cap for GR IIIx Digital Camera, Bronze",
       "review_stars": 0,
@@ -10986,7 +11259,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/isoalcf55s.jpg",
       "trackEvent_2": "Sony ALC-F55S 55mm Front Lens Cap for Sony Alpha DSLR Camera",
       "review_stars": 4.7,
@@ -11010,7 +11284,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/isoalcf67s.jpg",
       "trackEvent_2": "Sony ALC-F67S 67mm Front Lens Cap",
       "review_stars": 4.7,
@@ -11034,7 +11309,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ppdfndr95.jpg",
       "trackEvent_2": "Polar Pro Defender 95mm Lens Cover",
       "review_stars": 4.8,
@@ -11058,7 +11334,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/proclf52.jpg",
       "trackEvent_2": "ProOPTIC 52mm Center Pinch Lens Cap",
       "review_stars": 4.8,
@@ -11082,7 +11359,9 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/sgfc82.jpg",
       "trackEvent_2": "Sigma Front Lens Cap 82mm",
       "review_stars": 4.9,
@@ -11106,7 +11385,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/lclcadl.jpg",
       "trackEvent_2": "Leica Auto Lens Cap for D-Lux Digital Camera - Black",
       "review_stars": 5,
@@ -11130,7 +11410,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/calce672.jpg",
       "trackEvent_2": "Canon E-67 II 67mm Snap-On Lens Cap",
       "review_stars": 4.8,
@@ -11154,7 +11435,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ppdfndr6772.jpg",
       "trackEvent_2": "Polar Pro Defender 67mm-72mm Lens Cover",
       "review_stars": 4.8,
@@ -11178,7 +11460,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/proclf77.jpg",
       "trackEvent_2": "ProOPTIC 77mm Center Pinch Lens Cap",
       "review_stars": 4.8,
@@ -11202,7 +11485,10 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
+
       "productImage_src": "https://www.adorama.com/images/product/calc522.jpg",
       "trackEvent_2": "Canon 52mm Snap-On Lens Cap",
       "review_stars": 4.8,
@@ -11226,7 +11512,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/othhxxxlnt.jpg",
       "trackEvent_2": "Op/Tech Hood Hat XXX-Large 6.50in diameter +/-.50in NAT",
       "review_stars": 4.6,
@@ -11250,7 +11537,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/isoalcf72s.jpg",
       "trackEvent_2": "Sony ALC-F72S 72mm Front Lens Cap",
       "review_stars": 4.7,
@@ -11274,7 +11562,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/isoalcr1em.jpg",
       "trackEvent_2": "Sony Rear Lens Cap for NEX-5 NEX-3 Lenses/A-Mt. Adapter",
       "review_stars": 5,
@@ -11298,7 +11587,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/pxlc67.jpg",
       "trackEvent_2": "Pentax O-LC67 67mm Front Lens Cap",
       "review_stars": 4.8,
@@ -11322,7 +11612,8 @@
         "cap",
         "caps"
       ],
-      "category": "lens accessories",
+      "category": "lens caps",
+      "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/proclms77.jpg",
       "trackEvent_2": "ProOPTIC 77mm Metal Screw-on Lens Cap",
       "review_stars": 4.4,
@@ -11350,6 +11641,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car5012.jpg",
       "trackEvent_2": "Canon RF 50mm f/1.2L USM Lens",
       "review_stars": 4.9,
@@ -11396,6 +11688,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/iso6004.jpg",
       "trackEvent_2": "Sony FE 600mm f/4 GM OSS Lens for Sony E",
       "review_stars": 5,
@@ -11442,6 +11735,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car28702.jpg",
       "trackEvent_2": "Canon RF 28-70mm f/2 L USM Lens",
       "review_stars": 4.8,
@@ -11488,6 +11782,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/tm35150vsoe.jpg",
       "trackEvent_2": "Tamron 35-150mm f/2-2.8 Di III VXD Lens for Sony E",
       "review_stars": 4.8,
@@ -11534,6 +11829,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car6004.jpg",
       "trackEvent_2": "Canon RF 600mm f/4 L IS USM Lens",
       "review_stars": 5,
@@ -11580,6 +11876,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/tm28200soe.jpg",
       "trackEvent_2": "Tamron 28-200mm f/2.8-5.6 Di III RXD Lens for Sony E",
       "review_stars": 4.4,
@@ -11626,6 +11923,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car7020028.jpg",
       "trackEvent_2": "Canon RF 70-200mm f/2.8 L IS USM Lens",
       "review_stars": 4.9,
@@ -11672,6 +11970,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car1435.jpg",
       "trackEvent_2": "Canon RF 14-35mm f/4 L IS USM Lens",
       "review_stars": 4.9,
@@ -11718,6 +12017,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/nkz247028.jpg",
       "trackEvent_2": "Nikon NIKKOR Z 24-70mm f/2.8 S Lens",
       "review_stars": 4.9,
@@ -11764,6 +12064,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car8512.jpg",
       "trackEvent_2": "Canon RF 85mm f/1.2 L USM Lens",
       "review_stars": 4.9,
@@ -11810,6 +12111,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/nkz5012.jpg",
       "trackEvent_2": "Nikon NIKKOR Z 50mm f/1.2 S Lens",
       "review_stars": 5,
@@ -11856,6 +12158,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/nkz2875.jpg",
       "trackEvent_2": "Nikon NIKKOR Z 28-75mm f/2.8 Lens",
       "review_stars": 4.4,
@@ -11902,6 +12205,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car2470.jpg",
       "trackEvent_2": "Canon RF 24-70mm f/2.8 L IS USM Lens",
       "review_stars": 4.9,
@@ -11948,6 +12252,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/iso13518gm.jpg",
       "trackEvent_2": "Sony FE 135mm F1.8 GM Lens for E",
       "review_stars": 4.9,
@@ -11994,6 +12299,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/tm1728soe.jpg",
       "trackEvent_2": "Tamron 17-28mm f/2.8 Di III RXD Lens for Sony E",
       "review_stars": 4.9,
@@ -12040,6 +12346,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/tm2875vsoe.jpg",
       "trackEvent_2": "Tamron 28-75mm f/2.8 Di III VXD G2 Lens for Sony E",
       "review_stars": 5,
@@ -12086,6 +12393,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car100500.jpg",
       "trackEvent_2": "Canon RF 100-500mm f/4.5-7.1 L IS USM Lens",
       "review_stars": 4.7,
@@ -12132,6 +12440,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/car5018.jpg",
       "trackEvent_2": "Canon RF 50mm f/1.8 STM Lens",
       "review_stars": 4.8,
@@ -12178,6 +12487,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg5614fjx.jpg",
       "trackEvent_2": "Sigma 56mm f/1.4 DC DN Contemporary Lens for Fujifilm X",
       "review_stars": 4.9,
@@ -12224,6 +12534,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg2870f28soe.jpg",
       "trackEvent_2": "Sigma 28-70mm f/2.8 DG DN Contemporary Lens for Sony E",
       "review_stars": 4.7,
@@ -12270,6 +12581,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg2870f28l.jpg",
       "trackEvent_2": "Sigma 28-70mm f/2.8 DG DN Contemporary Lens for Leica L",
       "review_stars": 4.7,
@@ -12316,6 +12628,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/lc752sl.jpg",
       "trackEvent_2": "Leica APO-SUMMICRON-SL 75mm f/2 Aspherical Lens for Leica L/T",
       "review_stars": 5,
@@ -12362,6 +12675,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ifj352xc.jpg",
       "trackEvent_2": "Fujifilm XC 35mm f/2 Lens",
       "review_stars": 4.7,
@@ -12408,6 +12722,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg3014dson.jpg",
       "trackEvent_2": "Sigma 30mm f/1.4 DC DN Contemporary Lens for Sony E",
       "review_stars": 4.8,
@@ -12454,6 +12769,7 @@
         "mirrorless lense"
       ],
       "category": "mirrorless lenses",
+      "api_key": "Mirrorless-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/iso200600e.jpg",
       "trackEvent_2": "Sony FE 200-600mm f/5.6-6.3 G OSS Lens for Sony E",
       "review_stars": 4.7,
@@ -12502,6 +12818,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca80056isu.jpg",
       "trackEvent_2": "Canon EF 800mm f/5.6L IS USM Lens",
       "review_stars": 5,
@@ -12539,6 +12856,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca2004004.jpg",
       "trackEvent_2": "Canon EF 200-400mm f/4L IS USM Extender 1.4x Lens",
       "review_stars": 5,
@@ -12576,6 +12894,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca1004002u.jpg",
       "trackEvent_2": "Canon EF 100-400mm f/4.5-5.6L IS II USM Lens",
       "review_stars": 4.9,
@@ -12613,6 +12932,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca50042u.jpg",
       "trackEvent_2": "Canon EF 500mm f/4L IS II USM Lens",
       "review_stars": 5,
@@ -12650,6 +12970,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca8514l.jpg",
       "trackEvent_2": "Canon EF 85mm f/1.4L IS USM Lens",
       "review_stars": 4.9,
@@ -12687,6 +13008,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca241052.jpg",
       "trackEvent_2": "Canon EF 24-105mm f/4L IS II USM Lens",
       "review_stars": 4.7,
@@ -12724,6 +13046,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg1835dcnk.jpg",
       "trackEvent_2": "Sigma 18-35mm f/1.8 DC HSM ART Lens for Nikon F",
       "review_stars": 4.8,
@@ -12761,6 +13084,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/tn1628opc.jpg",
       "trackEvent_2": "Tokina opera 16-28mm f/2.8 FX Lens for Canon EF",
       "review_stars": 4.5,
@@ -12798,6 +13122,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg150600snk.jpg",
       "trackEvent_2": "Sigma 150-600mm f/5-6.3 DG OS HSM Sport Lens for Nikon F",
       "review_stars": 4.6,
@@ -12835,6 +13160,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg5004nk.jpg",
       "trackEvent_2": "Sigma 500mm f/4 DG OS HSM Sports Lens for Nikon F",
       "review_stars": 5,
@@ -12872,6 +13198,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/tm18400nk.jpg",
       "trackEvent_2": "Tamron 18-400mm f/3.5-6.3 Di II VC HLD Lens for Nikon F",
       "review_stars": 4.5,
@@ -12909,6 +13236,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/nk200500.jpg",
       "trackEvent_2": "Nikon 200-500mm f/5.6E ED AF-S VR NIKKOR Lens",
       "review_stars": 4.8,
@@ -12946,6 +13274,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg241054heos.jpg",
       "trackEvent_2": "Sigma 24-105mm f/4.0 DG OS HSM ART Lens for Canon EF",
       "review_stars": 4.6,
@@ -12983,6 +13312,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg150600cnk.jpg",
       "trackEvent_2": "Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary Lens for Nikon F",
       "review_stars": 4.7,
@@ -13020,6 +13350,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg50100onik.jpg",
       "trackEvent_2": "Sigma 50-100mm f/1.8 DC HSM Art Lens for Nikon F",
       "review_stars": 4.8,
@@ -13057,6 +13388,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca8518afu.jpg",
       "trackEvent_2": "Canon EF 85mm f/1.8 USM Lens",
       "review_stars": 4.7,
@@ -13094,6 +13426,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca60043.jpg",
       "trackEvent_2": "Canon EF 600mm f/4L IS III USM Lens",
       "review_stars": 4.3,
@@ -13131,6 +13464,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca1755u.jpg",
       "trackEvent_2": "Canon EF-S 17-55mm f/2.8 IS USM Lens",
       "review_stars": 4.5,
@@ -13168,6 +13502,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg142470nk.jpg",
       "trackEvent_2": "Sigma 14-24mm, 24-70mm, 70-200mm f/2.8 3-Lens Kit for Nikon F w/Accessories Kit",
       "review_stars": 5,
@@ -13205,6 +13540,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg50100oeos.jpg",
       "trackEvent_2": "Sigma 50-100mm f/1.8 DC HSM Art Lens for Canon EF",
       "review_stars": 4.8,
@@ -13242,6 +13578,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/sg241054hnk.jpg",
       "trackEvent_2": "Sigma 24-105mm f/4.0 DG OS HSM ART Lens for Nikon F",
       "review_stars": 4.6,
@@ -13279,6 +13616,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/tm150600nkf.jpg",
       "trackEvent_2": "Tamron SP 150-600mm f/5-6.3 Di VC G2 Lens for Nikon F w/UV+CPL Duet Filter Kit",
       "review_stars": 4.7,
@@ -13316,6 +13654,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca11244.jpg",
       "trackEvent_2": "Canon EF 11-24mm f/4L USM Lens",
       "review_stars": 4.9,
@@ -13353,6 +13692,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca40042u.jpg",
       "trackEvent_2": "Canon EF 400mm f/4 DO IS II USM Lens",
       "review_stars": 4.9,
@@ -13390,6 +13730,7 @@
         "lense"
       ],
       "category": "slr lenses",
+      "api_key": "SLR-Lenses",
       "productImage_src": "https://www.adorama.com/images/product/ca2470.jpg",
       "trackEvent_2": "Canon EF 24-70mm f/2.8L II USM Lens",
       "review_stars": 4.8,
@@ -13427,6 +13768,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp8225269ed2.jpg",
       "trackEvent_2": "PolarPro Peter McKinnon VND Signature Edition II 82mm 2-5 Stop & 6-9 Stop Filter",
       "review_stars": 4.9,
@@ -13462,6 +13804,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp8225vnded2.jpg",
       "trackEvent_2": "PolarPro Peter McKinnon VND Signature Edition II 82mm 2-5 Stop Filter",
       "review_stars": 4.9,
@@ -13497,6 +13840,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp8269vnded2.jpg",
       "trackEvent_2": "PolarPro Peter McKinnon VND Signature Edition II 82mm 6-9 Stop Filter",
       "review_stars": 4.9,
@@ -13532,6 +13876,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp6725vnded2.jpg",
       "trackEvent_2": "PolarPro Peter McKinnon VND Signature Edition II 67mm 2-5 Stop Filter",
       "review_stars": 4.9,
@@ -13567,6 +13912,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/sr3589.jpg",
       "trackEvent_2": "SmallRig 4x5.65\" 1.2 4-Stop Multi-Coating Neutral Density Filter",
       "review_stars": 0,
@@ -13602,6 +13948,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/fcu4x5nd21.jpg",
       "trackEvent_2": "Formatt Hitech Firecrest Ultra 4x5.65 Neutral Density 2.1 Filter",
       "review_stars": 5,
@@ -13637,6 +13984,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/btx3nd1082.jpg",
       "trackEvent_2": "Breakthrough Photography 82mm X4 Neutral Density Traction Filter",
       "review_stars": 4.9,
@@ -13672,6 +14020,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/ianirtcvnd82.jpg",
       "trackEvent_2": "NiSi 82mm True Color ND-VARIO Pro Nano 1-5 Stops 0.3-1.5 Variable ND Filter",
       "review_stars": 5,
@@ -13707,6 +14056,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/hyfrnc77.jpg",
       "trackEvent_2": "H&Y RevoRing Variable ND3-ND1000 and CPL Filter with 58-77mm Variable Adapter",
       "review_stars": 4.8,
@@ -13742,6 +14092,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp7725769ed2.jpg",
       "trackEvent_2": "PolarPro Peter McKinnon VND Signature Edition II 77mm 2-5 Stop & 6-9 Stop Filter",
       "review_stars": 4.9,
@@ -13777,6 +14128,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/kf011619.jpg",
       "trackEvent_2": "K&F Concept 82mm Nano-X Pro ND2-400 9-Stop Variable ND Filter for Canon Lens",
       "review_stars": 5,
@@ -13812,6 +14164,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/hyfrnc49.jpg",
       "trackEvent_2": "H&Y RevoRing Variable ND3-ND1000 and CPL Filter with 37-49mm Variable Adapter",
       "review_stars": 4.8,
@@ -13847,6 +14200,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/fcu4x5nd03.jpg",
       "trackEvent_2": "Formatt Hitech Firecrest Ultra 4x5.65 Neutral Density 0.3 Filter",
       "review_stars": 5,
@@ -13882,6 +14236,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/fcu100nd48.jpg",
       "trackEvent_2": "Formatt Hitech Firecrest Ultra 100x100mm Neutral Density 4.8 Filter",
       "review_stars": 5,
@@ -13917,6 +14272,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/iannd152782.jpg",
       "trackEvent_2": "NiSi 82mm ND-VARIO Pro Nano 5-9 Stops 1.5-2.7 Enhanced Variable ND Filter",
       "review_stars": 4.7,
@@ -13952,6 +14308,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/tf44nd12.jpg",
       "trackEvent_2": "Tiffen 4x4\" Neutral Density 1.2 Filter",
       "review_stars": 4.5,
@@ -13987,6 +14344,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/htfcu1lndgh6.jpg",
       "trackEvent_2": "Formatt Hitech Firecrest Ultra 100x150mm Hard Edge Grad 0.6 (2 Stops) ND Filter",
       "review_stars": 5,
@@ -14022,6 +14380,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp7769vnded2.jpg",
       "trackEvent_2": "PolarPro Peter McKinnon VND Signature Edition II 77mm 6-9 Stop Filter",
       "review_stars": 4.9,
@@ -14057,6 +14416,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/fcu100lndr09.jpg",
       "trackEvent_2": "Formatt Hitech Firecrest Ultra 100x150mm ND 0.9, Soft Edge Reverse Grad Filter",
       "review_stars": 5,
@@ -14092,6 +14452,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/btx3nd1077.jpg",
       "trackEvent_2": "Breakthrough Photography 77mm X4 Neutral Density Traction Filter",
       "review_stars": 4.9,
@@ -14127,6 +14488,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/mo600048.jpg",
       "trackEvent_2": "Moment 77mm Variable ND4-ND32 Filter, 2 to 5-Stops",
       "review_stars": 4.8,
@@ -14162,6 +14524,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/signds06.jpg",
       "trackEvent_2": "Sirui 100x150mm Ultra Slim S-Pro Nano MC GND Square Filter, GND0.6 (2 Stops)",
       "review_stars": 4.6,
@@ -14197,6 +14560,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/hyfrnc82.jpg",
       "trackEvent_2": "H&Y RevoRing Variable ND3-ND1000 and CPL Filter with 67-82mm Variable Adapter",
       "review_stars": 4.8,
@@ -14232,6 +14596,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp7725vnded2.jpg",
       "trackEvent_2": "PolarPro Peter McKinnon VND Signature Edition II 77mm 2-5 Stop Filter",
       "review_stars": 4.9,
@@ -14267,6 +14632,7 @@
         "lens filters"
       ],
       "category": "neutral density filters",
+      "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/lebsnd.jpg",
       "trackEvent_2": "Lee Filters 100 x 100mm Big Stopper 3.0 Neutral Density Filter, 10-Stop",
       "review_stars": 4.8,
@@ -14305,6 +14671,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvnxtpcp.jpg",
       "trackEvent_2": "Hoya NXT Plus 82mm 10-Layer HMC Multi-Coated UV Lens Filter W/Multi-Coated CPL",
       "review_stars": 4.9,
@@ -14339,6 +14706,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy95uv.jpg",
       "trackEvent_2": "Hoya 95mm UV (Ultra Violet) Glass Filter",
       "review_stars": 4.7,
@@ -14373,6 +14741,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy62uvhd3.jpg",
       "trackEvent_2": "Hoya 62mm HD3 UV Filter",
       "review_stars": 4.7,
@@ -14407,6 +14776,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvnxtp.jpg",
       "trackEvent_2": "Hoya NXT Plus 82mm 10-Layer HMC Multi-Coated UV Lens Filter",
       "review_stars": 4.9,
@@ -14441,6 +14811,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/tf77uvw.jpg",
       "trackEvent_2": "Tiffen 77mm UV Wide Angle Thin Filter",
       "review_stars": 4.4,
@@ -14475,6 +14846,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy77uvnxtp.jpg",
       "trackEvent_2": "Hoya NXT Plus 77mm 10-Layer HMC Multi-Coated UV Lens Filter",
       "review_stars": 4.9,
@@ -14509,6 +14881,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw72tp10mf.jpg",
       "trackEvent_2": "B + W 72mm T-Pro 010M UV Haze MRC Nano Filter",
       "review_stars": 0,
@@ -14543,6 +14916,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw82m10mrc.jpg",
       "trackEvent_2": "B + W 82mm Master 010M UV Haze MRC Nano Filter",
       "review_stars": 5,
@@ -14577,6 +14951,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvast.jpg",
       "trackEvent_2": "Hoya Evo Antistatic UV Filter - 82mm",
       "review_stars": 4.7,
@@ -14611,6 +14986,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy77uvnxtpcp.jpg",
       "trackEvent_2": "Hoya NXT Plus 77mm 10-Layer HMC Multi-Coated UV Lens Filter W/Multi-Coated CPL",
       "review_stars": 4.9,
@@ -14645,6 +15021,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/ifj49sp.jpg",
       "trackEvent_2": "Protective Filter PRF-49mm (Silver)",
       "review_stars": 4.9,
@@ -14679,6 +15056,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw112m10mrc.jpg",
       "trackEvent_2": "B + W 112mm Master 010M UV Haze MRC Nano Filter",
       "review_stars": 5,
@@ -14713,6 +15091,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/ifj49bp.jpg",
       "trackEvent_2": "Fuji Protective Filter PRF-49mm (Black)",
       "review_stars": 5,
@@ -14747,6 +15126,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy62uvnxtp.jpg",
       "trackEvent_2": "Hoya NXT Plus 62mm 10-Layer HMC Multi-Coated UV Lens Filter",
       "review_stars": 4.9,
@@ -14781,6 +15161,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw82cm.jpg",
       "trackEvent_2": "B + W 82mm MRC Clear Filter 007",
       "review_stars": 4.9,
@@ -14815,6 +15196,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvhd3.jpg",
       "trackEvent_2": "Hoya 82mm HD3 UV Filter",
       "review_stars": 4.7,
@@ -14849,6 +15231,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw43b10mrc.jpg",
       "trackEvent_2": "B + W 43mm Basic 010M UV Haze MRC Filter",
       "review_stars": 4.8,
@@ -14883,6 +15266,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw82tp10mf.jpg",
       "trackEvent_2": "B + W 82mm T-Pro 010M UV Haze MRC Nano Filter",
       "review_stars": 0,
@@ -14917,6 +15301,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy72uvast.jpg",
       "trackEvent_2": "Hoya Evo Antistatic UV Filter - 72mm",
       "review_stars": 4.7,
@@ -14951,6 +15336,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy67uvast.jpg",
       "trackEvent_2": "Hoya Evo Antistatic UV Filter - 67mm",
       "review_stars": 4.7,
@@ -14985,6 +15371,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw72b10mrc.jpg",
       "trackEvent_2": "B + W 72mm Basic 010M UV Haze MRC Filter",
       "review_stars": 4.8,
@@ -15019,6 +15406,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw112cuvm.jpg",
       "trackEvent_2": "B + W 112mm UV Haze Multi-Resistant Coating (MRC) Glass Filter #010M",
       "review_stars": 4.8,
@@ -15053,6 +15441,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/nk82c.jpg",
       "trackEvent_2": "Nikon 82mm NC Neutral Clear Filter",
       "review_stars": 4.9,
@@ -15087,6 +15476,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw46uv.jpg",
       "trackEvent_2": "B + W 46mm UV Haze 010 Filter",
       "review_stars": 4.8,
@@ -15121,6 +15511,7 @@
         "filters"
       ],
       "category": "protective filters uv and clear",
+      "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw77m10mrc.jpg",
       "trackEvent_2": "B + W 77mm Master 010M UV Haze MRC Nano Filter",
       "review_stars": 5,
@@ -15148,39 +15539,6 @@
   ],
   "Custom-Photo-Products": [
     {
-      "id": "HY82UVNXTPCP",
-      "item_tag": "Kit Savings",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
-      "category": "custom photo products",
-      "productImage_src": "https://www.adorama.com/images/product/hy82uvnxtpcp.jpg",
-      "trackEvent_2": "Hoya NXT Plus 82mm 10-Layer HMC Multi-Coated UV Lens Filter W/Multi-Coated CPL",
-      "review_stars": 4.9,
-      "review_count": 75,
-      "review_count_2": "reviews",
-      "product-sku_2": "HY82UVNXTPCP",
-      "product_sku_4": "A-NXTPL82UV CP",
-      "price_label": "Our Price",
-      "your_price": 232.8,
-      "vip_shipping": "VIP",
-      "vip_shipping_2": "PRO",
-      "popup_2": "5% OFF Every Day with TechoMania Credit Card",
-      "popup_3": "†",
-      "popup_4": "Get Reward Points",
-      "buy_section": ": 82mm",
-      "buy_section_2": "Circular Filter Size",
-      "buy_section_3": ": UV Blocking Filter",
-      "buy_section_4": "UV Filter Type",
-      "buy_section_5": ": Made of Glass",
-      "buy_section_6": "Material",
-      "buy_section_7": ": Slim / Wide Angle",
-      "buy_section_8": "Mount",
-      "price_reg_has_sibs": "",
-      "price_reg_has_sibs_2": ""
-    },
-    {
       "id": "HY95UV",
       "item_tag": "54% Off",
       "search_queries": [
@@ -15188,6 +15546,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy95uv.jpg",
       "trackEvent_2": "Hoya 95mm UV (Ultra Violet) Glass Filter",
       "review_stars": 4.7,
@@ -15196,7 +15555,7 @@
       "product-sku_2": "HY95UV",
       "product_sku_4": "A-95UV-GB",
       "price_label": "Our Price",
-      "your_price": 78.99,
+      "your_price": 78.98,
       "vip_shipping": "VIP",
       "vip_shipping_2": "PRO",
       "popup_2": "5% OFF Every Day with TechoMania Credit Card",
@@ -15211,7 +15570,9 @@
       "buy_section_7": "",
       "buy_section_8": "",
       "price_reg_has_sibs": "$171.00",
-      "price_reg_has_sibs_2": "List Price:"
+      "price_reg_has_sibs_2": "List Price:",
+      "newValue": "78.98",
+      "arg2": "78.98"
     },
     {
       "id": "HY62UVHD3",
@@ -15221,8 +15582,9 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy62uvhd3.jpg",
-      "trackEvent_2": "Hoya 62mm HD3 UV Filter",
+      "trackEvent_2": null,
       "review_stars": 4.7,
       "review_count": 645,
       "review_count_2": "reviews",
@@ -15254,6 +15616,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvnxtp.jpg",
       "trackEvent_2": "Hoya NXT Plus 82mm 10-Layer HMC Multi-Coated UV Lens Filter",
       "review_stars": 4.9,
@@ -15287,6 +15650,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/tf77uvw.jpg",
       "trackEvent_2": "Tiffen 77mm UV Wide Angle Thin Filter",
       "review_stars": 4.4,
@@ -15320,6 +15684,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy77uvnxtp.jpg",
       "trackEvent_2": "Hoya NXT Plus 77mm 10-Layer HMC Multi-Coated UV Lens Filter",
       "review_stars": 4.9,
@@ -15353,6 +15718,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw72tp10mf.jpg",
       "trackEvent_2": "B + W 72mm T-Pro 010M UV Haze MRC Nano Filter",
       "review_stars": 0,
@@ -15386,6 +15752,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw82m10mrc.jpg",
       "trackEvent_2": "B + W 82mm Master 010M UV Haze MRC Nano Filter",
       "review_stars": 5,
@@ -15419,6 +15786,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvast.jpg",
       "trackEvent_2": "Hoya Evo Antistatic UV Filter - 82mm",
       "review_stars": 4.7,
@@ -15452,6 +15820,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy77uvnxtpcp.jpg",
       "trackEvent_2": "Hoya NXT Plus 77mm 10-Layer HMC Multi-Coated UV Lens Filter W/Multi-Coated CPL",
       "review_stars": 4.9,
@@ -15485,6 +15854,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/ifj49sp.jpg",
       "trackEvent_2": "Protective Filter PRF-49mm (Silver)",
       "review_stars": 4.9,
@@ -15518,6 +15888,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw112m10mrc.jpg",
       "trackEvent_2": "B + W 112mm Master 010M UV Haze MRC Nano Filter",
       "review_stars": 5,
@@ -15551,6 +15922,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/ifj49bp.jpg",
       "trackEvent_2": "Fuji Protective Filter PRF-49mm (Black)",
       "review_stars": 5,
@@ -15584,6 +15956,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy62uvnxtp.jpg",
       "trackEvent_2": "Hoya NXT Plus 62mm 10-Layer HMC Multi-Coated UV Lens Filter",
       "review_stars": 4.9,
@@ -15617,6 +15990,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw82cm.jpg",
       "trackEvent_2": "B + W 82mm MRC Clear Filter 007",
       "review_stars": 4.9,
@@ -15650,6 +16024,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvhd3.jpg",
       "trackEvent_2": "Hoya 82mm HD3 UV Filter",
       "review_stars": 4.7,
@@ -15683,6 +16058,7 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw43b10mrc.jpg",
       "trackEvent_2": "B + W 43mm Basic 010M UV Haze MRC Filter",
       "review_stars": 4.8,
@@ -15716,15 +16092,16 @@
         "custom photo"
       ],
       "category": "custom photo products",
+      "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw82tp10mf.jpg",
-      "trackEvent_2": "B + W 82mm T-Pro 010M UV Haze MRC Nano Filter",
+      "trackEvent_2": "Title: B + W 82mm T-Pro 010M UV Haze MRC Nano Filter",
       "review_stars": 0,
       "review_count": 0,
       "review_count_2": "review",
       "product-sku_2": "BW82TP10MF",
       "product_sku_4": "66-1097759",
       "price_label": "Our Price",
-      "your_price": 148.4,
+      "your_price": 148,
       "vip_shipping": "",
       "vip_shipping_2": "",
       "popup_2": "5% OFF Every Day with TechoMania Credit Card",
@@ -15738,237 +16115,6 @@
       "buy_section_6": "Material",
       "buy_section_7": ": Standard",
       "buy_section_8": "Mount",
-      "price_reg_has_sibs": "",
-      "price_reg_has_sibs_2": ""
-    },
-    {
-      "id": "HY72UVAST",
-      "item_tag": "46% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
-      "category": "custom photo products",
-      "productImage_src": "https://www.adorama.com/images/product/hy72uvast.jpg",
-      "trackEvent_2": "Hoya Evo Antistatic UV Filter - 72mm",
-      "review_stars": 4.7,
-      "review_count": 645,
-      "review_count_2": "reviews",
-      "product-sku_2": "HY72UVAST",
-      "product_sku_4": "XEVA-72UV",
-      "price_label": "Our Price",
-      "your_price": 67.99,
-      "vip_shipping": "VIP",
-      "vip_shipping_2": "PRO",
-      "popup_2": "5% OFF Every Day with TechoMania Credit Card",
-      "popup_3": "†",
-      "popup_4": "Get Reward Points",
-      "buy_section": ": 72mm",
-      "buy_section_2": "Circular Filter Size",
-      "buy_section_3": ": UV Blocking Filter",
-      "buy_section_4": "UV Filter Type",
-      "buy_section_5": ": Made of Glass",
-      "buy_section_6": "Material",
-      "buy_section_7": ": Slim / Wide Angle",
-      "buy_section_8": "Mount",
-      "price_reg_has_sibs": "$126.00",
-      "price_reg_has_sibs_2": "List Price:"
-    },
-    {
-      "id": "HY67UVAST",
-      "item_tag": "38% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
-      "category": "custom photo products",
-      "productImage_src": "https://www.adorama.com/images/product/hy67uvast.jpg",
-      "trackEvent_2": "Hoya Evo Antistatic UV Filter - 67mm",
-      "review_stars": 4.7,
-      "review_count": 645,
-      "review_count_2": "reviews",
-      "product-sku_2": "HY67UVAST",
-      "product_sku_4": "XEVA-67UV",
-      "price_label": "Our Price",
-      "your_price": 69.95,
-      "vip_shipping": "VIP",
-      "vip_shipping_2": "PRO",
-      "popup_2": "5% OFF Every Day with TechoMania Credit Card",
-      "popup_3": "†",
-      "popup_4": "Get Reward Points",
-      "buy_section": ": 67mm",
-      "buy_section_2": "Circular Filter Size",
-      "buy_section_3": ": UV Blocking Filter",
-      "buy_section_4": "UV Filter Type",
-      "buy_section_5": ": Made of Glass",
-      "buy_section_6": "Material",
-      "buy_section_7": ": Slim / Wide Angle",
-      "buy_section_8": "Mount",
-      "price_reg_has_sibs": "$112.00",
-      "price_reg_has_sibs_2": "List Price:"
-    },
-    {
-      "id": "BW72B10MRC",
-      "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
-      "category": "custom photo products",
-      "productImage_src": "https://www.adorama.com/images/product/bw72b10mrc.jpg",
-      "trackEvent_2": "B + W 72mm Basic 010M UV Haze MRC Filter",
-      "review_stars": 4.8,
-      "review_count": 538,
-      "review_count_2": "reviews",
-      "product-sku_2": "BW72B10MRC",
-      "product_sku_4": "66-1100143",
-      "price_label": "Our Price",
-      "your_price": 64.95,
-      "vip_shipping": "VIP",
-      "vip_shipping_2": "PRO",
-      "popup_2": "5% OFF Every Day with TechoMania Credit Card",
-      "popup_3": "†",
-      "popup_4": "Get Reward Points",
-      "buy_section": "",
-      "buy_section_2": "",
-      "buy_section_3": "",
-      "buy_section_4": "",
-      "buy_section_5": "",
-      "buy_section_6": "",
-      "buy_section_7": "",
-      "buy_section_8": "",
-      "price_reg_has_sibs": "",
-      "price_reg_has_sibs_2": ""
-    },
-    {
-      "id": "BW112CUVM",
-      "item_tag": "Closeout",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
-      "category": "custom photo products",
-      "productImage_src": "https://www.adorama.com/images/product/bw112cuvm.jpg",
-      "trackEvent_2": "B + W 112mm UV Haze Multi-Resistant Coating (MRC) Glass Filter #010M",
-      "review_stars": 4.8,
-      "review_count": 538,
-      "review_count_2": "reviews",
-      "product-sku_2": "BW112CUVM",
-      "product_sku_4": "66-1070065",
-      "price_label": "Closeout",
-      "your_price": 328,
-      "vip_shipping": "VIP",
-      "vip_shipping_2": "PRO",
-      "popup_2": "5% OFF Every Day with TechoMania Credit Card",
-      "popup_3": "†",
-      "popup_4": "Get Reward Points",
-      "buy_section": ": 112mm",
-      "buy_section_2": "Circular Filter Size",
-      "buy_section_3": ": UV Blocking Filter",
-      "buy_section_4": "UV Filter Type",
-      "buy_section_5": ": Made of Glass",
-      "buy_section_6": "Material",
-      "buy_section_7": ": Standard",
-      "buy_section_8": "Mount",
-      "price_reg_has_sibs": "",
-      "price_reg_has_sibs_2": ""
-    },
-    {
-      "id": "NK82C",
-      "item_tag": "31% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
-      "category": "custom photo products",
-      "productImage_src": "https://www.adorama.com/images/product/nk82c.jpg",
-      "trackEvent_2": "Nikon 82mm NC Neutral Clear Filter",
-      "review_stars": 4.9,
-      "review_count": 347,
-      "review_count_2": "reviews",
-      "product-sku_2": "NK82C",
-      "product_sku_4": 2497,
-      "price_label": "Our Price",
-      "your_price": 109.95,
-      "vip_shipping": "VIP",
-      "vip_shipping_2": "PRO",
-      "popup_2": "5% OFF Every Day with TechoMania Credit Card",
-      "popup_3": "†",
-      "popup_4": "Get Reward Points",
-      "buy_section": ": 82mm",
-      "buy_section_2": "Circular Filter Size",
-      "buy_section_3": ": Standard",
-      "buy_section_4": "Mount",
-      "buy_section_5": "",
-      "buy_section_6": "",
-      "buy_section_7": "",
-      "buy_section_8": "",
-      "price_reg_has_sibs": "$159.95",
-      "price_reg_has_sibs_2": "List Price:"
-    },
-    {
-      "id": "BW46UV",
-      "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
-      "category": "custom photo products",
-      "productImage_src": "https://www.adorama.com/images/product/bw46uv.jpg",
-      "trackEvent_2": "B + W 46mm UV Haze 010 Filter",
-      "review_stars": 4.8,
-      "review_count": 538,
-      "review_count_2": "reviews",
-      "product-sku_2": "BW46UV",
-      "product_sku_4": "65-070084",
-      "price_label": "Our Price",
-      "your_price": 37.58,
-      "vip_shipping": "VIP",
-      "vip_shipping_2": "PRO",
-      "popup_2": "",
-      "popup_3": "",
-      "popup_4": "",
-      "buy_section": ": 46mm",
-      "buy_section_2": "Circular Filter Size",
-      "buy_section_3": ": UV Blocking Filter",
-      "buy_section_4": "UV Filter Type",
-      "buy_section_5": ": Made of Glass",
-      "buy_section_6": "Material",
-      "buy_section_7": ": Standard",
-      "buy_section_8": "Mount",
-      "price_reg_has_sibs": "",
-      "price_reg_has_sibs_2": ""
-    },
-    {
-      "id": "BW77M10MRC",
-      "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
-      "category": "custom photo products",
-      "productImage_src": "https://www.adorama.com/images/product/bw77m10mrc.jpg",
-      "trackEvent_2": "B + W 77mm Master 010M UV Haze MRC Nano Filter",
-      "review_stars": 5,
-      "review_count": 2,
-      "review_count_2": "reviews",
-      "product-sku_2": "BW77M10MRC",
-      "product_sku_4": "66-1101508",
-      "price_label": "Our Price",
-      "your_price": 114.96,
-      "vip_shipping": "",
-      "vip_shipping_2": "",
-      "popup_2": "5% OFF Every Day with TechoMania Credit Card",
-      "popup_3": "†",
-      "popup_4": "Get Reward Points",
-      "buy_section": "",
-      "buy_section_2": "",
-      "buy_section_3": "",
-      "buy_section_4": "",
-      "buy_section_5": "",
-      "buy_section_6": "",
-      "buy_section_7": "",
-      "buy_section_8": "",
       "price_reg_has_sibs": "",
       "price_reg_has_sibs_2": ""
     }
@@ -15985,6 +16131,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/ifjtgbt1.jpg",
       "trackEvent_2": "- Fujifilm TG-BT1 Tripod Grip with Bluetooth",
       "review_stars": 0,
@@ -16025,6 +16172,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/occ1040ft100.jpg",
       "trackEvent_2": "OConnor Ultimate 1040 flowtech 3-Section Carbon Fiber Tripod System w/Fluid Head",
       "review_stars": 5,
@@ -16065,6 +16213,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgmt055cxp3g.jpg",
       "trackEvent_2": "Manfrotto 055 3-Section CF Tripod, Bundle w/XPRO Ball Head w/200PL-14 QR Plate",
       "review_stars": 4.8,
@@ -16105,6 +16254,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/betma28a.jpg",
       "trackEvent_2": "Benro Mach3 TMA28A Series 2 4-Section Aluminum Tripod/Monopod, Twist Lock",
       "review_stars": 4.8,
@@ -16145,6 +16295,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/pdttal1.jpg",
       "trackEvent_2": "Peak Design 5-Section Aluminum Travel Tripod with Ball Head",
       "review_stars": 4.8,
@@ -16185,6 +16336,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/pdttcf1.jpg",
       "trackEvent_2": "Peak Design 5-Section Carbon Fiber Travel Tripod with Ball Head",
       "review_stars": 4.8,
@@ -16225,6 +16377,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/3pactth.jpg",
       "trackEvent_2": "3POD Wander Aluminum Travel Tripod w/3POD AB1 AB Series Aluminum Ball Head Kit",
       "review_stars": 5,
@@ -16265,6 +16418,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgmkeltcfs.jpg",
       "trackEvent_2": "Manfrotto Element Traveller Small 5-Section Carbon Fiber Tripod with Ball Head",
       "review_stars": 4.6,
@@ -16305,6 +16459,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgk290xta3bh.jpg",
       "trackEvent_2": "Manfrotto 290 Xtra 3-Section Aluminum Tripod with 496 Ball Head",
       "review_stars": 4.8,
@@ -16345,6 +16500,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/scsacemgs.jpg",
       "trackEvent_2": "Sachtler Ace M Fluid Head w/75/2 D 3-Section Aluminum Tripod & Ground Spreader",
       "review_stars": 4.7,
@@ -16385,6 +16541,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgbf2n1tmll.jpg",
       "trackEvent_2": "Manfrotto Befree 2N1 4-Section Aluminum Tripod/Monopod with 494 Ball Head, Black",
       "review_stars": 4.4,
@@ -16425,6 +16582,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgmt190x3.jpg",
       "trackEvent_2": "Manfrotto 190X 3-Section Aluminum Camera Tripod",
       "review_stars": 4.9,
@@ -16465,6 +16623,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgmmii4cmbbh.jpg",
       "trackEvent_2": "Manfrotto Element MII Mobile Bluetooth 4-Section CF Traveler Tripod, Black",
       "review_stars": 4.7,
@@ -16505,6 +16664,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/flmcp30l42.jpg",
       "trackEvent_2": "FLM CP30-L4 II 4-Section Compact/Tall 10X Carbon Fiber Tripod, 48.5 lbs Payload",
       "review_stars": 5,
@@ -16545,6 +16705,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgmmii4bmbbh.jpg",
       "trackEvent_2": "Manfrotto Element MII Mobile Bluetooth 4-Section Aluminum Traveler Tripod, Black",
       "review_stars": 4.7,
@@ -16585,6 +16746,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/rrsascn14bh.jpg",
       "trackEvent_2": "Really Right Stuff Ascend-14 4-Section CF Compact Travel Tripod w/22mm Ball Head",
       "review_stars": 5,
@@ -16625,6 +16787,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/kfc9098.jpg",
       "trackEvent_2": "K&F Concept A254C4 4-Section CF Travel Tripod/Monopod with Ball Head, Black",
       "review_stars": 5,
@@ -16665,6 +16828,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/gzgt5563gsus.jpg",
       "trackEvent_2": "Gitzo GT5563GS Systematic Series 5 6-Section Carbon Fiber Tripod, Giant",
       "review_stars": 5,
@@ -16705,6 +16869,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/scvid18100f.jpg",
       "trackEvent_2": "Sachtler Video 18 Fluid Head w/flowtech 100 3-Section CF Tripod, Ground Spreader",
       "review_stars": 0,
@@ -16745,6 +16910,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/gzgt5543lsus.jpg",
       "trackEvent_2": "Gitzo GT5543LS Systematic Series 5 4-Section Carbon Fiber Tripod, Long",
       "review_stars": 5,
@@ -16785,6 +16951,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/flmcp38l42.jpg",
       "trackEvent_2": "FLM CP38-L4 II 4-Section Compact/Tall 10X Carbon Fiber Tripod with 100mm Bowl",
       "review_stars": 5,
@@ -16825,6 +16992,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/rrstvc34mk2.jpg",
       "trackEvent_2": "Really Right Stuff TVC-34 Series 3 Mk2 Versa Apex 4-Section Carbon Fiber Tripod",
       "review_stars": 4.4,
@@ -16865,6 +17033,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgmt190x4bh2.jpg",
       "trackEvent_2": "Manfrotto 190XPRO 190 4-Section Al Tripod, w/XPRO Ball Head, 200PL-14 QR Plate",
       "review_stars": 5,
@@ -16905,6 +17074,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/bgt290xta3us.jpg",
       "trackEvent_2": "Manfrotto 290 Xtra 3-Section Aluminum Tripod",
       "review_stars": 4.8,
@@ -16945,6 +17115,7 @@
         "camera tripod"
       ],
       "category": "tripods",
+      "api_key": "Tripods",
       "productImage_src": "https://www.adorama.com/images/product/kfc9086v1.jpg",
       "trackEvent_2": "K&F Concept K234A6 4-Section Aluminum Travel Tripod/Monopod w/Ball Head, Black",
       "review_stars": 0,
@@ -16988,6 +17159,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/bepacb4.jpg",
       "trackEvent_2": "- Benro USB-C to Mini USB Camera Control Cable",
       "review_stars": 0,
@@ -17026,6 +17198,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/bepacb2.jpg",
       "trackEvent_2": "- Benro USB Type-C Camera Control Cable",
       "review_stars": 0,
@@ -17064,6 +17237,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/oc2575dpk.jpg",
       "trackEvent_2": "Oconnor Ultimate 2575D Fluid Head Package with Pan Handle",
       "review_stars": 0,
@@ -17102,6 +17276,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/awmbd4gf.jpg",
       "trackEvent_2": "Arca Swiss d4 Geared Tripod Head, Quick Set FlipLock Device (Plate Not Included)",
       "review_stars": 4.7,
@@ -17140,6 +17315,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/awmbp0hfl.jpg",
       "trackEvent_2": "Arca Swiss Monoball p0+ 60mm Hybrid Tripod Head with Quickset FlipLock Device",
       "review_stars": 5,
@@ -17178,6 +17354,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/bgmhxpbhq2.jpg",
       "trackEvent_2": "Manfrotto XPRO Ball Head with 200PL-14 Quick Release Plate",
       "review_stars": 4.8,
@@ -17216,6 +17393,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/syrgmin2.jpg",
       "trackEvent_2": "Syrp Genie Mini II Panning Motion Controller",
       "review_stars": 4.3,
@@ -17254,6 +17432,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/aw85015001.jpg",
       "trackEvent_2": "Arca Swiss C1 Cube Geared Tripod Head with clicPan and flipLock Quick Release",
       "review_stars": 0,
@@ -17292,6 +17471,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/rrsbh55lr.jpg",
       "trackEvent_2": "Really Right Stuff BH-55 Ball Head, Full-Size Lever-Release Clamp, 50 lb",
       "review_stars": 5,
@@ -17330,6 +17510,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/rrsbh40lrii.jpg",
       "trackEvent_2": "Really Right Stuff BH-40 Ball Head, Full-Size Lever-Release Clamp, 18 lb",
       "review_stars": 4.9,
@@ -17368,6 +17549,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/bgmh496q6.jpg",
       "trackEvent_2": "Manfrotto 496 Center Ball Head with Q6 Arca-Type Quick Release Plate & Top Lock",
       "review_stars": 0,
@@ -17406,6 +17588,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/aw85013001.jpg",
       "trackEvent_2": "Arca Swiss Cube C1 Geared Panning (GP) Tripod Head with Fliplock Quick Release",
       "review_stars": 0,
@@ -17444,6 +17627,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/bgmh496bhus.jpg",
       "trackEvent_2": "Manfrotto 496 Center Ball Head with 200PL-PRO Quick Release Plate",
       "review_stars": 4.7,
@@ -17482,6 +17666,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/rrsbh40pro.jpg",
       "trackEvent_2": "Really Right Stuff BH-40 Ball Head with B2-mAS Mini-Clamp, 18 lb Capacity",
       "review_stars": 4.9,
@@ -17520,6 +17705,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/bgmhxp3w.jpg",
       "trackEvent_2": "Manfrotto XPRO 3-Way Pan/Tilt Head with 200PL-14 Quick Release Plate",
       "review_stars": 4.6,
@@ -17558,6 +17744,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/awc1.jpg",
       "trackEvent_2": "Arca Swiss C1 Cube, Geared with FlipLock Quick Release (Plate Not Included)",
       "review_stars": 4,
@@ -17596,6 +17783,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/flmcb32fqlb5.jpg",
       "trackEvent_2": "FLM CB-32F F-Series Friction Ball Head with QLB-50 Universal Quick Release Clamp",
       "review_stars": 0,
@@ -17634,6 +17822,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/suib40.jpg",
       "trackEvent_2": "SunwayFoto IB-40 Low-Profile Inverted Ball Head with SDC-50 Duo-Lever Clamp",
       "review_stars": 4,
@@ -17672,6 +17861,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/wiwh200.jpg",
       "trackEvent_2": "Wimberley WH-200 Gimbal Tripod Head II with Quick Release Base",
       "review_stars": 4.9,
@@ -17710,6 +17900,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/occ12650001.jpg",
       "trackEvent_2": "OConnor Ultimate 1040 Fluid Head Package",
       "review_stars": 0,
@@ -17748,6 +17939,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/sik40ii.jpg",
       "trackEvent_2": "Sirui K-40II Ball Head w/ Aluminum Friction Control Knob, Load Capacity 77 lbs",
       "review_stars": 5,
@@ -17786,6 +17978,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/syrgmin2a.jpg",
       "trackEvent_2": "Syrp Genie Mini II Starter Kit",
       "review_stars": 0,
@@ -17824,6 +18017,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/acr1207.jpg",
       "trackEvent_2": "Acratech GXP Ball-Head with Lever Quick Release Clamp",
       "review_stars": 5,
@@ -17862,6 +18056,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/bg494cbh.jpg",
       "trackEvent_2": "Manfrotto 494 Aluminum Center Ball Head with 200PL-PRO Quick Release Plate",
       "review_stars": 4.3,
@@ -17900,6 +18095,7 @@
         "tripod head"
       ],
       "category": "tripod heads",
+      "api_key": "Tripod-Heads",
       "productImage_src": "https://www.adorama.com/images/product/vgaltabh100.jpg",
       "trackEvent_2": "Vanguard ALTA BH-100 Aluminum Alloy Ball Head",
       "review_stars": 5,

@@ -141,7 +141,7 @@ const AdProductsNavbar = ({handleLocalProductsSearch}) => {
             <PopoverArrow marginLeft="13px" backgroundColor="#0e101a"/>
             <PopoverCloseButton />
             <PopoverHeader  backgroundColor="#0e101a" borderRadius="10px">
-              <Select placeholder="Choose Category" w="180px" >
+              <Select placeholder="Choose Category" w="180px" onChange={(e)=>dispatch(product_success_action(e.target.value))} >
                 {
                   keyArrayForSearch.map((ele, i) => {
                     return (
