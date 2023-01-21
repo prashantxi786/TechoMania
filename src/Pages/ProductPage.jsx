@@ -56,9 +56,12 @@ const handleSearch = (event) => {
     Api();
   }, []);
   return (
+    <div>
+      <Navbar/>
     <div style={{display:"flex",alignItems:"flex-start",justifyContent:"space-between",
     //  border:"1px solid red",
     width:"100%",gap:"30px"}}>
+      
      <div style={{width:"30%",height:"4000px",fontSize:"27px",marginLeft:"20px",
     //  border:"1px solid blue"
      }}>
@@ -120,21 +123,21 @@ const handleSearch = (event) => {
       {product.map((el) => (
         
         <div
+        key={el.id}
           style={{
             display: "flex",
             gap: "30px",
             marginTop: "10px",
             height: "500px",
+            borderBottom:'3px solid rgb(175, 174, 174)',
             // marginTop: "10px",
             //  backgroundColor: "rgba(225, 227, 107, 0.54)",
             paddingTop: "50px",
             paddingLeft: "50px",
-            border:"5px solid rgb(223, 223, 223)",
             textAlign:"left",
             // width:"1200px"
             marginRight:"20px",
-            borderBottom:'3px solid rgb(175, 174, 174)',
-            textAlign:"left"
+            
 
           }}
         >
@@ -149,7 +152,7 @@ const handleSearch = (event) => {
           </div>
           <div style={{ width: "60%",marginRight:"100px" }}>
             <h3 style={{color:"rgb(43, 105, 229)",cursor:"pointer",marginRight:"80px"}}>{el.trackEvent_3}{el.trackEvent_2}
-            <Link to={`/ProductPage/${el.id}`}><h1>More details</h1></Link></h3>
+            <Link to={`/products/${el.id}`}><h1>More details</h1></Link></h3>
 
 
             <p style={{marginRight:"80px"}}>
@@ -217,6 +220,7 @@ const handleSearch = (event) => {
     </div>
     </div>
 
+  </div>
   </div>
   </div>
   );

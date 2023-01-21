@@ -114,10 +114,10 @@ const Navbar = () => {
             <Input bgColor={"white"} borderRadius="30" placeholder={"Search"} width={{base:"100px",md:"200px",lg:"455px"}} height={{base:"10px",md:"15px",lg:"32px"}}/>
             <Flex width={{base:"",md:"",lg:""}} alignItems="center" justifyContent={"space-between"}>
             <RxPerson color='white' size={"25"}/>
-              <Link href={loggedUser?"/logout":"/login"}>
-                <Text fontSize={{base:"5px",md:"8px",lg:"10"}} w={{base:"15px",md:"25px",lg:"42px"}}>{loggedUser?"Welcome":"Login"}</Text>
+              <Box>
                 <Text fontWeight={"500"} fontSize={{base:"6px",md:"8px",lg:"12px"}}  w={{base:"20px",md:"45px",lg:"70px"}}>{loggedUser?loggedUser.firstName:"My Account"}</Text>
-              </Link>
+                <Text fontSize={{base:"5px",md:"8px",lg:"10"}} w={{base:"15px",md:"25px",lg:"42px"}}>{loggedUser?"Welcome":"Login"}</Text>
+              </Box>
               <FiShoppingCart  size={"25"}/>
             </Flex>
           </Flex>
