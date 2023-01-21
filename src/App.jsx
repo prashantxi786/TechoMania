@@ -6,8 +6,8 @@ import AdminPanel from './Components/Admin/AdNavbar';
 function App() {
   return (
     <div className='App'>
-      <AllRoutes />
-      {/* <AdminPanel /> */}
+      {/* <AllRoutes /> */}
+      <AdminPanel />
 
     </div>
   );
