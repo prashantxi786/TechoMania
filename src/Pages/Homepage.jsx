@@ -17,7 +17,6 @@ const Homepage = () => {
   return (
     <div>
         <Navbar/>
-
         <Carousel cardsArr={arr}/>
         <MidSection/>
         <Footer/>

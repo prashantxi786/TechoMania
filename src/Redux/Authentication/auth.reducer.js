@@ -5,7 +5,8 @@ import {
   AUTH_LOGOUT,
   AUTH_SIGNUP_LOADING,
   AUTH_SIGNUP_ERROR,
-  AUTH_SIGNUP_SUCCESS
+  AUTH_SIGNUP_SUCCESS,
+  AUTH_ADMIN_LOGOUT
 } from './auth.type';
 
 let activeUser = JSON.parse(localStorage.getItem('user'));
@@ -35,7 +36,10 @@ export const authReducer = (state = initialState, { type, payload }) => {
       };
     }
     case AUTH_LOGIN_SUCCESS: {
-      localStorage.setItem('user', JSON.stringify({ ...payload }));
+      localStorage.setItem(
+        'user',
+        JSON.stringify({ ...payload, id: payload.email })
+      );
       return {
         ...state,
         user: payload,
@@ -70,6 +74,13 @@ export const authReducer = (state = initialState, { type, payload }) => {
         ...state,
         loading: false,
         isSignedUp: true
+      };
+    }
+    case AUTH_ADMIN_LOGOUT: {
+      localStorage.setItem('user', JSON.stringify(payload));
+      return {
+        ...state,
+        isAdmin: false
       };
     }
     default: {

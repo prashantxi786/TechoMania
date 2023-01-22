@@ -25,7 +25,8 @@ const Cart = () => {
 
   useEffect(() => {
     dispatch(getCartData());
-  }, []);
+    document.title = 'My Cart: TechoMania';
+  }, [dispatch]);
 
   return (
     <Box>
