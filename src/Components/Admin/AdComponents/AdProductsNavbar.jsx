@@ -17,24 +17,10 @@ import {
 import { useDispatch } from "react-redux";
 import { product_success_action } from "../../../Redux/Admin/Products/ad_products.actions";
 import { BsSearch } from "react-icons/bs";
-const AdProductsNavbar = ({handleLocalProductsSearch}) => {
-  const dispatch = useDispatch();
-  const keyArray = [
-    ["Teleconverters", "Teleconverters"],
-    ["Lens Hoods", "Lens-Hoods"],
-    ["Lens Cap", "Lens-Caps"],
-    ["Camera Batteries", "Camera-Batteries"],
-    ["Light Meters", "Light-Meters"],
-    ["Mirrorless Lenses", "Mirrorless-Lenses"],
-    ["Digital & Shoot Cameras", "Digital-Point-and-Shoot-Cameras"],
-    ["SLR Lenses", "SLR-Lenses"],
-    ["Protective Filters", "Protective-Filters-UV-and-Clear"],
-    ["Tripod Heads", "Tripod-Heads"],
-    ["Custom Photo Products", "Custom-Photo-Products"],
-  ];
+
 
   //TODO: THIS ARRAY FOR SEARCH FUNCTIONALITY
-  const keyArrayForSearch = [
+  export const keyArrayForSearch = [
     ["Cameras","Cameras"],
     ["Tripods","Tripods"],
     ["SLR Cameras","SLR-Cameras"],
@@ -52,6 +38,43 @@ const AdProductsNavbar = ({handleLocalProductsSearch}) => {
     ["Tripod Heads", "Tripod-Heads"],
     ["Custom Photo Products", "Custom-Photo-Products"],
   ];
+
+
+const AdProductsNavbar = ({handleLocalProductsSearch}) => {
+  const dispatch = useDispatch();
+  const keyArray = [
+    ["Teleconverters", "Teleconverters"],
+    ["Lens Hoods", "Lens-Hoods"],
+    ["Lens Cap", "Lens-Caps"],
+    ["Camera Batteries", "Camera-Batteries"],
+    ["Light Meters", "Light-Meters"],
+    ["Mirrorless Lenses", "Mirrorless-Lenses"],
+    ["Digital & Shoot Cameras", "Digital-Point-and-Shoot-Cameras"],
+    ["SLR Lenses", "SLR-Lenses"],
+    ["Protective Filters", "Protective-Filters-UV-and-Clear"],
+    ["Tripod Heads", "Tripod-Heads"],
+    ["Custom Photo Products", "Custom-Photo-Products"],
+  ];
+
+  //TODO: THIS ARRAY FOR SEARCH FUNCTIONALITY
+  // export const keyArrayForSearch = [
+  //   ["Cameras","Cameras"],
+  //   ["Tripods","Tripods"],
+  //   ["SLR Cameras","SLR-Cameras"],
+  //   ["Camera Filters", "Neutral-Density-Filters"],
+  //   ["Memory Cards", "Memory-Cards"],
+  //   ["Teleconverters", "Teleconverters"],
+  //   ["Lens Hoods", "Lens-Hoods"],
+  //   ["Lens Cap", "Lens-Caps"],
+  //   ["Camera Batteries", "Camera-Batteries"],
+  //   ["Light Meters", "Light-Meters"],
+  //   ["Mirrorless Lenses", "Mirrorless-Lenses"],
+  //   ["Digital & Shoot Cameras", "Digital-Point-and-Shoot-Cameras"],
+  //   ["SLR Lenses", "SLR-Lenses"],
+  //   ["Protective Filters", "Protective-Filters-UV-and-Clear"],
+  //   ["Tripod Heads", "Tripod-Heads"],
+  //   ["Custom Photo Products", "Custom-Photo-Products"],
+  // ];
 
   const handleGetRequest = (e) => {
     // console.log(e.target.innerText);
