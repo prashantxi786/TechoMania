@@ -4,12 +4,15 @@ import React, { useEffect, useState } from "react";
 import AdProductsNavbar from "../../Components/Admin/AdComponents/AdProductsNavbar";
 import { useSelector } from "react-redux";
 import AdProducts_Card from "../../Components/Admin/AdComponents/AdProducts_Card";
+import AdProducts_Loading from "../../Components/Admin/AdComponents/AdProducts_Loading";
 
 const Products = () => {
-  const { ad_products_data } = useSelector((store) => store.adProductsManager);
+  const { ad_products_data, loading } = useSelector(
+    (store) => store.adProductsManager
+  );
   const [localStateData, setLocalStateData] = useState(ad_products_data);
-  console.log('localStateData:', localStateData)
-  console.log('ad_products_data:', ad_products_data)
+  console.log("localStateData:", localStateData);
+  console.log("ad_products_data:", ad_products_data);
 
   //TODO: LOCAL SEARCH FUNCTION
   const handleLocalProductsSearchByDebounce = (args) => {
@@ -45,38 +48,44 @@ const Products = () => {
   const handleLocalProductsSearch = debounce((args) =>
     handleLocalProductsSearchByDebounce(args)
   );
+
+  // if (loading) return <AdProducts_Loading />;
   return (
     <Box className="Ad_Products_Container">
       <AdProductsNavbar handleLocalProductsSearch={handleLocalProductsSearch} />
-      <Box>
-        {localStateData.length !== 0
-          ? localStateData.map((ele) => {
-              return (
-                <AdProducts_Card
-                  key={ele.id}
-                  id={ele.id}
-                  title={ele.trackEvent_2}
-                  imageSrc={ele.productImage_src}
-                  price={ele.your_price}
-                  category={ele.category}
-                  apikey={ele.api_key}
-                />
-              );
-            })
-          : ad_products_data.map((ele) => {
-              return (
-                <AdProducts_Card
-                  key={ele.id}
-                  id={ele.id}
-                  title={ele.trackEvent_2}
-                  imageSrc={ele.productImage_src}
-                  price={ele.your_price}
-                  category={ele.category}
-                  apikey={ele.api_key}
-                />
-              );
-            })}
-      </Box>
+      {loading ? (
+        <AdProducts_Loading />
+      ) : (
+        <Box>
+          {localStateData.length !== 0
+            ? localStateData.map((ele) => {
+                return (
+                  <AdProducts_Card
+                    key={ele.id}
+                    id={ele.id}
+                    title={ele.trackEvent_2}
+                    imageSrc={ele.productImage_src}
+                    price={ele.your_price}
+                    category={ele.category}
+                    apikey={ele.api_key}
+                  />
+                );
+              })
+            : ad_products_data.map((ele) => {
+                return (
+                  <AdProducts_Card
+                    key={ele.id}
+                    id={ele.id}
+                    title={ele.trackEvent_2}
+                    imageSrc={ele.productImage_src}
+                    price={ele.your_price}
+                    category={ele.category}
+                    apikey={ele.api_key}
+                  />
+                );
+              })}
+        </Box>
+      )}
     </Box>
   );
 };

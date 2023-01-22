@@ -40,7 +40,7 @@
 
 /* THIS IS THE ALL CARD CONTAINER CSS */
 .Ad_Products_Container > :nth-child(2){
-  border: 3px solid red;
+  /* border: 3px solid red; */
   gap: 20px;
   display: flex;
   flex-direction: column;

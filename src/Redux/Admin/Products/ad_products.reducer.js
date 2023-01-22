@@ -23,7 +23,7 @@ export const adProductsReducer = (
       }
     case AD_PRODUCTS_SUCCESS:
       {
-        return {...state,ad_products_data:payload}
+        return {...state,ad_products_data:payload,loading:false}
       }
     default: 
       {

@@ -98,6 +98,8 @@ const AdProducts_Card = ({ id, title, price, imageSrc, category, apikey }) => {
       </Box>
       <Box>
         <Tooltip hasArrow label={title} bg="gray.300" color="black">
+
+
           <Text
             cursor="pointer"
             isTruncated
@@ -108,6 +110,8 @@ const AdProducts_Card = ({ id, title, price, imageSrc, category, apikey }) => {
           </Text>
         </Tooltip>
         <Input placeholder="Enter your new titile" display={hideInputBox ? "block" : "none"} onKeyPress={handleBunchEdit} ref={titleInput}/>
+
+
         <Text
           cursor="pointer"
           onDoubleClick={() => handleEdit("price", "your_price")}
@@ -118,8 +122,7 @@ const AdProducts_Card = ({ id, title, price, imageSrc, category, apikey }) => {
         <Input  placeholder="Enter your new price" display={hideInputBox ? "block" : "none"} onKeyPress={handleBunchEdit} ref={priceInput}/>
       </Box>
       <Box>
-        <Button>View</Button>
-        <Button onClick={() => setHideInputBox(!hideInputBox)}><MdModeEditOutline/></Button>
+        <Button onClick={() => setHideInputBox(!hideInputBox)}><MdModeEditOutline color="yellow"/></Button>
         <Button
           onClick={() => {
             dispatch(product_delete_action({ id, apikey }));
@@ -130,7 +133,7 @@ const AdProducts_Card = ({ id, title, price, imageSrc, category, apikey }) => {
             });
           }}
         >
-          <MdDeleteSweep/>
+          <MdDeleteSweep color="red"/>
         </Button>
         <AdProducts_AddItem/>
       </Box>

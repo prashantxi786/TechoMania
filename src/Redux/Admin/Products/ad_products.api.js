@@ -46,3 +46,10 @@ export const products_bunch_update_request = async ({
   const data = await axios.patch(`http://localhost:8080/${apikey}/${id}`, obj);
   return data.data;
 };
+
+//TODO: ADD THE NEW ITEM
+export const products_addItem_request = async (cred) =>{
+  console.log('cred:', cred)
+  const data = await axios.post(`http://localhost:8080/${cred.api_key}`, cred);
+  return data.data;
+}
