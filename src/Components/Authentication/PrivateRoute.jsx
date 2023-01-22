@@ -17,8 +17,18 @@ if (isLoggedIn) {
     if (isAdmin) {
       // setTimeout(() => navigate('/admin'), 2000);
       return <Navigate to='/admin' />;
+
+    //  return navigate('/admin')
+  
+    } else {
+      // setTimeout(() => navigate('/'), 2000);
+      return <Navigate to='/' />;
+    //  return navigate('/')
+
+
     } else {
       return children;
+
     }
   }
   return <Navigate to='/login' />;

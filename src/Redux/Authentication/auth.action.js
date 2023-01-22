@@ -38,7 +38,8 @@ export const login = (email, password) => async (dispatch) => {
       firstName: username[0],
       lastName: username[1],
       isAdmin: isMatch,
-      lastSignInTime: lastSeen
+      lastSignInTime: lastSeen,
+      isActive:true
     };
 
     await addCurrentUserAPI({ ...data, id: data.email });
@@ -53,6 +54,7 @@ export const logout = () => async (dispatch) => {
   await handleLogout();
   dispatch({ type: AUTH_LOGOUT });
 };
+
 
 export const adminLogout = () => (dispatch) => {
   let data = { ...currentUser, isAdmin: false };

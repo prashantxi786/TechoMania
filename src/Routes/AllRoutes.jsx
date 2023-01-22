@@ -8,6 +8,8 @@ import ProductPage from '../Pages/ProductPage';
 import SingleProduct from '../Pages/SingleProductPage';
 import SearchResults from '../Pages/SearchResults';
 
+import AdminPanel from '../Components/Admin/AdNavbar';
+
 const AllRoutes = () => {
   return (
     <Routes>
@@ -28,8 +30,11 @@ const AllRoutes = () => {
           </PrivateRoute>
         }
       />
+      <Route path='/admin' element={<AdminPanel/>}/>
+      <Route path='/' element={<Homepage />} />
       <Route path='/products' element={<ProductPage />} />
       <Route path='/products/:id' element={<SingleProduct />} />
+
       <Route path='/' element={<Homepage />} />
       <Route
         path='/cart'
