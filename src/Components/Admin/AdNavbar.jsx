@@ -40,6 +40,8 @@ import { Link } from "react-router-dom";
 import logoImage from "../../Used_Images/TechoMania_without_name_logo.png";
 import { MdOutlinePaid } from "react-icons/md";
 import { FaBeer } from "react-icons/fa";
+import { useDispatch } from "react-redux";
+import { logout } from "../../Redux/Authentication/auth.action";
 
 const LinkItems = [
   { name: "Dashboard", to: "/admin", icon: FiHome },
@@ -155,6 +157,7 @@ const NavItem = ({ icon, to, children, ...rest }) => {
 };
 
 const MobileNav = ({ onOpen, ...rest }) => {
+  const dispatch = useDispatch()
   return (
     <Flex
       ml={{ base: 0, md: 60 }}
@@ -211,7 +214,7 @@ const MobileNav = ({ onOpen, ...rest }) => {
                   spacing="1px"
                   ml="2"
                 >
-                  <Text fontSize="sm">{activeUser.firstName}</Text>
+                  <Text fontSize="sm">admin name</Text>
                   <Text fontSize="xs" color="gray.600">
                     Admin
                   </Text>
@@ -229,7 +232,7 @@ const MobileNav = ({ onOpen, ...rest }) => {
               <MenuItem>Settings</MenuItem>
               <MenuItem>Billing</MenuItem>
               <MenuDivider />
-              <MenuItem >Sign out</MenuItem>
+              <MenuItem onClick={()=>dispatch(logout())}>Sign out</MenuItem>
             </MenuList>
           </Menu>
         </Flex>

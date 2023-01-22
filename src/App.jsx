@@ -1,17 +1,22 @@
 import "./App.css";
-import AllRoutes from "./Routes/AllRoutes";
 import AdminPanel from "./Components/Admin/AdNavbar";
-import AdProducts_Loading from "./Components/Admin/AdComponents/AdProducts_Loading";
-import Cart from "./Pages/Cart";
+import AllRoutes from "./Routes/AllRoutes";
+let activeUser = JSON.parse(localStorage.getItem("user")) || {};
 
 function App() {
-  const activeUser = JSON.parse(localStorage.getItem("user"));
-  console.log("activeUser:", activeUser);
+  let checkLength = Object.keys(activeUser).length
+  console.log('checkLength:', checkLength)
 
   return (
     <div className="App">
-      {/* {activeUser.isAdmin ? <AdminPanel /> : <AllRoutes />} */}
-      {activeUser.isAdmin ?  <AllRoutes /> :  <AdminPanel />}
+      {checkLength !== 0 && activeUser.isAdmin === true ? (
+        <AdminPanel />
+        ) : (
+          <AllRoutes />
+      )} 
+       {/* <AdminPanel/> */}
+      {/* <AllRoutes /> */}
+
     </div>
   );
 }

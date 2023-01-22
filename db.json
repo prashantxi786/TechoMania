@@ -1,5 +1,12 @@
 {
-  "admins": [],
+  "admins": [
+    {
+      "email": "worldse397@gmail.com"
+    },
+    {
+      "email":"worldse398@gmail.com"
+    }
+  ],
   "cart": [
     {
       "id": "CAR7CKEK",
@@ -321,7 +328,6 @@
       "buy_section_14": "Configuration"
     },
     {
-
       "id": "IPCZS80S",
       "item_tag": "New Arrival",
       "search_queries": [
@@ -3193,11 +3199,7 @@
     {
       "id": "CAR7CKAK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car7ckak.jpg",
@@ -3235,11 +3237,7 @@
     {
       "id": "CAR7CKEK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car7ckek.jpg",
@@ -3277,11 +3275,7 @@
     {
       "id": "CAR10CKAK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car10ckak.jpg",
@@ -3319,11 +3313,7 @@
     {
       "id": "CAR10CKPK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car10ckpk.jpg",
@@ -3361,11 +3351,7 @@
     {
       "id": "CAR7CKPK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car7ckpk.jpg",
@@ -3403,11 +3389,7 @@
     {
       "id": "CAR3",
       "item_tag": "",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car3.jpg",
@@ -3445,11 +3427,7 @@
     {
       "id": "ISOA7R5",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7r5.jpg",
@@ -3488,11 +3466,7 @@
     {
       "id": "CAR5",
       "item_tag": "Special",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5.jpg",
@@ -3538,11 +3512,7 @@
     {
       "id": "NKZ6M2",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz6m2.jpg",
@@ -3590,11 +3560,7 @@
     {
       "id": "ISOA7M4",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7m4.jpg",
@@ -3635,11 +3601,7 @@
     {
       "id": "NKZ9",
       "item_tag": "Free Gift",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz9.jpg",
@@ -3679,11 +3641,7 @@
     {
       "id": "IOMOM1",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/iomom1.jpg",
@@ -3729,11 +3687,7 @@
     {
       "id": "CAR6",
       "item_tag": "Special",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car6.jpg",
@@ -3781,11 +3735,7 @@
     {
       "id": "ISOA9M2",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa9m2.jpg",
@@ -3825,11 +3775,7 @@
     {
       "id": "ISOA7M2K",
       "item_tag": "38% Off",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7m2k.jpg",
@@ -3876,11 +3822,7 @@
     {
       "id": "NKZ9FTZ",
       "item_tag": "Special",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz9ftz.jpg",
@@ -3920,11 +3862,7 @@
     {
       "id": "ISOA7SM3",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7sm3.jpg",
@@ -3964,11 +3902,7 @@
     {
       "id": "CAR5BG",
       "item_tag": "Special",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5bg.jpg",
@@ -4006,11 +3940,7 @@
     {
       "id": "NKZ6M2L2",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz6m2l2.jpg",
@@ -4051,11 +3981,7 @@
     {
       "id": "NKZ6M2MA",
       "item_tag": "Special",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz6m2ma.jpg",
@@ -4097,11 +4023,7 @@
     {
       "id": "ISOA7M2",
       "item_tag": "36% Off",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isoa7m2.jpg",
@@ -4148,11 +4070,7 @@
     {
       "id": "NKZ7M2MA",
       "item_tag": "Special",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz7m2ma.jpg",
@@ -4193,11 +4111,7 @@
     {
       "id": "NKZ7M2",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/nkz7m2.jpg",
@@ -4245,11 +4159,7 @@
     {
       "id": "IFJXP3DS",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ifjxp3ds.jpg",
@@ -4287,11 +4197,7 @@
     {
       "id": "CAR5L1",
       "item_tag": "Special",
-      "search_queries": [
-        "mirrorless cameras",
-        "mirrorless camera",
-        "camera"
-      ],
+      "search_queries": ["mirrorless cameras", "mirrorless camera", "camera"],
       "category": "mirrorless camera",
       "api_key": "Mirrorless-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/car5l1.jpg",
@@ -4332,11 +4238,7 @@
     {
       "id": "ICA5DM4",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4.jpg",
@@ -4364,11 +4266,7 @@
     {
       "id": "ICA5DM4L",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4l.jpg",
@@ -4402,11 +4300,7 @@
     {
       "id": "INKD6",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/inkd6.jpg",
@@ -4436,11 +4330,7 @@
     {
       "id": "ICA1DXM3",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica1dxm3.jpg",
@@ -4469,11 +4359,7 @@
     {
       "id": "ICASL3",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icasl3.jpg",
@@ -4502,11 +4388,7 @@
     {
       "id": "ICA5DM4K",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4k.jpg",
@@ -4540,11 +4422,7 @@
     {
       "id": "ICAT8IK2",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icat8ik2.jpg",
@@ -4572,11 +4450,7 @@
     {
       "id": "ICASL3K1",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icasl3k1.jpg",
@@ -4605,11 +4479,7 @@
     {
       "id": "ICA5DM4KFL",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4kfl.jpg",
@@ -4649,11 +4519,7 @@
     {
       "id": "ICA6DM2K",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica6dm2k.jpg",
@@ -4679,11 +4545,7 @@
     {
       "id": "ICAT7K",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icat7k.jpg",
@@ -4718,11 +4580,7 @@
     {
       "id": "ICAT7KA",
       "item_tag": "34% Off",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icat7ka.jpg",
@@ -4753,11 +4611,7 @@
     {
       "id": "ICAT8IK",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icat8ik.jpg",
@@ -4789,11 +4643,7 @@
     {
       "id": "ICA5DM4KB",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4kb.jpg",
@@ -4824,11 +4674,7 @@
     {
       "id": "INKD7500K",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/inkd7500k.jpg",
@@ -4871,11 +4717,7 @@
     {
       "id": "ICASL3K1AM",
       "item_tag": "26% Off",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icasl3k1am.jpg",
@@ -4907,11 +4749,7 @@
     {
       "id": "INKD850",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/inkd850.jpg",
@@ -4948,11 +4786,7 @@
     {
       "id": "IPXK12",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxk12.jpg",
@@ -4991,11 +4825,7 @@
     {
       "id": "ICASL3KW1",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icasl3kw1.jpg",
@@ -5024,11 +4854,7 @@
     {
       "id": "IPXK12K",
       "item_tag": "17% Off",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxk12k.jpg",
@@ -5067,11 +4893,7 @@
     {
       "id": "INKD6AK",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/inkd6ak.jpg",
@@ -5098,11 +4920,7 @@
     {
       "id": "IPXK3M3B",
       "item_tag": "Kit Discount",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipxk3m3b.jpg",
@@ -5139,11 +4957,7 @@
     {
       "id": "ICA6DM2KFL",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica6dm2kfl.jpg",
@@ -5175,11 +4989,7 @@
     {
       "id": "ICA6DM2",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica6dm2.jpg",
@@ -5208,11 +5018,7 @@
     {
       "id": "ICA5DM4B",
       "item_tag": "Special",
-      "search_queries": [
-        "slr cameras",
-        "dslr cameras",
-        "camera"
-      ],
+      "search_queries": ["slr cameras", "dslr cameras", "camera"],
       "category": "slr cameras",
       "api_key": "SLR-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ica5dm4b.jpg",
@@ -5245,11 +5051,7 @@
     {
       "id": "IPCZS80B",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipczs80b.jpg",
@@ -5285,11 +5087,7 @@
     {
       "id": "IPCZS80S",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipczs80s.jpg",
@@ -5325,11 +5123,7 @@
     {
       "id": "IKKAZ255WH",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkaz255wh.jpg",
@@ -5365,11 +5159,7 @@
     {
       "id": "IKKAZ255RD",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkaz255rd.jpg",
@@ -5405,11 +5195,7 @@
     {
       "id": "ISOZV1FBAK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbak.jpg",
@@ -5448,11 +5234,7 @@
     {
       "id": "ISOZV1FBPC",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbpc.jpg",
@@ -5491,11 +5273,7 @@
     {
       "id": "ISOZV1FBEK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbek.jpg",
@@ -5534,11 +5312,7 @@
     {
       "id": "ISOZV1FBMC",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbmc.jpg",
@@ -5577,11 +5351,7 @@
     {
       "id": "ISOZV1FBVK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fbvk.jpg",
@@ -5620,11 +5390,7 @@
     {
       "id": "ISOZV1FWAK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwak.jpg",
@@ -5663,11 +5429,7 @@
     {
       "id": "ISOZV1FWVK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwvk.jpg",
@@ -5706,11 +5468,7 @@
     {
       "id": "ISOZV1FWEK",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwek.jpg",
@@ -5749,11 +5507,7 @@
     {
       "id": "ISOZV1FWMC",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwmc.jpg",
@@ -5792,11 +5546,7 @@
     {
       "id": "ISOZV1FWPC",
       "item_tag": "New Arrival",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isozv1fwpc.jpg",
@@ -5835,11 +5585,7 @@
     {
       "id": "IRCGR3X",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3x.jpg",
@@ -5878,11 +5624,7 @@
     {
       "id": "IRCGR3N",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3n.jpg",
@@ -5918,11 +5660,7 @@
     {
       "id": "IPCDMCZS100S",
       "item_tag": "33% Off",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcdmczs100s.jpg",
@@ -5961,11 +5699,7 @@
     {
       "id": "IPCDMCZS100B",
       "item_tag": "33% Off",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcdmczs100b.jpg",
@@ -6001,11 +5735,7 @@
     {
       "id": "IRCGR3XU",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ircgr3xu.jpg",
@@ -6041,11 +5771,7 @@
     {
       "id": "IPCDMCLX10",
       "item_tag": "17% Off",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcdmclx10.jpg",
@@ -6084,11 +5810,7 @@
     {
       "id": "IKKAZ652BK",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkaz652bk.jpg",
@@ -6124,11 +5846,7 @@
     {
       "id": "IKKWPZ2YL",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ikkwpz2yl.jpg",
@@ -6164,11 +5882,7 @@
     {
       "id": "ICAG7XM2",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/icag7xm2.jpg",
@@ -6204,11 +5918,7 @@
     {
       "id": "IPCDMCZS200B",
       "item_tag": "Special",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/ipcdmczs200b.jpg",
@@ -6244,11 +5954,7 @@
     {
       "id": "ISORX10M4",
       "item_tag": "Free Gift",
-      "search_queries": [
-        "shoot camera",
-        "digital camera",
-        "camera"
-      ],
+      "search_queries": ["shoot camera", "digital camera", "camera"],
       "category": "cameras",
       "api_key": "Digital-Point-and-Shoot-Cameras",
       "productImage_src": "https://www.adorama.com/images/product/isorx10m4.jpg",
@@ -7944,11 +7650,7 @@
     {
       "id": "SKC800U",
       "item_tag": "20% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skc800u.jpg",
@@ -7978,11 +7680,7 @@
     {
       "id": "SKL478D",
       "item_tag": "19% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl478d.jpg",
@@ -8012,11 +7710,7 @@
     {
       "id": "SKL208",
       "item_tag": "21% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl208.jpg",
@@ -8046,11 +7740,7 @@
     {
       "id": "SK401395",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401395_1.jpg",
@@ -8080,11 +7770,7 @@
     {
       "id": "ILPU200",
       "item_tag": "$100 Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/ilpu200.jpg",
@@ -8114,11 +7800,7 @@
     {
       "id": "SKI346C",
       "item_tag": "23% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/ski346c.jpg",
@@ -8148,11 +7830,7 @@
     {
       "id": "SKL398A",
       "item_tag": "19% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl398a.jpg",
@@ -8182,11 +7860,7 @@
     {
       "id": "SK401629",
       "item_tag": "23% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401629.jpg",
@@ -8216,11 +7890,7 @@
     {
       "id": "SKL478DRU",
       "item_tag": "17% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl478dru.jpg",
@@ -8250,11 +7920,7 @@
     {
       "id": "SK401332",
       "item_tag": "33% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401332.jpg",
@@ -8284,11 +7950,7 @@
     {
       "id": "SK401333",
       "item_tag": "33% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401333.jpg",
@@ -8318,11 +7980,7 @@
     {
       "id": "SKL478F5",
       "item_tag": "21% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl478f5.jpg",
@@ -8352,11 +8010,7 @@
     {
       "id": "SKRTELPX",
       "item_tag": "27% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skrtelpx.jpg",
@@ -8386,11 +8040,7 @@
     {
       "id": "SKL398HS",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl398hs.jpg",
@@ -8420,11 +8070,7 @@
     {
       "id": "SKL398CS",
       "item_tag": "24% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl398cs.jpg",
@@ -8454,11 +8100,7 @@
     {
       "id": "SKSC",
       "item_tag": "",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sksc.jpg",
@@ -8488,11 +8130,7 @@
     {
       "id": "SKL398LD",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl398ld.jpg",
@@ -8522,11 +8160,7 @@
     {
       "id": "SKSK401305",
       "item_tag": "20% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sksk401305.jpg",
@@ -8556,11 +8190,7 @@
     {
       "id": "ILPU204",
       "item_tag": "",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/ilpu204.jpg",
@@ -8590,11 +8220,7 @@
     {
       "id": "TTAC10B",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/ttac10b.jpg",
@@ -8624,11 +8250,7 @@
     {
       "id": "KNKFM1100",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/knkfm1100.jpg",
@@ -8658,11 +8280,7 @@
     {
       "id": "HLSMLM",
       "item_tag": "16% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/hlsmlm.jpg",
@@ -8692,11 +8310,7 @@
     {
       "id": "SK401628",
       "item_tag": "23% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401628.jpg",
@@ -8726,11 +8340,7 @@
     {
       "id": "SK401710",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/sk401710.jpg",
@@ -8760,11 +8370,7 @@
     {
       "id": "SKL478DRUPX",
       "item_tag": "17% Off",
-      "search_queries": [
-        "light meters",
-        "light meter",
-        "light"
-      ],
+      "search_queries": ["light meters", "light meter", "light"],
       "category": "light meters",
       "api_key": "Light-Meters",
       "productImage_src": "https://www.adorama.com/images/product/skl478drupx.jpg",
@@ -8796,11 +8402,7 @@
     {
       "id": "ISO14TCE",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iso14tce.jpg",
@@ -8830,11 +8432,7 @@
     {
       "id": "CA14X",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca14x.jpg",
@@ -8864,11 +8462,7 @@
     {
       "id": "TM14XNKT",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/tm14xnkt.jpg",
@@ -8898,11 +8492,7 @@
     {
       "id": "NKTC20E3U",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/nktc20e3u.jpg",
@@ -8932,11 +8522,7 @@
     {
       "id": "CA2XAF3U",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca2xaf3u.jpg",
@@ -8966,11 +8552,7 @@
     {
       "id": "CA14XAF3U",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca14xaf3u.jpg",
@@ -9000,11 +8582,7 @@
     {
       "id": "CA2X",
       "item_tag": "40% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca2x.jpg",
@@ -9034,11 +8612,7 @@
     {
       "id": "SGTC1401NK",
       "item_tag": "29% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc1401nk.jpg",
@@ -9068,11 +8642,7 @@
     {
       "id": "IOMMC20",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iommc20.jpg",
@@ -9102,11 +8672,7 @@
     {
       "id": "IRCH14C",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/irch14c.jpg",
@@ -9136,11 +8702,7 @@
     {
       "id": "IFJ2X",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ifj2x.jpg",
@@ -9170,11 +8732,7 @@
     {
       "id": "IFJ14X",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ifj14x.jpg",
@@ -9204,11 +8762,7 @@
     {
       "id": "IOMMC14",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iommc14.jpg",
@@ -9238,11 +8792,7 @@
     {
       "id": "IPCSTC20",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ipcstc20.jpg",
@@ -9272,11 +8822,7 @@
     {
       "id": "SGTC1401CA",
       "item_tag": "29% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc1401ca.jpg",
@@ -9306,11 +8852,7 @@
     {
       "id": "IFJGF14X",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ifjgf14x.jpg",
@@ -9340,11 +8882,7 @@
     {
       "id": "CA2XAF3UA",
       "item_tag": "35% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca2xaf3ua.jpg",
@@ -9374,11 +8912,7 @@
     {
       "id": "CA2XAK",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca2xak.jpg",
@@ -9408,11 +8942,7 @@
     {
       "id": "KN14XEOS",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kn14xeos.jpg",
@@ -9442,11 +8972,7 @@
     {
       "id": "CA14XAF3UA",
       "item_tag": "35% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ca14xaf3ua.jpg",
@@ -9476,11 +9002,7 @@
     {
       "id": "SGTC2001NK",
       "item_tag": "37% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc2001nk.jpg",
@@ -9510,11 +9032,7 @@
     {
       "id": "SGTC2001CA",
       "item_tag": "37% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc2001ca.jpg",
@@ -9544,11 +9062,7 @@
     {
       "id": "SGTC20L",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc20l.jpg",
@@ -9578,11 +9092,7 @@
     {
       "id": "KNTPHDPRO14C",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kntphdpro14c.jpg",
@@ -9612,11 +9122,7 @@
     {
       "id": "SGTC2001SG",
       "item_tag": "37% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc2001sg.jpg",
@@ -9646,11 +9152,7 @@
     {
       "id": "KNTPHDPRO20N",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kntphdpro20n.jpg",
@@ -9680,11 +9182,7 @@
     {
       "id": "KNTPHDPRO20C",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kntphdpro20c.jpg",
@@ -9714,11 +9212,7 @@
     {
       "id": "SGTC14L",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc14l.jpg",
@@ -9748,11 +9242,7 @@
     {
       "id": "IPCTC20",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ipctc20.jpg",
@@ -9782,11 +9272,7 @@
     {
       "id": "FDEOS2XAFTEL",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/fdeos2xaftel.jpg",
@@ -9816,11 +9302,7 @@
     {
       "id": "VTRCAF2X",
       "item_tag": "36% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/vtrcaf2x.jpg",
@@ -9850,11 +9332,7 @@
     {
       "id": "BOWSX504",
       "item_tag": "$34 Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/bowsx504.jpg",
@@ -9883,11 +9361,7 @@
     {
       "id": "KNTPHDPRO14N",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kntphdpro14n.jpg",
@@ -9917,11 +9391,7 @@
     {
       "id": "SGTC1401SG",
       "item_tag": "29% Off",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/sgtc1401sg.jpg",
@@ -9951,11 +9421,7 @@
     {
       "id": "VWVZ2XE",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/vwvz2xe.jpg",
@@ -9985,11 +9451,7 @@
     {
       "id": "VWVZ2XE2",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/vwvz2xe2.jpg",
@@ -10019,11 +9481,7 @@
     {
       "id": "NKZTC14",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/nkztc14.jpg",
@@ -10053,11 +9511,7 @@
     {
       "id": "NKTC14E3U",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/nktc14e3u.jpg",
@@ -10087,11 +9541,7 @@
     {
       "id": "NKZTC20",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/nkztc20.jpg",
@@ -10121,11 +9571,7 @@
     {
       "id": "ISO20TCE",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iso20tce.jpg",
@@ -10155,11 +9601,7 @@
     {
       "id": "ISO20TCEA",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iso20tcea.jpg",
@@ -10189,11 +9631,7 @@
     {
       "id": "ISO20TCEB",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/iso20tceb.jpg",
@@ -10223,11 +9661,7 @@
     {
       "id": "IPCSTC14",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/ipcstc14.jpg",
@@ -10257,11 +9691,7 @@
     {
       "id": "KN2XEOS",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/kn2xeos.jpg",
@@ -10291,11 +9721,7 @@
     {
       "id": "VTREF14X",
       "item_tag": "",
-      "search_queries": [
-        "teleconverters",
-        "teleconverters",
-        "accessories"
-      ],
+      "search_queries": ["teleconverters", "teleconverters", "accessories"],
       "category": "teleconverters",
       "api_key": "Teleconverters",
       "productImage_src": "https://www.adorama.com/images/product/vtref14x.jpg",
@@ -10327,11 +9753,7 @@
     {
       "id": "IFJLHXF1814",
       "productImage_src": "https://www.adorama.com/images/product/ifjlhxf1814.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
 
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
@@ -10357,11 +9779,7 @@
     {
       "id": "PROLH77",
       "productImage_src": "https://www.adorama.com/images/product/prolh77.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
 
@@ -10386,11 +9804,7 @@
     {
       "id": "BW49LHM",
       "productImage_src": "https://www.adorama.com/images/product/bw49lhm.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
 
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
@@ -10416,11 +9830,7 @@
     {
       "id": "FLSSL1",
       "productImage_src": "https://www.adorama.com/images/product/flssl1.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
 
@@ -10445,11 +9855,7 @@
     {
       "id": "IFJLHXF16",
       "productImage_src": "https://www.adorama.com/images/product/ifjlhxf16.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
 
@@ -10474,11 +9880,7 @@
     {
       "id": "PROLH67",
       "productImage_src": "https://www.adorama.com/images/product/prolh67.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "ProOPTIC 67mm Wide Angle Digital Lens Hood, Petal Shaped",
@@ -10502,11 +9904,7 @@
     {
       "id": "TMLH2875D3R",
       "productImage_src": "https://www.adorama.com/images/product/tmlh2875d3r.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
 
@@ -10531,11 +9929,7 @@
     {
       "id": "IPC1ZE4Z260Z",
       "productImage_src": "https://www.adorama.com/images/product/ipc1ze4z260z.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Panasonic 1ZE4Z260Z Replacement Lens Hood for DCGH5LK & HES12060 Products",
@@ -10559,11 +9953,7 @@
     {
       "id": "IFJLHXF23",
       "productImage_src": "https://www.adorama.com/images/product/ifjlhxf23.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Fujifilm LH-XF23 Hood for XF 23mm f/1.4 R Lens",
@@ -10587,11 +9977,7 @@
     {
       "id": "PROLH82",
       "productImage_src": "https://www.adorama.com/images/product/prolh82.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "ProOPTIC 82mm Wide Angle Digital Lens Hood, Petal Shaped",
@@ -10615,11 +10001,7 @@
     {
       "id": "IFJLHXF35",
       "productImage_src": "https://www.adorama.com/images/product/ifjlhxf35.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Fujifilm LH-XF35-2 Hood for XF 35mm f/2 R Lens - Black",
@@ -10643,11 +10025,7 @@
     {
       "id": "CAET77",
       "productImage_src": "https://www.adorama.com/images/product/caet77.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Canon ET-77 Lens Hood",
@@ -10671,11 +10049,7 @@
     {
       "id": "ISOALCSH158",
       "productImage_src": "https://www.adorama.com/images/product/isoalcsh158.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Sony ALC-SH158 Hood for FE 600mm f/4 GM OSS Lens",
@@ -10699,11 +10073,7 @@
     {
       "id": "IFJLHXF27",
       "productImage_src": "https://www.adorama.com/images/product/ifjlhxf27.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Fujifilm LH-XF27 Lens Hood for XF 27mm f/2.8 Lens",
@@ -10727,11 +10097,7 @@
     {
       "id": "BW72LHW",
       "productImage_src": "https://www.adorama.com/images/product/bw72lhw.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "B + W 72mm #970 Aluminum Lens Hood for Wide Angle Lenses",
@@ -10755,11 +10121,7 @@
     {
       "id": "NKHN1",
       "productImage_src": "https://www.adorama.com/images/product/nkhn1.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Nikon HN-1 Screw-on Hood",
@@ -10783,11 +10145,7 @@
     {
       "id": "IFJLHXF232",
       "productImage_src": "https://www.adorama.com/images/product/ifjlhxf232.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
 
@@ -10812,11 +10170,7 @@
     {
       "id": "CAET83",
       "productImage_src": "https://www.adorama.com/images/product/caet83.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Canon Lens Hood ET-83 f/EF 85mm F1.4L IS USM",
@@ -10840,11 +10194,7 @@
     {
       "id": "TMLH1728D3R",
       "productImage_src": "https://www.adorama.com/images/product/tmlh1728d3r.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Tamron Lens Hood for 17-28mm f/2.8 Di III RXD Lens",
@@ -10868,11 +10218,7 @@
     {
       "id": "SGLHLH914011",
       "productImage_src": "https://www.adorama.com/images/product/sglhlh914011.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Sigma Lens Hood for 70-200mm f/2.8 DG OS HSM Sports Telephoto Zoom Lens (#590)",
@@ -10896,11 +10242,7 @@
     {
       "id": "ISOALCSH112",
       "productImage_src": "https://www.adorama.com/images/product/isoalcsh112.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Sony ALC-SH112 Hood for E 18-55mm f/3.5-5.6 OSS, 35mm f/1.8 OSS&FE 28mm f/2 Lens",
@@ -10924,11 +10266,7 @@
     {
       "id": "FLSA001",
       "productImage_src": "https://www.adorama.com/images/product/flsa001.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Flex Lens Shade, Adjustable for Any SLR Lens",
@@ -10952,11 +10290,7 @@
     {
       "id": "SGLHATA900",
       "productImage_src": "https://www.adorama.com/images/product/sglhata900.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Sigma Lens Hood for Sigma 56mm f/1.4 DC DN Contemporary Lens (#351)",
@@ -10980,11 +10314,7 @@
     {
       "id": "NKHK42",
       "productImage_src": "https://www.adorama.com/images/product/nkhk42.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Nikon HK-42 Lens Hood for NIKKOR Z 400mm f/2.8 TC VR S Lens",
@@ -11008,11 +10338,7 @@
     {
       "id": "CAET83FW3",
       "productImage_src": "https://www.adorama.com/images/product/caet83fw3.jpg",
-      "search_queries": [
-        "lens hood",
-        "hoods",
-        "lens hoods"
-      ],
+      "search_queries": ["lens hood", "hoods", "lens hoods"],
       "category": "Lens Hoods",
       "api_key": "Lens-Hoods",
       "trackEvent_2": "Canon ET-83-FWIII Lens Hood for RF f/70-200mm f/2.8 IS USM",
@@ -11038,12 +10364,7 @@
     {
       "id": "NKLC55A",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/nklc55a.jpg",
@@ -11063,12 +10384,7 @@
     {
       "id": "IRCGN2BK",
       "item_tag": "",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ircgn2bk.jpg",
@@ -11088,12 +10404,7 @@
     {
       "id": "PPDFNDR7782",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ppdfndr7782.jpg",
@@ -11113,12 +10424,7 @@
     {
       "id": "NKLC30028",
       "item_tag": "30% Off",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/nklc30028.jpg",
@@ -11138,12 +10444,7 @@
     {
       "id": "IRCGN2DG",
       "item_tag": "",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ircgn2dg.jpg",
@@ -11163,12 +10464,7 @@
     {
       "id": "NKLC52",
       "item_tag": "Closeout",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/nklc52.jpg",
@@ -11188,12 +10484,7 @@
     {
       "id": "IFJLC67",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ifjlc67.jpg",
@@ -11213,12 +10504,7 @@
     {
       "id": "IFJCRLX",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "productImage_src": "https://www.adorama.com/images/product/ifjcrlx.jpg",
       "trackEvent_2": "Fujifilm Rear Lens Cap for X-Mount Lenses",
@@ -11237,12 +10523,7 @@
     {
       "id": "PROCLF55",
       "item_tag": "Adorama Exclusive",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/proclf55.jpg",
@@ -11262,12 +10543,7 @@
     {
       "id": "IRCGN2BR",
       "item_tag": "",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ircgn2br.jpg",
@@ -11287,12 +10563,7 @@
     {
       "id": "ISOALCF55S",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/isoalcf55s.jpg",
@@ -11312,12 +10583,7 @@
     {
       "id": "ISOALCF67S",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/isoalcf67s.jpg",
@@ -11337,12 +10603,7 @@
     {
       "id": "PPDFNDR95",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ppdfndr95.jpg",
@@ -11362,12 +10623,7 @@
     {
       "id": "PROCLF52",
       "item_tag": "Adorama Exclusive",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/proclf52.jpg",
@@ -11387,12 +10643,7 @@
     {
       "id": "SGFC82",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
 
       "category": "lens caps",
       "api_key": "Lens-Caps",
@@ -11413,12 +10664,7 @@
     {
       "id": "LCLCADL",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/lclcadl.jpg",
@@ -11438,12 +10684,7 @@
     {
       "id": "CALCE672",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/calce672.jpg",
@@ -11463,12 +10704,7 @@
     {
       "id": "PPDFNDR6772",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/ppdfndr6772.jpg",
@@ -11488,12 +10724,7 @@
     {
       "id": "PROCLF77",
       "item_tag": "Adorama Exclusive",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/proclf77.jpg",
@@ -11513,12 +10744,7 @@
     {
       "id": "CALC522",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
 
       "category": "lens caps",
       "api_key": "Lens-Caps",
@@ -11540,12 +10766,7 @@
     {
       "id": "OTHHXXXLNT",
       "item_tag": "$14 Off",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/othhxxxlnt.jpg",
@@ -11565,12 +10786,7 @@
     {
       "id": "ISOALCF72S",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/isoalcf72s.jpg",
@@ -11590,12 +10806,7 @@
     {
       "id": "ISOALCR1EM",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/isoalcr1em.jpg",
@@ -11615,12 +10826,7 @@
     {
       "id": "PXLC67",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/pxlc67.jpg",
@@ -11640,12 +10846,7 @@
     {
       "id": "PROCLMS77",
       "item_tag": "Adorama Exclusive",
-      "search_queries": [
-        "camera caps",
-        "camera cap",
-        "cap",
-        "caps"
-      ],
+      "search_queries": ["camera caps", "camera cap", "cap", "caps"],
       "category": "lens caps",
       "api_key": "Lens-Caps",
       "productImage_src": "https://www.adorama.com/images/product/proclms77.jpg",
@@ -13796,11 +12997,7 @@
     {
       "id": "PP8225269ED2",
       "item_tag": "Kit Savings",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp8225269ed2.jpg",
@@ -13832,11 +13029,7 @@
     {
       "id": "PP8225VNDED2",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp8225vnded2.jpg",
@@ -13868,11 +13061,7 @@
     {
       "id": "PP8269VNDED2",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp8269vnded2.jpg",
@@ -13904,11 +13093,7 @@
     {
       "id": "PP6725VNDED2",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp6725vnded2.jpg",
@@ -13940,11 +13125,7 @@
     {
       "id": "SR3589",
       "item_tag": "",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/sr3589.jpg",
@@ -13976,11 +13157,7 @@
     {
       "id": "FCU4X5ND21",
       "item_tag": "$334 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/fcu4x5nd21.jpg",
@@ -14012,11 +13189,7 @@
     {
       "id": "BTX3ND1082",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/btx3nd1082.jpg",
@@ -14048,11 +13221,7 @@
     {
       "id": "IANIRTCVND82",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/ianirtcvnd82.jpg",
@@ -14084,11 +13253,7 @@
     {
       "id": "HYFRNC77",
       "item_tag": "$64 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/hyfrnc77.jpg",
@@ -14120,11 +13285,7 @@
     {
       "id": "PP7725769ED2",
       "item_tag": "Kit Savings",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp7725769ed2.jpg",
@@ -14156,11 +13317,7 @@
     {
       "id": "KF011619",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/kf011619.jpg",
@@ -14192,11 +13349,7 @@
     {
       "id": "HYFRNC49",
       "item_tag": "$64 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/hyfrnc49.jpg",
@@ -14228,11 +13381,7 @@
     {
       "id": "FCU4X5ND03",
       "item_tag": "$334 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/fcu4x5nd03.jpg",
@@ -14264,11 +13413,7 @@
     {
       "id": "FCU100ND48",
       "item_tag": "$110 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/fcu100nd48.jpg",
@@ -14300,11 +13445,7 @@
     {
       "id": "IANND152782",
       "item_tag": "Closeout",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/iannd152782.jpg",
@@ -14336,11 +13477,7 @@
     {
       "id": "TF44ND12",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/tf44nd12.jpg",
@@ -14372,11 +13509,7 @@
     {
       "id": "HTFCU1LNDGH6",
       "item_tag": "$129 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/htfcu1lndgh6.jpg",
@@ -14408,11 +13541,7 @@
     {
       "id": "PP7769VNDED2",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp7769vnded2.jpg",
@@ -14444,11 +13573,7 @@
     {
       "id": "FCU100LNDR09",
       "item_tag": "$140 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/fcu100lndr09.jpg",
@@ -14480,11 +13605,7 @@
     {
       "id": "BTX3ND1077",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/btx3nd1077.jpg",
@@ -14516,11 +13637,7 @@
     {
       "id": "MO600048",
       "item_tag": "30% Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/mo600048.jpg",
@@ -14552,11 +13669,7 @@
     {
       "id": "SIGNDS06",
       "item_tag": "$120 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/signds06.jpg",
@@ -14588,11 +13701,7 @@
     {
       "id": "HYFRNC82",
       "item_tag": "$79 Off",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/hyfrnc82.jpg",
@@ -14624,11 +13733,7 @@
     {
       "id": "PP7725VNDED2",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/pp7725vnded2.jpg",
@@ -14660,11 +13765,7 @@
     {
       "id": "LEBSND",
       "item_tag": "Top Rated Gear",
-      "search_query_2": [
-        "neutral density filters",
-        "filters",
-        "lens filters"
-      ],
+      "search_query_2": ["neutral density filters", "filters", "lens filters"],
       "category": "neutral density filters",
       "api_key": "Neutral-Density-Filters",
       "productImage_src": "https://www.adorama.com/images/product/lebsnd.jpg",
@@ -14698,12 +13799,7 @@
     {
       "id": "HY82UVNXTPCP",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvnxtpcp.jpg",
@@ -14733,12 +13829,7 @@
     {
       "id": "HY95UV",
       "item_tag": "54% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy95uv.jpg",
@@ -14768,12 +13859,7 @@
     {
       "id": "HY62UVHD3",
       "item_tag": "33% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy62uvhd3.jpg",
@@ -14803,12 +13889,7 @@
     {
       "id": "HY82UVNXTP",
       "item_tag": "28% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvnxtp.jpg",
@@ -14838,12 +13919,7 @@
     {
       "id": "TF77UVW",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/tf77uvw.jpg",
@@ -14873,12 +13949,7 @@
     {
       "id": "HY77UVNXTP",
       "item_tag": "33% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy77uvnxtp.jpg",
@@ -14908,12 +13979,7 @@
     {
       "id": "BW72TP10MF",
       "item_tag": "",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw72tp10mf.jpg",
@@ -14943,12 +14009,7 @@
     {
       "id": "BW82M10MRC",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw82m10mrc.jpg",
@@ -14978,12 +14039,7 @@
     {
       "id": "HY82UVAST",
       "item_tag": "34% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvast.jpg",
@@ -15013,12 +14069,7 @@
     {
       "id": "HY77UVNXTPCP",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy77uvnxtpcp.jpg",
@@ -15048,12 +14099,7 @@
     {
       "id": "IFJ49SP",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/ifj49sp.jpg",
@@ -15083,12 +14129,7 @@
     {
       "id": "BW112M10MRC",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw112m10mrc.jpg",
@@ -15118,12 +14159,7 @@
     {
       "id": "IFJ49BP",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/ifj49bp.jpg",
@@ -15153,12 +14189,7 @@
     {
       "id": "HY62UVNXTP",
       "item_tag": "33% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy62uvnxtp.jpg",
@@ -15188,12 +14219,7 @@
     {
       "id": "BW82CM",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw82cm.jpg",
@@ -15223,12 +14249,7 @@
     {
       "id": "HY82UVHD3",
       "item_tag": "33% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvhd3.jpg",
@@ -15258,12 +14279,7 @@
     {
       "id": "BW43B10MRC",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw43b10mrc.jpg",
@@ -15293,12 +14309,7 @@
     {
       "id": "BW82TP10MF",
       "item_tag": "",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw82tp10mf.jpg",
@@ -15328,12 +14339,7 @@
     {
       "id": "HY72UVAST",
       "item_tag": "46% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy72uvast.jpg",
@@ -15363,12 +14369,7 @@
     {
       "id": "HY67UVAST",
       "item_tag": "38% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/hy67uvast.jpg",
@@ -15398,12 +14399,7 @@
     {
       "id": "BW72B10MRC",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw72b10mrc.jpg",
@@ -15433,12 +14429,7 @@
     {
       "id": "BW112CUVM",
       "item_tag": "Closeout",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw112cuvm.jpg",
@@ -15468,12 +14459,7 @@
     {
       "id": "NK82C",
       "item_tag": "31% Off",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/nk82c.jpg",
@@ -15503,12 +14489,7 @@
     {
       "id": "BW46UV",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw46uv.jpg",
@@ -15538,12 +14519,7 @@
     {
       "id": "BW77M10MRC",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "uv",
-        "protective",
-        "skylight",
-        "filters"
-      ],
+      "search_queries": ["uv", "protective", "skylight", "filters"],
       "category": "protective filters uv and clear",
       "api_key": "Protective-Filters-UV-and-Clear",
       "productImage_src": "https://www.adorama.com/images/product/bw77m10mrc.jpg",
@@ -15575,10 +14551,7 @@
     {
       "id": "HY95UV",
       "item_tag": "54% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy95uv.jpg",
@@ -15611,10 +14584,7 @@
     {
       "id": "HY62UVHD3",
       "item_tag": "33% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy62uvhd3.jpg",
@@ -15645,10 +14615,7 @@
     {
       "id": "HY82UVNXTP",
       "item_tag": "28% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvnxtp.jpg",
@@ -15679,10 +14646,7 @@
     {
       "id": "TF77UVW",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/tf77uvw.jpg",
@@ -15713,10 +14677,7 @@
     {
       "id": "HY77UVNXTP",
       "item_tag": "33% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy77uvnxtp.jpg",
@@ -15747,10 +14708,7 @@
     {
       "id": "BW72TP10MF",
       "item_tag": "",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw72tp10mf.jpg",
@@ -15781,10 +14739,7 @@
     {
       "id": "BW82M10MRC",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw82m10mrc.jpg",
@@ -15815,10 +14770,7 @@
     {
       "id": "HY82UVAST",
       "item_tag": "34% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvast.jpg",
@@ -15849,10 +14801,7 @@
     {
       "id": "HY77UVNXTPCP",
       "item_tag": "Kit Savings",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy77uvnxtpcp.jpg",
@@ -15883,10 +14832,7 @@
     {
       "id": "IFJ49SP",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/ifj49sp.jpg",
@@ -15917,10 +14863,7 @@
     {
       "id": "BW112M10MRC",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw112m10mrc.jpg",
@@ -15951,10 +14894,7 @@
     {
       "id": "IFJ49BP",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/ifj49bp.jpg",
@@ -15985,10 +14925,7 @@
     {
       "id": "HY62UVNXTP",
       "item_tag": "33% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy62uvnxtp.jpg",
@@ -16019,10 +14956,7 @@
     {
       "id": "BW82CM",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw82cm.jpg",
@@ -16053,10 +14987,7 @@
     {
       "id": "HY82UVHD3",
       "item_tag": "33% Off",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/hy82uvhd3.jpg",
@@ -16087,10 +15018,7 @@
     {
       "id": "BW43B10MRC",
       "item_tag": "Top Rated Gear",
-      "search_queries": [
-        "Printique",
-        "custom photo"
-      ],
+      "search_queries": ["Printique", "custom photo"],
       "category": "custom photo products",
       "api_key": "Custom-Photo-Products",
       "productImage_src": "https://www.adorama.com/images/product/bw43b10mrc.jpg",

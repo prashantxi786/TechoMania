@@ -8,11 +8,15 @@ const PrivateRoute = ({ children }) => {
 
   if (isLoggedIn) {
     if (isAdmin) {
-      setTimeout(() => navigate('/admin'), 2000);
-      // return <Navigate to='/admin' />;
+      // setTimeout(() => navigate('/admin'), 2000);
+      return <Navigate to='/admin' />;
+    //  return navigate('/admin')
+  
     } else {
-      setTimeout(() => navigate('/'), 2000);
-      // return <Navigate to='/' />;
+      // setTimeout(() => navigate('/'), 2000);
+      return <Navigate to='/' />;
+    //  return navigate('/')
+
     }
   }
   return children;
