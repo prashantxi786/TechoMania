@@ -8,7 +8,9 @@ import {
 import { auth } from '../../firebase';
 
 export const getUsersAPI = async () => {
-  let response = await axios.get('http://localhost:8080/admins');
+  let response = await axios.get(
+    'https://techomania-mock-server.onrender.com/admins'
+  );
   return response.data;
 };
 
@@ -31,9 +33,14 @@ export const updateProfileAPI = async (user, firstName, lastName) => {
 };
 
 export const addCurrentUserAPI = async (currentUser) => {
-  return await axios.post(`http://localhost:8080/users`, currentUser);
+  return await axios.post(
+    `https://techomania-mock-server.onrender.com/users`,
+    currentUser
+  );
 };
 
 export const deleteCurrentUserAPI = async (email) => {
-  return await axios.delete(`http://localhost:8080/users/${email}`);
+  return await axios.delete(
+    `https://techomania-mock-server.onrender.com/users/${email}`
+  );
 };
