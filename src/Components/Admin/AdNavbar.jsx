@@ -49,10 +49,16 @@ const LinkItems = [
   { name: "Settings", to: "/admin/settings", icon: FiSettings },
 ];
 
+const activeUser = JSON.parse(localStorage.getItem("user"));
+
 export default function AdminPanel() {
   const { isOpen, onOpen, onClose } = useDisclosure();
   return (
-    <Box minH="100vh" bg={useColorModeValue("gray.100", "gray.900")}>
+    <Box
+      minH="100vh"
+      bg={useColorModeValue("#171923", "gray.900")}
+      color="#b8b7b7"
+    >
       <SidebarContent
         onClose={() => onClose}
         display={{ base: "none", md: "block" }}
@@ -83,12 +89,13 @@ const SidebarContent = ({ onClose, ...rest }) => {
   return (
     <Box
       transition="1s ease"
-      bg={useColorModeValue("white", "gray.900")}
+      bg={useColorModeValue("#171923", "#171923")}
       borderRight="1px"
       borderRightColor={useColorModeValue("gray.200", "gray.700")}
       w={{ base: "full", md: 60 }}
       pos="fixed"
       h="full"
+      color="white"
       {...rest}
     >
       <Flex h="20" alignItems="center" mx="8" justifyContent="space-between">
@@ -112,8 +119,11 @@ const NavItem = ({ icon, to, children, ...rest }) => {
   return (
     <Link
       to={to}
+      color="#b8b7b7"
+              bg="#171923"
       style={{ textDecoration: "none" }}
       _focus={{ boxShadow: "none" }}
+
     >
       <Flex
         align="center"
@@ -151,7 +161,7 @@ const MobileNav = ({ onOpen, ...rest }) => {
       px={{ base: 4, md: 4 }}
       height="20"
       alignItems="center"
-      bg={useColorModeValue("white", "gray.900")}
+      bg={useColorModeValue("#171923", "#171923")}
       borderBottomWidth="1px"
       borderBottomColor={useColorModeValue("gray.200", "gray.700")}
       justifyContent={{ base: "space-between", md: "flex-end" }}
@@ -174,7 +184,7 @@ const MobileNav = ({ onOpen, ...rest }) => {
         Logo
       </Text>
 
-      <HStack spacing={{ base: "0", md: "6" }}>
+      <HStack spacing={{ base: "0", md: "6" }} >
         <IconButton
           size="lg"
           variant="ghost"
@@ -192,7 +202,7 @@ const MobileNav = ({ onOpen, ...rest }) => {
                 <Avatar
                   size={"sm"}
                   src={
-                    "https://images.unsplash.com/photo-1619946794135-5bc917a27793?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=b616b2c5b373a80ffc9636ba24f7a4a9"
+                    "https://e7.pngegg.com/pngimages/106/598/png-clipart-logo-crown-king-crown-king-logo-thumbnail.png"
                   }
                 />
                 <VStack
@@ -201,7 +211,7 @@ const MobileNav = ({ onOpen, ...rest }) => {
                   spacing="1px"
                   ml="2"
                 >
-                  <Text fontSize="sm">Justina Clark</Text>
+                  <Text fontSize="sm">{activeUser.firstName}</Text>
                   <Text fontSize="xs" color="gray.600">
                     Admin
                   </Text>
@@ -219,7 +229,7 @@ const MobileNav = ({ onOpen, ...rest }) => {
               <MenuItem>Settings</MenuItem>
               <MenuItem>Billing</MenuItem>
               <MenuDivider />
-              <MenuItem>Sign out</MenuItem>
+              <MenuItem >Sign out</MenuItem>
             </MenuList>
           </Menu>
         </Flex>

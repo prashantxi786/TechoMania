@@ -1,5 +1,7 @@
-.Ad_Products_Container{
+.Ad_Products_Container {
   /* border: 5px solid blue; */
+  color: #b8b7b7;
+  background-color: #171923;
 }
 .Ad_Products_Navbar_Container {
   position: relative;
@@ -11,7 +13,9 @@
   background-color: #0e101a;
   padding: 0px 10px;
   border-radius: 10px;
-
+}
+.Ad_Products_Navbar_Container button{
+  background-color: #171923;
 }
 .Ad_Products_Navbar_Container > div:nth-child(1) {
   font-size: 20px;
@@ -22,12 +26,12 @@
   justify-content: center;
 }
 .Ad_Products_Navbar_Container > div:nth-child(1) > p {
-    font-size: 25px;
-    color: #cff467;
-    font-weight: 600;
-  }
-  .Ad_Products_Navbar_Container > div:nth-child(1) > p:hover {
-    background: #000;
+  font-size: 25px;
+  color: #cff467;
+  font-weight: 600;
+}
+.Ad_Products_Navbar_Container > div:nth-child(1) > p:hover {
+  background: #000;
 }
 .Ad_Products_Navbar_Container > div:nth-child(2) {
   width: 80%;
@@ -37,11 +41,10 @@
   color: rgb(184, 183, 183);
 }
 
-
 /* THIS IS THE ALL CARD CONTAINER CSS */
-.Ad_Products_Container > :nth-child(2){
-  /* border: 3px solid red; */
+.Ad_Products_Container > :nth-child(2) {
   gap: 20px;
   display: flex;
   flex-direction: column;
 }
+
