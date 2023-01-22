@@ -29,7 +29,7 @@ const Cart = () => {
 
   return (
     <Box>
-      {/* <Navbar /> */}
+      <Navbar />
       <Box w={{ base: '95%', md: '92%' }} m='auto'>
         <NavLink to='/'>
           <Box display='inline-block'>
@@ -194,7 +194,7 @@ const Cart = () => {
           </Box>
         </Stack>
       </Box>
-      {/* <Footer /> */}
+      <Footer />
     </Box>
   );
 };

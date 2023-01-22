@@ -1,6 +1,6 @@
 import './App.css';
 import AllRoutes from './Routes/AllRoutes';
-// import AdminPanel from './Components/Admin/AdNavbar';
+import AdminPanel from './Components/Admin/AdNavbar';
 import Cart from './Pages/Cart';
 
 function App() {
@@ -8,6 +8,8 @@ function App() {
     <div className='App'>
       <AllRoutes />
       {/* <AdminPanel /> */}
+
+
     </div>
   );
 }
