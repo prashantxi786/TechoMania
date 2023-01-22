@@ -7,10 +7,10 @@ import Cart from './Pages/Cart';
 function App() {
   return (
     <div className='App'>
-      {/* <AllRoutes /> */}
+      <AllRoutes />
       {/* <AdminPanel /> */}
       {/* <AdProducts_Loading/> */}
-      <AllRoutes />
+      {/* <AllRoutes /> */}
       {/* <AdminPanel /> */}
 
 
