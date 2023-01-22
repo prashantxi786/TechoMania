@@ -8,6 +8,9 @@
   border-radius: 10px;
   padding: 0 10px;
 }
+.Ad_Products_Card_Container  button{
+  background-color: #171923;
+}
 
 .Ad_Products_Card_Container > :nth-child(1) {
   width: 70px;
