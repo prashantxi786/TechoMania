@@ -105,6 +105,7 @@ const AdProducts_Card = ({ id, title, price, imageSrc, category, apikey }) => {
             isTruncated
             onDoubleClick={() => handleEdit("title", "trackEvent_2")}
             display={hideInputBox ? "none" : "block"}
+            
           >
             Title: {title}
           </Text>
