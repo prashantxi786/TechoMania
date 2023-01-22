@@ -14,8 +14,11 @@ import {
   AUTH_LOGOUT,
   AUTH_SIGNUP_LOADING,
   AUTH_SIGNUP_ERROR,
-  AUTH_SIGNUP_SUCCESS
+  AUTH_SIGNUP_SUCCESS,
+  AUTH_ADMIN_LOGOUT
 } from './auth.type';
+
+let currentUser = JSON.parse(localStorage.getItem('user'));
 
 export const login = (email, password) => async (dispatch) => {
   dispatch({ type: AUTH_LOGIN_LOADING });
@@ -45,11 +48,15 @@ export const login = (email, password) => async (dispatch) => {
   }
 };
 
-export const logout = () =>async(dispatch) => {
-  let currentUser = JSON.parse(localStorage.getItem('user'));
+export const logout = () => async (dispatch) => {
   await deleteCurrentUserAPI(currentUser.email);
-  dispatch({ type: AUTH_LOGOUT });
   await handleLogout();
+  dispatch({ type: AUTH_LOGOUT });
+};
+
+export const adminLogout = () => (dispatch) => {
+  let data = { ...currentUser, isAdmin: false };
+  dispatch({ type: AUTH_ADMIN_LOGOUT, payload: data });
 };
 
 export const signup =
