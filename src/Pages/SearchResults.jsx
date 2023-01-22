@@ -11,7 +11,7 @@ const SearchResults = () => {
   const [searchTerm, setSearchTerm] = useState("");
    const [filteredProducts, setFilteredProducts] = useState([]);
   const Api = () => {
-    axios.get(`http://localhost:8080/${category}?q=${value}`).then((res) => {
+    axios.get(`https://techomania-mock-server.onrender.com/${category}?q=${value}`).then((res) => {
         console.log(res.data);
         setProduct(res.data);
         setFilteredProducts(res.data)

@@ -45,11 +45,11 @@ export const login = (email, password) => async (dispatch) => {
   }
 };
 
-export const logout = () => async (dispatch) => {
+export const logout = () =>async(dispatch) => {
   let currentUser = JSON.parse(localStorage.getItem('user'));
   await deleteCurrentUserAPI(currentUser.email);
   dispatch({ type: AUTH_LOGOUT });
-  handleLogout();
+  await handleLogout();
 };
 
 export const signup =
