@@ -77,8 +77,6 @@ const Login = () => {
     // auth.onAuthStateChanged((user) => console.log(user));
   }, [isLoggedIn, error]);
 
-  console.log(state);
-
   return (
     <Box
       h='100vh'
