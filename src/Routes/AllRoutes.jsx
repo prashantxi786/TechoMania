@@ -27,10 +27,10 @@ const AllRoutes = () => {
           </PrivateRoute>
         }
       />
-      <Route path='/products' element={<ProductPage />} />
-      <Route path='/products/:id' element={<SingleProduct />} />
+      <Route path='/products' element={<PrivateRoute><ProductPage /></PrivateRoute>} />
+      <Route path='/products/:id' element={<PrivateRoute><SingleProduct /></PrivateRoute>} />
       <Route path='/' element={<Homepage />} />
-      <Route path='/cart' element={<Cart />} />
+      <Route path='/cart' element={<PrivateRoute><Cart /></PrivateRoute>} />
 
       <Route path='/querypage/:category/:value' element={<SearchResults/>}/>
       <Route path="/products" element={<ProductPage/>}/>

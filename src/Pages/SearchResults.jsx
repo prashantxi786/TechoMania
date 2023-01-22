@@ -1,15 +1,18 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { border } from "@chakra-ui/react";
+import { border ,useToast} from "@chakra-ui/react";
 import {FaGreaterThan} from "react-icons/fa"
 import { Link } from "react-router-dom";
 import Navbar from "../Components/Navbar";
+import { addToCart, getProducts } from '../Redux/MainProducts/products.action';
 import {useParams} from "react-router-dom"
 const SearchResults = () => {
     const {value,category}=useParams()
   const [product, setProduct] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
    const [filteredProducts, setFilteredProducts] = useState([]);
+   const[load,setLoad]=useState(true)
+
   const Api = () => {
     axios.get(`https://techomania-mock-server.onrender.com/${category}?q=${value}`).then((res) => {
         console.log(res.data);
@@ -17,23 +20,40 @@ const SearchResults = () => {
         setFilteredProducts(res.data)
     })
   };
-// cart
-const handleCart = (id) => {
-  alert("Item has been added")
-let y= product.filter((el)=>{
-  return el.id==id
- })
- console.log(y)
+  const toast = useToast();
+  const successID = 'success-toast';
+  const errorID = 'error-toast';
 
-  axios.post(`http://localhost:8080/cart`,{
- image:y[0].productImage_src,
- title:y[0].trackEvent_2
-
-  }).then((res) => {
-    console.log(res.data)
-    
-  })
-}
+  // cart
+  const handleCart = (newItem) => {
+    addToCart(newItem).then((response) => {
+      if (response) {
+        if (!toast.isActive(errorID)) {
+          toast({
+            title: 'Item is already present in the cart.',
+            id: errorID,
+            description: '',
+            position: 'top',
+            status: 'error',
+            duration: 3000,
+            isClosable: false
+          });
+        }
+      } else {
+        if (!toast.isActive(successID)) {
+          toast({
+            title: 'Item has been added to the cart!',
+            id: successID,
+            description: '',
+            position: 'top',
+            status: 'success',
+            duration: 3000,
+            isClosable: false
+          });
+        }
+      }
+    });
+  };
 
 const handleSearch = (event) => {
 

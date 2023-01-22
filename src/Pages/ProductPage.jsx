@@ -14,12 +14,15 @@ import { Image, useToast } from '@chakra-ui/react';
 import { SearchIcon, StarIcon } from '@chakra-ui/icons';
 import { useDispatch, useSelector } from 'react-redux';
 import { addToCart, getProducts } from '../Redux/MainProducts/products.action';
+import Loader from '../Components/loader';
 
 const ProductPage = () => {
   const dispatch = useDispatch();
   const { loading, error, products } = useSelector(
     (store) => store.productsManager
   );
+  const[load,setLoad]=useState(true)
+
   const [product, setProduct] = useState(products);
   const [searchTerm, setSearchTerm] = useState('');
   const toast = useToast();
@@ -73,10 +76,15 @@ const ProductPage = () => {
   };
 
   useEffect(() => {
+    setLoad(true);
     if (!products.length)
       dispatch(getProducts()).then((res) => setProduct(res));
+      setLoad(false)
   }, []);
 
+  if(load){
+    return <Loader/>
+  }
   return (
     <div>
       <Navbar />
