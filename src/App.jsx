@@ -1,15 +1,18 @@
 import './App.css';
 import AllRoutes from './Routes/AllRoutes';
-import Homepage from './Pages/Homepage';
 import AdminPanel from './Components/Admin/AdNavbar';
 import AdProducts_Loading from './Components/Admin/AdComponents/AdProducts_Loading';
+import Cart from './Pages/Cart';
 
 function App() {
   return (
     <div className='App'>
       {/* <AllRoutes /> */}
-      <AdminPanel />
+      {/* <AdminPanel /> */}
       {/* <AdProducts_Loading/> */}
+      <AllRoutes />
+      {/* <AdminPanel /> */}
+
 
     </div>
   );

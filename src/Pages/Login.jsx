@@ -150,7 +150,12 @@ const Login = () => {
             }}
           >
             <Hide below='md'>
-              <Box pos='relative' top={{ base: '0', md: '45vh', xl: '72' }}>
+              <Box
+                align='center'
+                mb={'-100px'}
+                pos='relative'
+                top={{ base: '0', md: '35vh', xl: '30vh' }}
+              >
                 <Text fontSize='xl' letterSpacing='wider'>
                   New Customer?
                 </Text>
@@ -205,9 +210,9 @@ const Login = () => {
             <Hide below='md'>
               <NavLink to='/'>
                 <Image
-                  src='https://i.postimg.cc/ncGjs3gP/Techo-Mania-1.png'
+                  src='https://i.postimg.cc/MKzHs8x0/Techo-Mania-logo.png'
                   alt='logo'
-                  display='inline-block'
+                  display='block'
                   w={{ base: '100px', md: '150px' }}
                   m='auto'
                   pb='4'
@@ -228,7 +233,7 @@ const Login = () => {
                     py='4'
                     mt='2'
                     display='inline-block'
-                    src='https://i.postimg.cc/ncGjs3gP/Techo-Mania-1.png'
+                    src='https://i.postimg.cc/MKzHs8x0/Techo-Mania-logo.png'
                     alt='logo'
                   />
                 </NavLink>

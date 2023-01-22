@@ -146,6 +146,7 @@ const Signup = () => {
           <Box
             w={{ base: '100%', md: '50%' }}
             m='auto'
+            align='center'
             color='white'
             textAlign='center'
             bg={{
@@ -158,7 +159,12 @@ const Signup = () => {
             }}
           >
             <Hide below='md'>
-              <Box pos='relative' top={{ base: '0', md: '45vh', xl: '40vh' }}>
+              <Box
+                align='center'
+                mb='-150px'
+                pos='relative'
+                top={{ base: '0', md: '30vh' }}
+              >
                 <Text fontSize='xl' letterSpacing='wider'>
                   Have an Account?
                 </Text>
@@ -213,7 +219,7 @@ const Signup = () => {
             <Hide below='md'>
               <NavLink to='/'>
                 <Image
-                  src='https://i.postimg.cc/ncGjs3gP/Techo-Mania-1.png'
+                  src='https://i.postimg.cc/MKzHs8x0/Techo-Mania-logo.png'
                   alt='logo'
                   display='inline-block'
                   w={{ base: '100px', md: '150px' }}
@@ -236,7 +242,7 @@ const Signup = () => {
                     py='4'
                     mt='2'
                     display='inline-block'
-                    src='https://i.postimg.cc/ncGjs3gP/Techo-Mania-1.png'
+                    src='https://i.postimg.cc/MKzHs8x0/Techo-Mania-logo.png'
                     alt='logo'
                   />
                 </NavLink>

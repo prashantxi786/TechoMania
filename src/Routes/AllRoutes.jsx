@@ -1,12 +1,12 @@
-import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import PrivateRoute from '../Components/Authentication/PrivateRoute';
 import Homepage from '../Pages/Homepage';
+import Cart from '../Pages/Cart';
 import Login from '../Pages/Login';
 import Signup from '../Pages/Signup';
 import ProductPage from '../Pages/ProductPage';
 import SingleProduct from '../Pages/SingleProductPage';
-
+import SearchResults from '../Pages/SearchResults';
 const AllRoutes = () => {
   return (
     <Routes>
@@ -27,15 +27,18 @@ const AllRoutes = () => {
           </PrivateRoute>
         }
       />
+      <Route path='/products' element={<ProductPage />} />
+      <Route path='/products/:id' element={<SingleProduct />} />
+      <Route path='/' element={<Homepage />} />
+      <Route path='/cart' element={<Cart />} />
 
+      <Route path='/querypage/:category/:value' element={<SearchResults/>}/>
       <Route path="/products" element={<ProductPage/>}/>
-      <Route path="/products/:id" element={<SingleProduct/>}/>
-      {/* <Route path="/signup" element={<Signup/>}/> */}
+      <Route path="/products/:id" element={<SingleProduct/>}/> 
       {/* <Route path="/admin" element={<AdminPanel/>}/> */}
       {/* <Route path="/admin/products" element={<Products/>}/> */}
+      <Route path='*' element='' /> {/*Yet to be added*/}
     </Routes>
   );
 };
-
 export default AllRoutes;
-
